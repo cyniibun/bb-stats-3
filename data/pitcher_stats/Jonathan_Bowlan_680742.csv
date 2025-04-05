@@ -1,0 +1,236 @@
+pitch_type,pitcher,batter,events,description,des,game_year,pitch_name
+SL,680742,807643,single,hit_into_play,Alfredo Alcantara singles on a line drive to right fielder Diego Hernandez. Connor Burns scores. Stuart Fairchild scores.,2025,Slider
+CU,680742,807643,No event,blocked_ball,Alfredo Alcantara singles on a line drive to right fielder Diego Hernandez. Connor Burns scores. Stuart Fairchild scores.,2025,Curveball
+SL,680742,807643,No event,ball,Alfredo Alcantara singles on a line drive to right fielder Diego Hernandez. Connor Burns scores. Stuart Fairchild scores.,2025,Slider
+CU,680742,807643,No event,called_strike,Alfredo Alcantara singles on a line drive to right fielder Diego Hernandez. Connor Burns scores. Stuart Fairchild scores.,2025,Curveball
+FF,680742,656413,double,hit_into_play,Stuart Fairchild doubles (2) on a line drive to right fielder Diego Hernandez. Blake Dunn scores. Connor Burns to 3rd.,2025,4-Seam Fastball
+SL,680742,656413,No event,blocked_ball,Stuart Fairchild doubles (2) on a line drive to right fielder Diego Hernandez. Blake Dunn scores. Connor Burns to 3rd.,2025,Slider
+FF,680742,656413,No event,swinging_strike,Stuart Fairchild doubles (2) on a line drive to right fielder Diego Hernandez. Blake Dunn scores. Connor Burns to 3rd.,2025,4-Seam Fastball
+SL,680742,694829,walk,ball,Connor Burns walks.,2025,Slider
+SL,680742,694829,No event,foul,Connor Burns walks.,2025,Slider
+FF,680742,694829,No event,ball,Connor Burns walks.,2025,4-Seam Fastball
+SL,680742,694829,No event,ball,Connor Burns walks.,2025,Slider
+SL,680742,694829,No event,called_strike,Connor Burns walks.,2025,Slider
+SL,680742,694829,No event,called_strike,Connor Burns walks.,2025,Slider
+FF,680742,694829,No event,ball,Connor Burns walks.,2025,4-Seam Fastball
+FF,680742,694362,double,hit_into_play,Blake Dunn doubles (2) on a sharp line drive to center fielder Erick Torres. Francisco Urbaez scores.,2025,4-Seam Fastball
+FF,680742,694362,No event,ball,Blake Dunn doubles (2) on a sharp line drive to center fielder Erick Torres. Francisco Urbaez scores.,2025,4-Seam Fastball
+SL,680742,694362,No event,foul,Blake Dunn doubles (2) on a sharp line drive to center fielder Erick Torres. Francisco Urbaez scores.,2025,Slider
+SL,680742,694362,No event,called_strike,Blake Dunn doubles (2) on a sharp line drive to center fielder Erick Torres. Francisco Urbaez scores.,2025,Slider
+CH,680742,695490,field_out,hit_into_play,Edwin Arroyo grounds out to first baseman Derlin Figueroa. Francisco Urbaez to 3rd.,2025,Changeup
+FF,680742,695490,No event,ball,Edwin Arroyo grounds out to first baseman Derlin Figueroa. Francisco Urbaez to 3rd.,2025,4-Seam Fastball
+CH,680742,695490,No event,ball,Edwin Arroyo grounds out to first baseman Derlin Figueroa. Francisco Urbaez to 3rd.,2025,Changeup
+FF,680742,695490,No event,foul,Edwin Arroyo grounds out to first baseman Derlin Figueroa. Francisco Urbaez to 3rd.,2025,4-Seam Fastball
+FF,680742,688005,double,hit_into_play,Francisco Urbaez doubles (1) on a fly ball to right fielder Diego Hernandez.,2025,4-Seam Fastball
+CH,680742,687952,field_out,hit_into_play,Christian Encarnacion-Strand pops out to shortstop Dustin Dickerson.,2025,Changeup
+SI,680742,687952,No event,foul,Christian Encarnacion-Strand pops out to shortstop Dustin Dickerson.,2025,Sinker
+SL,680742,687952,No event,ball,Christian Encarnacion-Strand pops out to shortstop Dustin Dickerson.,2025,Slider
+FF,680742,674441,field_out,hit_into_play,"Jacob Hurtubise grounds out, second baseman Nick Loftin to first baseman Jac Caglianone.",2025,4-Seam Fastball
+SL,680742,674441,No event,ball,"Jacob Hurtubise grounds out, second baseman Nick Loftin to first baseman Jac Caglianone.",2025,Slider
+FF,680742,674441,No event,called_strike,"Jacob Hurtubise grounds out, second baseman Nick Loftin to first baseman Jac Caglianone.",2025,4-Seam Fastball
+FF,680742,682829,field_out,hit_into_play,"Elly De La Cruz grounds out, third baseman Harold Castro to first baseman Jac Caglianone.",2025,4-Seam Fastball
+CH,680742,682829,No event,called_strike,"Elly De La Cruz grounds out, third baseman Harold Castro to first baseman Jac Caglianone.",2025,Changeup
+SI,680742,807643,field_out,hit_into_play,"Alfredo Alcantara grounds out, pitcher Jonathan Bowlan to first baseman Jac Caglianone.",2025,Sinker
+FF,680742,668853,strikeout,swinging_strike,Austin Shenton strikes out swinging.,2025,4-Seam Fastball
+CH,680742,668853,No event,foul,Austin Shenton strikes out swinging.,2025,Changeup
+CH,680742,668853,No event,ball,Austin Shenton strikes out swinging.,2025,Changeup
+SL,680742,668853,No event,foul,Austin Shenton strikes out swinging.,2025,Slider
+SL,680742,682988,strikeout,swinging_strike,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,Slider
+SI,680742,682988,No event,ball,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,Sinker
+SL,680742,682988,No event,foul,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,Slider
+SL,680742,682988,No event,ball,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,Slider
+FF,680742,682988,No event,ball,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,4-Seam Fastball
+CH,680742,682988,No event,foul,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,Changeup
+SI,680742,682988,No event,foul,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,Sinker
+SI,680742,682988,No event,swinging_strike,Tyler Locklear strikes out swinging. Ben Williamson steals (1) 2nd base.,2025,Sinker
+SI,680742,810938,single,hit_into_play,Ben Williamson singles on a line drive to right fielder Diego Hernandez.,2025,Sinker
+CH,680742,810938,No event,foul,Ben Williamson singles on a line drive to right fielder Diego Hernandez.,2025,Changeup
+SL,680742,810938,No event,ball,Ben Williamson singles on a line drive to right fielder Diego Hernandez.,2025,Slider
+SL,680742,810938,No event,swinging_strike,Ben Williamson singles on a line drive to right fielder Diego Hernandez.,2025,Slider
+SL,680742,810938,No event,ball,Ben Williamson singles on a line drive to right fielder Diego Hernandez.,2025,Slider
+SI,680742,810938,No event,called_strike,Ben Williamson singles on a line drive to right fielder Diego Hernandez.,2025,Sinker
+FF,680742,810938,No event,ball,Ben Williamson singles on a line drive to right fielder Diego Hernandez.,2025,4-Seam Fastball
+CH,680742,686527,field_out,hit_into_play,Dominic Canzone lines out to third baseman Tyler Tolbert.,2025,Changeup
+FF,680742,686527,No event,foul,Dominic Canzone lines out to third baseman Tyler Tolbert.,2025,4-Seam Fastball
+FF,680742,663728,strikeout,swinging_strike,Cal Raleigh strikes out swinging.,2025,4-Seam Fastball
+SI,680742,663728,No event,foul,Cal Raleigh strikes out swinging.,2025,Sinker
+FF,680742,663728,No event,ball,Cal Raleigh strikes out swinging.,2025,4-Seam Fastball
+FF,680742,663728,No event,swinging_strike,Cal Raleigh strikes out swinging.,2025,4-Seam Fastball
+FF,680742,663728,No event,foul,Cal Raleigh strikes out swinging.,2025,4-Seam Fastball
+SL,680742,669392,field_out,hit_into_play,"Samad Taylor grounds out, catcher Brian O'Keefe to first baseman Stone Russell.",2025,Slider
+SL,680742,669392,No event,foul,"Samad Taylor grounds out, catcher Brian O'Keefe to first baseman Stone Russell.",2025,Slider
+SI,680742,669392,No event,ball,"Samad Taylor grounds out, catcher Brian O'Keefe to first baseman Stone Russell.",2025,Sinker
+CH,680742,694497,field_out,hit_into_play,"Evan Carter grounds out, pitcher Jonathan Bowlan to first baseman Brett Squires.",2025,Changeup
+CH,680742,694497,No event,blocked_ball,"Evan Carter grounds out, pitcher Jonathan Bowlan to first baseman Brett Squires.",2025,Changeup
+CU,680742,694497,No event,called_strike,"Evan Carter grounds out, pitcher Jonathan Bowlan to first baseman Brett Squires.",2025,Curveball
+FF,680742,543309,single,hit_into_play,Kyle Higashioka singles on a line drive to left fielder Tyler Gentry. Kevin Pillar to 2nd.,2025,4-Seam Fastball
+SL,680742,543309,No event,called_strike,Kyle Higashioka singles on a line drive to left fielder Tyler Gentry. Kevin Pillar to 2nd.,2025,Slider
+SL,680742,543309,No event,swinging_strike,Kyle Higashioka singles on a line drive to left fielder Tyler Gentry. Kevin Pillar to 2nd.,2025,Slider
+SI,680742,543309,No event,ball,Kyle Higashioka singles on a line drive to left fielder Tyler Gentry. Kevin Pillar to 2nd.,2025,Sinker
+SL,680742,607680,walk,ball,Kevin Pillar walks.,2025,Slider
+FF,680742,607680,No event,ball,Kevin Pillar walks.,2025,4-Seam Fastball
+CH,680742,607680,No event,foul,Kevin Pillar walks.,2025,Changeup
+SI,680742,607680,No event,ball,Kevin Pillar walks.,2025,Sinker
+SL,680742,607680,No event,ball,Kevin Pillar walks.,2025,Slider
+SL,680742,607680,No event,swinging_strike,Kevin Pillar walks.,2025,Slider
+SL,680742,607680,No event,called_strike,Kevin Pillar walks.,2025,Slider
+SL,680742,669394,field_out,hit_into_play,Jake Burger pops out to second baseman Stone Russell.,2025,Slider
+FF,680742,669394,No event,foul,Jake Burger pops out to second baseman Stone Russell.,2025,4-Seam Fastball
+SI,680742,673962,field_out,hit_into_play,"Josh Jung grounds out, shortstop Daniel Vazquez to first baseman Brett Squires.",2025,Sinker
+,680742,542932,strikeout,swinging_strike,Jon Berti strikes out swinging.,2025,
+,680742,542932,No event,ball,Jon Berti strikes out swinging.,2025,
+,680742,542932,No event,called_strike,Jon Berti strikes out swinging.,2025,
+,680742,542932,No event,foul,Jon Berti strikes out swinging.,2025,
+,680742,608348,walk,blocked_ball,Carson Kelly walks.,2025,
+,680742,608348,No event,foul,Carson Kelly walks.,2025,
+,680742,608348,No event,ball,Carson Kelly walks.,2025,
+,680742,608348,No event,blocked_ball,Carson Kelly walks.,2025,
+,680742,608348,No event,called_strike,Carson Kelly walks.,2025,
+,680742,608348,No event,foul,Carson Kelly walks.,2025,
+,680742,608348,No event,ball,Carson Kelly walks.,2025,
+,680742,691718,single,hit_into_play,Pete Crow-Armstrong singles on a sharp line drive to center fielder Kyle Isbel. Dansby Swanson to 2nd.,2025,
+,680742,691718,No event,ball,Pete Crow-Armstrong singles on a sharp line drive to center fielder Kyle Isbel. Dansby Swanson to 2nd.,2025,
+,680742,691718,No event,blocked_ball,Pete Crow-Armstrong singles on a sharp line drive to center fielder Kyle Isbel. Dansby Swanson to 2nd.,2025,
+,680742,621020,field_error,hit_into_play,Dansby Swanson reaches on a fielding error by second baseman Javier Vaz.,2025,
+,680742,621020,No event,foul,Dansby Swanson reaches on a fielding error by second baseman Javier Vaz.,2025,
+,680742,621020,No event,called_strike,Dansby Swanson reaches on a fielding error by second baseman Javier Vaz.,2025,
+,680742,807713,field_out,hit_into_play,"Matt Shaw grounds out, second baseman Javier Vaz to first baseman Harold Castro.",2025,
+,680742,807713,No event,foul,"Matt Shaw grounds out, second baseman Javier Vaz to first baseman Harold Castro.",2025,
+,680742,807713,No event,ball,"Matt Shaw grounds out, second baseman Javier Vaz to first baseman Harold Castro.",2025,
+,680742,807713,No event,ball,"Matt Shaw grounds out, second baseman Javier Vaz to first baseman Harold Castro.",2025,
+,680742,807713,No event,called_strike,"Matt Shaw grounds out, second baseman Javier Vaz to first baseman Harold Castro.",2025,
+,680742,807713,No event,ball,"Matt Shaw grounds out, second baseman Javier Vaz to first baseman Harold Castro.",2025,
+,680742,807713,No event,called_strike,"Matt Shaw grounds out, second baseman Javier Vaz to first baseman Harold Castro.",2025,
+FF,680742,553869,strikeout,swinging_strike,Elias Díaz strikes out swinging.,2025,4-Seam Fastball
+FF,680742,553869,No event,swinging_strike,Elias Díaz strikes out swinging.,2025,4-Seam Fastball
+FF,680742,553869,No event,swinging_strike,Elias Díaz strikes out swinging.,2025,4-Seam Fastball
+SL,680742,553869,No event,ball,Elias Díaz strikes out swinging.,2025,Slider
+FF,680742,553869,No event,ball,Elias Díaz strikes out swinging.,2025,4-Seam Fastball
+FF,680742,518792,field_out,hit_into_play,Jason Heyward pops out to third baseman Cam Devanney.,2025,4-Seam Fastball
+SI,680742,493329,field_out,hit_into_play,Yuli Gurriel flies out to center fielder Maikel Garcia.,2025,Sinker
+FF,680742,493329,No event,ball,Yuli Gurriel flies out to center fielder Maikel Garcia.,2025,4-Seam Fastball
+SL,680742,493329,No event,ball,Yuli Gurriel flies out to center fielder Maikel Garcia.,2025,Slider
+SL,680742,493329,No event,called_strike,Yuli Gurriel flies out to center fielder Maikel Garcia.,2025,Slider
+SI,680742,493329,No event,ball,Yuli Gurriel flies out to center fielder Maikel Garcia.,2025,Sinker
+FF,680742,493329,No event,swinging_strike,Yuli Gurriel flies out to center fielder Maikel Garcia.,2025,4-Seam Fastball
+FF,680742,668845,strikeout,called_strike,Aaron Schunk called out on strikes.,2025,4-Seam Fastball
+SL,680742,668845,No event,called_strike,Aaron Schunk called out on strikes.,2025,Slider
+SL,680742,668845,No event,swinging_strike,Aaron Schunk called out on strikes.,2025,Slider
+SL,680742,681623,strikeout,swinging_strike_blocked,Ronaiker Palma strikes out swinging.,2025,Slider
+SI,680742,681623,No event,swinging_strike,Ronaiker Palma strikes out swinging.,2025,Sinker
+SL,680742,681623,No event,called_strike,Ronaiker Palma strikes out swinging.,2025,Slider
+FF,680742,694249,field_out,hit_into_play,Cole Carrigg flies out to left fielder Nelson Velázquez in foul territory.,2025,4-Seam Fastball
+SL,680742,694249,No event,ball,Cole Carrigg flies out to left fielder Nelson Velázquez in foul territory.,2025,Slider
+CU,680742,694249,No event,ball,Cole Carrigg flies out to left fielder Nelson Velázquez in foul territory.,2025,Curveball
+FF,680742,694249,No event,foul,Cole Carrigg flies out to left fielder Nelson Velázquez in foul territory.,2025,4-Seam Fastball
+FF,680742,669899,field_out,hit_into_play,"Ryan Ward grounds out, pitcher Jonathan Bowlan to first baseman Brett Squires.",2025,4-Seam Fastball
+CH,680742,669899,No event,foul,"Ryan Ward grounds out, pitcher Jonathan Bowlan to first baseman Brett Squires.",2025,Changeup
+CH,680742,669899,No event,swinging_strike,"Ryan Ward grounds out, pitcher Jonathan Bowlan to first baseman Brett Squires.",2025,Changeup
+FF,680742,681546,strikeout,swinging_strike,James Outman strikes out swinging.,2025,4-Seam Fastball
+CH,680742,681546,No event,foul,James Outman strikes out swinging.,2025,Changeup
+CH,680742,681546,No event,swinging_strike,James Outman strikes out swinging.,2025,Changeup
+FF,680742,687221,walk,ball,Dalton Rushing walks.,2025,4-Seam Fastball
+FF,680742,687221,No event,foul,Dalton Rushing walks.,2025,4-Seam Fastball
+FF,680742,687221,No event,foul,Dalton Rushing walks.,2025,4-Seam Fastball
+FF,680742,687221,No event,foul,Dalton Rushing walks.,2025,4-Seam Fastball
+FF,680742,687221,No event,ball,Dalton Rushing walks.,2025,4-Seam Fastball
+CH,680742,687221,No event,ball,Dalton Rushing walks.,2025,Changeup
+FF,680742,687221,No event,ball,Dalton Rushing walks.,2025,4-Seam Fastball
+FF,680742,702789,strikeout,swinging_strike,Austin Gauthier strikes out swinging.,2025,4-Seam Fastball
+SL,680742,702789,No event,called_strike,Austin Gauthier strikes out swinging.,2025,Slider
+SI,680742,702789,No event,foul,Austin Gauthier strikes out swinging.,2025,Sinker
+FF,680742,702789,No event,ball,Austin Gauthier strikes out swinging.,2025,4-Seam Fastball
+SL,680742,643396,single,hit_into_play,Isiah Kiner-Falefa singles on a line drive to center fielder Kyle Isbel. Cavan Biggio to 3rd.,2024,Slider
+FF,680742,643396,No event,ball,Isiah Kiner-Falefa singles on a line drive to center fielder Kyle Isbel. Cavan Biggio to 3rd.,2024,4-Seam Fastball
+FF,680742,643396,No event,foul,Isiah Kiner-Falefa singles on a line drive to center fielder Kyle Isbel. Cavan Biggio to 3rd.,2024,4-Seam Fastball
+SI,680742,624415,walk,ball,Cavan Biggio walks.,2024,Sinker
+FF,680742,624415,No event,foul,Cavan Biggio walks.,2024,4-Seam Fastball
+CH,680742,624415,No event,ball,Cavan Biggio walks.,2024,Changeup
+CU,680742,624415,No event,ball,Cavan Biggio walks.,2024,Curveball
+CU,680742,624415,No event,ball,Cavan Biggio walks.,2024,Curveball
+FF,680742,624415,No event,swinging_strike,Cavan Biggio walks.,2024,4-Seam Fastball
+SI,680742,624415,No event,called_strike,Cavan Biggio walks.,2024,Sinker
+CU,680742,676914,strikeout,swinging_strike,Davis Schneider strikes out swinging.,2024,Curveball
+CU,680742,676914,No event,ball,Davis Schneider strikes out swinging.,2024,Curveball
+FF,680742,676914,No event,foul,Davis Schneider strikes out swinging.,2024,4-Seam Fastball
+SI,680742,676914,No event,called_strike,Davis Schneider strikes out swinging.,2024,Sinker
+FF,680742,643376,home_run,hit_into_play,Danny Jansen homers (2) on a fly ball to left center field.,2024,4-Seam Fastball
+CU,680742,643376,No event,ball,Danny Jansen homers (2) on a fly ball to left center field.,2024,Curveball
+CU,680742,643376,No event,called_strike,Danny Jansen homers (2) on a fly ball to left center field.,2024,Curveball
+SL,680742,643376,No event,called_strike,Danny Jansen homers (2) on a fly ball to left center field.,2024,Slider
+CH,680742,662139,field_out,hit_into_play,"Daulton Varsho grounds out, second baseman Michael Massey to first baseman Vinnie Pasquantino.",2024,Changeup
+SI,680742,662139,No event,called_strike,"Daulton Varsho grounds out, second baseman Michael Massey to first baseman Vinnie Pasquantino.",2024,Sinker
+SI,680742,457759,home_run,hit_into_play,Justin Turner homers (4) on a fly ball to left field.,2024,Sinker
+FF,680742,457759,No event,called_strike,Justin Turner homers (4) on a fly ball to left field.,2024,4-Seam Fastball
+FF,680742,457759,No event,ball,Justin Turner homers (4) on a fly ball to left field.,2024,4-Seam Fastball
+FF,680742,665489,field_out,hit_into_play,Vladimir Guerrero Jr. pops out to first baseman Vinnie Pasquantino.,2024,4-Seam Fastball
+SL,680742,665489,No event,called_strike,Vladimir Guerrero Jr. pops out to first baseman Vinnie Pasquantino.,2024,Slider
+CU,680742,665489,No event,blocked_ball,Vladimir Guerrero Jr. pops out to first baseman Vinnie Pasquantino.,2024,Curveball
+FF,680742,665489,No event,ball,Vladimir Guerrero Jr. pops out to first baseman Vinnie Pasquantino.,2024,4-Seam Fastball
+FF,680742,665489,No event,called_strike,Vladimir Guerrero Jr. pops out to first baseman Vinnie Pasquantino.,2024,4-Seam Fastball
+SI,680742,665489,No event,ball,Vladimir Guerrero Jr. pops out to first baseman Vinnie Pasquantino.,2024,Sinker
+SI,680742,543807,field_out,hit_into_play,George Springer grounds out softly to first baseman Vinnie Pasquantino. Isiah Kiner-Falefa to 3rd.,2024,Sinker
+SL,680742,543807,No event,swinging_strike,George Springer grounds out softly to first baseman Vinnie Pasquantino. Isiah Kiner-Falefa to 3rd.,2024,Slider
+CU,680742,680718,field_out,hit_into_play,"Addison Barger grounds out, second baseman Michael Massey to first baseman Vinnie Pasquantino. Isiah Kiner-Falefa to 2nd.",2024,Curveball
+FF,680742,680718,No event,foul,"Addison Barger grounds out, second baseman Michael Massey to first baseman Vinnie Pasquantino. Isiah Kiner-Falefa to 2nd.",2024,4-Seam Fastball
+FF,680742,680718,No event,swinging_strike,"Addison Barger grounds out, second baseman Michael Massey to first baseman Vinnie Pasquantino. Isiah Kiner-Falefa to 2nd.",2024,4-Seam Fastball
+SI,680742,643396,single,hit_into_play,"Isiah Kiner-Falefa singles on a ground ball to center fielder Kyle Isbel, deflected by second baseman Michael Massey.",2024,Sinker
+FF,680742,643396,No event,foul,"Isiah Kiner-Falefa singles on a ground ball to center fielder Kyle Isbel, deflected by second baseman Michael Massey.",2024,4-Seam Fastball
+CU,680742,643396,No event,ball,"Isiah Kiner-Falefa singles on a ground ball to center fielder Kyle Isbel, deflected by second baseman Michael Massey.",2024,Curveball
+FF,680742,643396,No event,foul,"Isiah Kiner-Falefa singles on a ground ball to center fielder Kyle Isbel, deflected by second baseman Michael Massey.",2024,4-Seam Fastball
+SI,680742,643396,No event,called_strike,"Isiah Kiner-Falefa singles on a ground ball to center fielder Kyle Isbel, deflected by second baseman Michael Massey.",2024,Sinker
+FF,680742,624415,field_out,hit_into_play,Cavan Biggio flies out to center fielder Kyle Isbel.,2024,4-Seam Fastball
+CH,680742,624415,No event,foul,Cavan Biggio flies out to center fielder Kyle Isbel.,2024,Changeup
+SI,680742,624415,No event,ball,Cavan Biggio flies out to center fielder Kyle Isbel.,2024,Sinker
+SI,680742,624415,No event,called_strike,Cavan Biggio flies out to center fielder Kyle Isbel.,2024,Sinker
+SL,680742,676914,single,hit_into_play,Davis Schneider singles on a ground ball to left fielder MJ Melendez. Danny Jansen to 2nd.,2024,Slider
+SL,680742,676914,No event,ball,Davis Schneider singles on a ground ball to left fielder MJ Melendez. Danny Jansen to 2nd.,2024,Slider
+FF,680742,643376,walk,ball,Danny Jansen walks.,2024,4-Seam Fastball
+FF,680742,643376,No event,ball,Danny Jansen walks.,2024,4-Seam Fastball
+FF,680742,643376,No event,ball,Danny Jansen walks.,2024,4-Seam Fastball
+FF,680742,643376,No event,ball,Danny Jansen walks.,2024,4-Seam Fastball
+FF,680742,662139,strikeout,swinging_strike,Daulton Varsho strikes out swinging.,2024,4-Seam Fastball
+FF,680742,662139,No event,foul,Daulton Varsho strikes out swinging.,2024,4-Seam Fastball
+SL,680742,662139,No event,foul,Daulton Varsho strikes out swinging.,2024,Slider
+FF,680742,662139,No event,swinging_strike,Daulton Varsho strikes out swinging.,2024,4-Seam Fastball
+FF,680742,662139,No event,ball,Daulton Varsho strikes out swinging.,2024,4-Seam Fastball
+SL,680742,662139,No event,foul,Daulton Varsho strikes out swinging.,2024,Slider
+SL,680742,662139,No event,ball,Daulton Varsho strikes out swinging.,2024,Slider
+SL,680742,457759,home_run,hit_into_play,Justin Turner homers (3) on a fly ball to left field. Vladimir Guerrero Jr. scores.,2024,Slider
+FF,680742,457759,No event,swinging_strike,Justin Turner homers (3) on a fly ball to left field. Vladimir Guerrero Jr. scores.,2024,4-Seam Fastball
+FF,680742,457759,No event,ball,Justin Turner homers (3) on a fly ball to left field. Vladimir Guerrero Jr. scores.,2024,4-Seam Fastball
+FF,680742,665489,walk,ball,Vladimir Guerrero Jr. walks.,2024,4-Seam Fastball
+SL,680742,665489,No event,ball,Vladimir Guerrero Jr. walks.,2024,Slider
+SL,680742,665489,No event,ball,Vladimir Guerrero Jr. walks.,2024,Slider
+FF,680742,665489,No event,foul,Vladimir Guerrero Jr. walks.,2024,4-Seam Fastball
+FF,680742,665489,No event,swinging_strike,Vladimir Guerrero Jr. walks.,2024,4-Seam Fastball
+SI,680742,665489,No event,ball,Vladimir Guerrero Jr. walks.,2024,Sinker
+SL,680742,543807,strikeout,swinging_strike,George Springer strikes out swinging.,2024,Slider
+SI,680742,543807,No event,swinging_strike,George Springer strikes out swinging.,2024,Sinker
+SI,680742,543807,No event,called_strike,George Springer strikes out swinging.,2024,Sinker
+,680742,657061,strikeout,swinging_strike,Cole Tucker strikes out swinging.,2024,
+,680742,657061,No event,swinging_strike,Cole Tucker strikes out swinging.,2024,
+,680742,657061,No event,swinging_strike,Cole Tucker strikes out swinging.,2024,
+,680742,801126,grounded_into_double_play,hit_into_play,"Brock Rodden ground bunts into a double play, pitcher Jonathan Bowlan to third baseman Ryan Fitzgerald to second baseman Javier Vaz.   Jake Anchia out at 3rd.    Hogan Windish out at 2nd.    Brock Rodden to 1st.",2024,
+,680742,702112,single,hit_into_play,"Hogan Windish singles on a ground ball to left fielder Tyler Gentry, deflected by shortstop Leonel Valera.   Jake Anchia to 2nd.",2024,
+,680742,680971,single,hit_into_play,Jake Anchia singles on a ground ball to right fielder Tucker Bradley.,2024,
+,680742,656462,field_out,hit_into_play,Isiah Gilliam pops out to third baseman Ryan Fitzgerald on the infield fly rule.,2024,
+,680742,675448,single,hit_into_play,Blake Hunt singles on a line drive to center fielder Diego Hernandez.   Brock Rodden scores.    Cole Tucker to 2nd.,2024,
+,680742,657061,walk,ball,Cole Tucker walks.,2024,
+,680742,657061,No event,ball,Cole Tucker walks.,2024,
+,680742,657061,No event,ball,Cole Tucker walks.,2024,
+,680742,657061,No event,ball,Cole Tucker walks.,2024,
+,680742,657061,No event,called_strike,Cole Tucker walks.,2024,
+,680742,801126,single,hit_into_play,Brock Rodden singles on a ground ball to right fielder Tucker Bradley.   Hogan Windish scores.,2024,
+,680742,702112,double,hit_into_play,Hogan Windish doubles (1) on a line drive to center fielder Diego Hernandez.,2024,
+,680742,702409,field_out,hit_into_play,"Jorge Ruiz grounds out, second baseman Nick Loftin to first baseman CJ Alexander.",2024,
+,680742,687263,walk,ball,Zach Neto walks.,2024,
+,680742,687263,No event,ball,Zach Neto walks.,2024,
+,680742,687263,No event,ball,Zach Neto walks.,2024,
+,680742,687263,No event,ball,Zach Neto walks.,2024,
+,680742,641432,field_out,hit_into_play,"Willie Calhoun grounds out, second baseman Nick Loftin to first baseman CJ Alexander.",2024,
+,680742,642136,field_out,hit_into_play,Matt Thaiss lines out to left fielder Nelson Velazquez.,2024,
+,680742,592273,strikeout,swinging_strike,Brandon Drury strikes out swinging.,2024,
+,680742,592273,No event,foul,Brandon Drury strikes out swinging.,2024,
+,680742,592273,No event,called_strike,Brandon Drury strikes out swinging.,2024,
+,680742,621493,field_out,hit_into_play,"Taylor Ward grounds out, second baseman Nick Loftin to first baseman CJ Alexander.",2024,

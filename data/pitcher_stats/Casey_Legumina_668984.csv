@@ -1,0 +1,344 @@
+pitch_type,pitcher,batter,events,description,des,game_year,pitch_name
+FF,668984,680574,strikeout,swinging_strike,Matt McLain strikes out swinging.,2025,4-Seam Fastball
+FF,668984,680574,No event,called_strike,Matt McLain strikes out swinging.,2025,4-Seam Fastball
+FF,668984,680574,No event,called_strike,Matt McLain strikes out swinging.,2025,4-Seam Fastball
+FF,668984,670770,field_out,hit_into_play,TJ Friedl flies out to left fielder Luke Raley.,2025,4-Seam Fastball
+FF,668984,670770,No event,called_strike,TJ Friedl flies out to left fielder Luke Raley.,2025,4-Seam Fastball
+FF,668984,670770,No event,called_strike,TJ Friedl flies out to left fielder Luke Raley.,2025,4-Seam Fastball
+SL,668984,702140,home_run,hit_into_play,Ruben Ibarra homers (2) on a fly ball to center field. Jacob Hurtubise scores.,2025,Slider
+FF,668984,702140,No event,called_strike,Ruben Ibarra homers (2) on a fly ball to center field. Jacob Hurtubise scores.,2025,4-Seam Fastball
+FF,668984,702140,No event,ball,Ruben Ibarra homers (2) on a fly ball to center field. Jacob Hurtubise scores.,2025,4-Seam Fastball
+FF,668984,642851,sac_bunt,hit_into_play,"Austin Wynns out on a sacrifice bunt, pitcher Casey Legumina to first baseman Rowdy Tellez. Jacob Hurtubise to 2nd.",2025,4-Seam Fastball
+ST,668984,674441,hit_by_pitch,hit_by_pitch,Jacob Hurtubise hit by pitch.,2025,Sweeper
+ST,668984,674441,No event,ball,Jacob Hurtubise hit by pitch.,2025,Sweeper
+FF,668984,674441,No event,foul,Jacob Hurtubise hit by pitch.,2025,4-Seam Fastball
+FF,668984,674441,No event,foul,Jacob Hurtubise hit by pitch.,2025,4-Seam Fastball
+FF,668984,674441,No event,called_strike,Jacob Hurtubise hit by pitch.,2025,4-Seam Fastball
+FF,668984,641584,field_out,hit_into_play,"Jake Fraley grounds out, first baseman Rowdy Tellez to pitcher Casey Legumina.",2025,4-Seam Fastball
+FF,668984,641584,No event,foul,"Jake Fraley grounds out, first baseman Rowdy Tellez to pitcher Casey Legumina.",2025,4-Seam Fastball
+FF,668984,687952,double,hit_into_play,Christian Encarnacion-Strand doubles (3) on a sharp line drive to left fielder Luke Raley.,2025,4-Seam Fastball
+FF,668984,687952,No event,ball,Christian Encarnacion-Strand doubles (3) on a sharp line drive to left fielder Luke Raley.,2025,4-Seam Fastball
+FF,668984,687952,No event,ball,Christian Encarnacion-Strand doubles (3) on a sharp line drive to left fielder Luke Raley.,2025,4-Seam Fastball
+FF,668984,687952,No event,called_strike,Christian Encarnacion-Strand doubles (3) on a sharp line drive to left fielder Luke Raley.,2025,4-Seam Fastball
+FF,668984,821270,field_out,hit_into_play,Luis Peña flies out to right fielder Dominic Canzone.,2025,4-Seam Fastball
+FF,668984,821270,No event,ball,Luis Peña flies out to right fielder Dominic Canzone.,2025,4-Seam Fastball
+ST,668984,821270,No event,blocked_ball,Luis Peña flies out to right fielder Dominic Canzone.,2025,Sweeper
+FF,668984,821270,No event,foul,Luis Peña flies out to right fielder Dominic Canzone.,2025,4-Seam Fastball
+ST,668984,821270,No event,ball,Luis Peña flies out to right fielder Dominic Canzone.,2025,Sweeper
+ST,668984,701392,force_out,hit_into_play,"Marco Dinges grounds into a force out, shortstop Leo Rivas to third baseman Caleb Cali. Jimmy Herron out at 3rd. Dylan O'Rae to 2nd. Marco Dinges to 1st.",2025,Sweeper
+FF,668984,701392,No event,called_strike,"Marco Dinges grounds into a force out, shortstop Leo Rivas to third baseman Caleb Cali. Jimmy Herron out at 3rd. Dylan O'Rae to 2nd. Marco Dinges to 1st.",2025,4-Seam Fastball
+CH,668984,802506,walk,ball,Dylan O'Rae walks. Jimmy Herron to 2nd.,2025,Changeup
+FF,668984,802506,No event,called_strike,Dylan O'Rae walks. Jimmy Herron to 2nd.,2025,4-Seam Fastball
+FF,668984,802506,No event,ball,Dylan O'Rae walks. Jimmy Herron to 2nd.,2025,4-Seam Fastball
+CH,668984,802506,No event,ball,Dylan O'Rae walks. Jimmy Herron to 2nd.,2025,Changeup
+FF,668984,802506,No event,ball,Dylan O'Rae walks. Jimmy Herron to 2nd.,2025,4-Seam Fastball
+SL,668984,802506,No event,foul,Dylan O'Rae walks. Jimmy Herron to 2nd.,2025,Slider
+FF,668984,676939,single,hit_into_play,Jimmy Herron singles on a line drive to right fielder Dominic Canzone.,2025,4-Seam Fastball
+SL,668984,676939,No event,called_strike,Jimmy Herron singles on a line drive to right fielder Dominic Canzone.,2025,Slider
+FF,668984,676939,No event,ball,Jimmy Herron singles on a line drive to right fielder Dominic Canzone.,2025,4-Seam Fastball
+FF,668984,676939,No event,ball,Jimmy Herron singles on a line drive to right fielder Dominic Canzone.,2025,4-Seam Fastball
+CH,668984,806983,field_out,hit_into_play,"Yophery Rodriguez grounds out softly, pitcher Casey Legumina to first baseman Austin Shenton.",2025,Changeup
+SL,668984,806983,No event,called_strike,"Yophery Rodriguez grounds out softly, pitcher Casey Legumina to first baseman Austin Shenton.",2025,Slider
+FF,668984,670231,field_out,hit_into_play,John Rave flies out to left fielder Randy Arozarena.,2025,4-Seam Fastball
+ST,668984,670231,No event,ball,John Rave flies out to left fielder Randy Arozarena.,2025,Sweeper
+FF,668984,666023,sac_fly,hit_into_play,Freddy Fermin out on a sacrifice fly to center fielder Julio Rodríguez. Gavin Cross scores.,2025,4-Seam Fastball
+ST,668984,666023,No event,ball,Freddy Fermin out on a sacrifice fly to center fielder Julio Rodríguez. Gavin Cross scores.,2025,Sweeper
+ST,668984,666023,No event,blocked_ball,Freddy Fermin out on a sacrifice fly to center fielder Julio Rodríguez. Gavin Cross scores.,2025,Sweeper
+FF,668984,666023,No event,foul,Freddy Fermin out on a sacrifice fly to center fielder Julio Rodríguez. Gavin Cross scores.,2025,4-Seam Fastball
+FF,668984,666023,No event,ball,Freddy Fermin out on a sacrifice fly to center fielder Julio Rodríguez. Gavin Cross scores.,2025,4-Seam Fastball
+FF,668984,666023,No event,foul,Freddy Fermin out on a sacrifice fly to center fielder Julio Rodríguez. Gavin Cross scores.,2025,4-Seam Fastball
+FF,668984,679845,field_out,hit_into_play,Nick Loftin lines out to left fielder Randy Arozarena.,2025,4-Seam Fastball
+ST,668984,679845,No event,ball,Nick Loftin lines out to left fielder Randy Arozarena.,2025,Sweeper
+FF,668984,679845,No event,swinging_strike,Nick Loftin lines out to left fielder Randy Arozarena.,2025,4-Seam Fastball
+FF,668984,679845,No event,swinging_strike,Nick Loftin lines out to left fielder Randy Arozarena.,2025,4-Seam Fastball
+FF,668984,679845,No event,ball,Nick Loftin lines out to left fielder Randy Arozarena.,2025,4-Seam Fastball
+ST,668984,624415,hit_by_pitch,hit_by_pitch,Cavan Biggio hit by pitch. Gavin Cross to 2nd.,2025,Sweeper
+FF,668984,624415,No event,foul,Cavan Biggio hit by pitch. Gavin Cross to 2nd.,2025,4-Seam Fastball
+FF,668984,624415,No event,called_strike,Cavan Biggio hit by pitch. Gavin Cross to 2nd.,2025,4-Seam Fastball
+SL,668984,624415,No event,called_strike,Cavan Biggio hit by pitch. Gavin Cross to 2nd.,2025,Slider
+FF,668984,688457,single,hit_into_play,Gavin Cross singles on a ground ball to right fielder Victor Robles.,2025,4-Seam Fastball
+FF,668984,688457,No event,ball,Gavin Cross singles on a ground ball to right fielder Victor Robles.,2025,4-Seam Fastball
+FF,668984,688457,No event,ball,Gavin Cross singles on a ground ball to right fielder Victor Robles.,2025,4-Seam Fastball
+FF,668984,688457,No event,ball,Gavin Cross singles on a ground ball to right fielder Victor Robles.,2025,4-Seam Fastball
+FF,668984,688457,No event,swinging_strike,Gavin Cross singles on a ground ball to right fielder Victor Robles.,2025,4-Seam Fastball
+,668984,665804,field_out,hit_into_play,Miguel Amaya lines out sharply to center fielder Julio Rodríguez.,2025,
+,668984,665804,No event,ball,Miguel Amaya lines out sharply to center fielder Julio Rodríguez.,2025,
+,668984,665804,No event,ball,Miguel Amaya lines out sharply to center fielder Julio Rodríguez.,2025,
+,668984,691718,strikeout,swinging_strike,Pete Crow-Armstrong strikes out swinging.,2025,
+,668984,691718,No event,foul,Pete Crow-Armstrong strikes out swinging.,2025,
+,668984,691718,No event,ball,Pete Crow-Armstrong strikes out swinging.,2025,
+,668984,691718,No event,swinging_strike,Pete Crow-Armstrong strikes out swinging.,2025,
+,668984,691718,No event,ball,Pete Crow-Armstrong strikes out swinging.,2025,
+,668984,807713,field_out,hit_into_play,Matt Shaw lines out softly to second baseman Cole Young.,2025,
+,668984,807713,No event,ball,Matt Shaw lines out softly to second baseman Cole Young.,2025,
+,668984,807713,No event,foul,Matt Shaw lines out softly to second baseman Cole Young.,2025,
+,668984,807713,No event,foul,Matt Shaw lines out softly to second baseman Cole Young.,2025,
+,668984,807713,No event,swinging_strike,Matt Shaw lines out softly to second baseman Cole Young.,2025,
+,668984,807713,No event,ball,Matt Shaw lines out softly to second baseman Cole Young.,2025,
+,668984,807713,No event,ball,Matt Shaw lines out softly to second baseman Cole Young.,2025,
+FF,668984,595978,strikeout,swinging_strike,Austin Hedges strikes out swinging.,2025,4-Seam Fastball
+FF,668984,595978,No event,swinging_strike,Austin Hedges strikes out swinging.,2025,4-Seam Fastball
+FF,668984,595978,No event,called_strike,Austin Hedges strikes out swinging.,2025,4-Seam Fastball
+FF,668984,672356,grounded_into_double_play,hit_into_play,"Gabriel Arias grounds into a double play, shortstop J. P. Crawford to second baseman Dylan Moore to first baseman Rowdy Tellez. Kyle Manzardo out at 2nd. Gabriel Arias out at 1st.",2025,4-Seam Fastball
+ST,668984,672356,No event,foul,"Gabriel Arias grounds into a double play, shortstop J. P. Crawford to second baseman Dylan Moore to first baseman Rowdy Tellez. Kyle Manzardo out at 2nd. Gabriel Arias out at 1st.",2025,Sweeper
+FF,668984,672356,No event,ball,"Gabriel Arias grounds into a double play, shortstop J. P. Crawford to second baseman Dylan Moore to first baseman Rowdy Tellez. Kyle Manzardo out at 2nd. Gabriel Arias out at 1st.",2025,4-Seam Fastball
+FF,668984,700932,single,hit_into_play,Kyle Manzardo singles on a line drive to center fielder Victor Robles.,2025,4-Seam Fastball
+ST,668984,700932,No event,ball,Kyle Manzardo singles on a line drive to center fielder Victor Robles.,2025,Sweeper
+FF,668984,700932,No event,swinging_strike,Kyle Manzardo singles on a line drive to center fielder Victor Robles.,2025,4-Seam Fastball
+FF,668984,700932,No event,ball,Kyle Manzardo singles on a line drive to center fielder Victor Robles.,2025,4-Seam Fastball
+FF,668984,685133,field_out,hit_into_play,"Wade Meckler grounds out, shortstop Brock Rodden to first baseman Austin Shenton.",2025,4-Seam Fastball
+SL,668984,685133,No event,ball,"Wade Meckler grounds out, shortstop Brock Rodden to first baseman Austin Shenton.",2025,Slider
+CH,668984,685133,No event,ball,"Wade Meckler grounds out, shortstop Brock Rodden to first baseman Austin Shenton.",2025,Changeup
+SL,668984,685133,No event,called_strike,"Wade Meckler grounds out, shortstop Brock Rodden to first baseman Austin Shenton.",2025,Slider
+ST,668984,669477,strikeout,swinging_strike,Casey Schmitt strikes out swinging.,2025,Sweeper
+FF,668984,669477,No event,foul,Casey Schmitt strikes out swinging.,2025,4-Seam Fastball
+ST,668984,669477,No event,ball,Casey Schmitt strikes out swinging.,2025,Sweeper
+ST,668984,669477,No event,foul,Casey Schmitt strikes out swinging.,2025,Sweeper
+FF,668984,669477,No event,ball,Casey Schmitt strikes out swinging.,2025,4-Seam Fastball
+FF,668984,669477,No event,called_strike,Casey Schmitt strikes out swinging.,2025,4-Seam Fastball
+CH,668984,689172,single,hit_into_play,Brett Wisely singles on a soft bunt ground ball to pitcher Casey Legumina. Sam Huff to 2nd.,2025,Changeup
+FF,668984,689172,No event,foul,Brett Wisely singles on a soft bunt ground ball to pitcher Casey Legumina. Sam Huff to 2nd.,2025,4-Seam Fastball
+SL,668984,689172,No event,ball,Brett Wisely singles on a soft bunt ground ball to pitcher Casey Legumina. Sam Huff to 2nd.,2025,Slider
+FF,668984,669087,single,hit_into_play,Sam Huff singles on a ground ball to second baseman Ryan Bliss.,2025,4-Seam Fastball
+FF,668984,669087,No event,foul,Sam Huff singles on a ground ball to second baseman Ryan Bliss.,2025,4-Seam Fastball
+ST,668984,682641,field_out,hit_into_play,Luis Matos flies out to left fielder Cade Marlowe.,2025,Sweeper
+ST,668984,682641,No event,foul,Luis Matos flies out to left fielder Cade Marlowe.,2025,Sweeper
+FF,668984,682641,No event,foul,Luis Matos flies out to left fielder Cade Marlowe.,2025,4-Seam Fastball
+FF,668984,682641,No event,foul,Luis Matos flies out to left fielder Cade Marlowe.,2025,4-Seam Fastball
+ST,668984,682641,No event,ball,Luis Matos flies out to left fielder Cade Marlowe.,2025,Sweeper
+FF,668984,682641,No event,foul,Luis Matos flies out to left fielder Cade Marlowe.,2025,4-Seam Fastball
+FF,668984,545121,field_out,hit_into_play,Ildemaro Vargas flies out to left fielder Randy Arozarena.,2025,4-Seam Fastball
+FF,668984,545121,No event,called_strike,Ildemaro Vargas flies out to left fielder Randy Arozarena.,2025,4-Seam Fastball
+ST,668984,545121,No event,ball,Ildemaro Vargas flies out to left fielder Randy Arozarena.,2025,Sweeper
+SL,668984,545121,No event,ball,Ildemaro Vargas flies out to left fielder Randy Arozarena.,2025,Slider
+FF,668984,680728,strikeout,foul_tip,Adrian Del Castillo strikes out on a foul tip.,2025,4-Seam Fastball
+FF,668984,680728,No event,foul,Adrian Del Castillo strikes out on a foul tip.,2025,4-Seam Fastball
+FF,668984,680728,No event,foul,Adrian Del Castillo strikes out on a foul tip.,2025,4-Seam Fastball
+FF,668984,680728,No event,ball,Adrian Del Castillo strikes out on a foul tip.,2025,4-Seam Fastball
+SL,668984,680728,No event,ball,Adrian Del Castillo strikes out on a foul tip.,2025,Slider
+CH,668984,680728,No event,ball,Adrian Del Castillo strikes out on a foul tip.,2025,Changeup
+SL,668984,680728,No event,swinging_strike,Adrian Del Castillo strikes out on a foul tip.,2025,Slider
+FF,668984,672695,field_out,hit_into_play,"Geraldo Perdomo grounds out, second baseman Ryan Bliss to first baseman Tyler Locklear.",2025,4-Seam Fastball
+FF,668984,672695,No event,ball,"Geraldo Perdomo grounds out, second baseman Ryan Bliss to first baseman Tyler Locklear.",2025,4-Seam Fastball
+FF,668984,672695,No event,foul,"Geraldo Perdomo grounds out, second baseman Ryan Bliss to first baseman Tyler Locklear.",2025,4-Seam Fastball
+ST,668984,672695,No event,ball,"Geraldo Perdomo grounds out, second baseman Ryan Bliss to first baseman Tyler Locklear.",2025,Sweeper
+FF,668984,672695,No event,ball,"Geraldo Perdomo grounds out, second baseman Ryan Bliss to first baseman Tyler Locklear.",2025,4-Seam Fastball
+SL,668984,672695,No event,called_strike,"Geraldo Perdomo grounds out, second baseman Ryan Bliss to first baseman Tyler Locklear.",2025,Slider
+CH,668984,642201,strikeout,called_strike,Eli White called out on strikes.,2024,Changeup
+FF,668984,642201,No event,foul,Eli White called out on strikes.,2024,4-Seam Fastball
+CH,668984,642201,No event,foul,Eli White called out on strikes.,2024,Changeup
+FF,668984,642201,No event,called_strike,Eli White called out on strikes.,2024,4-Seam Fastball
+FF,668984,671739,field_out,hit_into_play,"Michael Harris II grounds out, second baseman Jonathan India to first baseman Ty France. Gio Urshela to 3rd.",2024,4-Seam Fastball
+FF,668984,671739,No event,foul,"Michael Harris II grounds out, second baseman Jonathan India to first baseman Ty France. Gio Urshela to 3rd.",2024,4-Seam Fastball
+CH,668984,671739,No event,foul,"Michael Harris II grounds out, second baseman Jonathan India to first baseman Ty France. Gio Urshela to 3rd.",2024,Changeup
+CH,668984,671739,No event,called_strike,"Michael Harris II grounds out, second baseman Jonathan India to first baseman Ty France. Gio Urshela to 3rd.",2024,Changeup
+FF,668984,671739,No event,ball,"Michael Harris II grounds out, second baseman Jonathan India to first baseman Ty France. Gio Urshela to 3rd.",2024,4-Seam Fastball
+CH,668984,671739,No event,ball,"Michael Harris II grounds out, second baseman Jonathan India to first baseman Ty France. Gio Urshela to 3rd.",2024,Changeup
+SL,668984,570482,double,hit_into_play,Gio Urshela hits a ground-rule double (17) on a line drive to right field. Orlando Arcia scores.,2024,Slider
+FF,668984,570482,No event,ball,Gio Urshela hits a ground-rule double (17) on a line drive to right field. Orlando Arcia scores.,2024,4-Seam Fastball
+CH,668984,570482,No event,foul,Gio Urshela hits a ground-rule double (17) on a line drive to right field. Orlando Arcia scores.,2024,Changeup
+SL,668984,570482,No event,foul,Gio Urshela hits a ground-rule double (17) on a line drive to right field. Orlando Arcia scores.,2024,Slider
+SL,668984,570482,No event,swinging_strike,Gio Urshela hits a ground-rule double (17) on a line drive to right field. Orlando Arcia scores.,2024,Slider
+FF,668984,570482,No event,called_strike,Gio Urshela hits a ground-rule double (17) on a line drive to right field. Orlando Arcia scores.,2024,4-Seam Fastball
+CH,668984,606115,single,hit_into_play,"Orlando Arcia singles on a soft ground ball to pitcher Casey Legumina. Orlando Arcia to 2nd. Orlando Arcia advances to 2nd, on a throwing error by pitcher Casey Legumina.",2024,Changeup
+FF,668984,606115,No event,called_strike,"Orlando Arcia singles on a soft ground ball to pitcher Casey Legumina. Orlando Arcia to 2nd. Orlando Arcia advances to 2nd, on a throwing error by pitcher Casey Legumina.",2024,4-Seam Fastball
+FF,668984,606115,No event,foul,"Orlando Arcia singles on a soft ground ball to pitcher Casey Legumina. Orlando Arcia to 2nd. Orlando Arcia advances to 2nd, on a throwing error by pitcher Casey Legumina.",2024,4-Seam Fastball
+CH,668984,606115,No event,ball,"Orlando Arcia singles on a soft ground ball to pitcher Casey Legumina. Orlando Arcia to 2nd. Orlando Arcia advances to 2nd, on a throwing error by pitcher Casey Legumina.",2024,Changeup
+SL,668984,669221,field_out,hit_into_play,Sean Murphy flies out to right fielder Amed Rosario.,2024,Slider
+FF,668984,669221,No event,foul,Sean Murphy flies out to right fielder Amed Rosario.,2024,4-Seam Fastball
+CH,668984,669221,No event,ball,Sean Murphy flies out to right fielder Amed Rosario.,2024,Changeup
+FF,668984,669221,No event,called_strike,Sean Murphy flies out to right fielder Amed Rosario.,2024,4-Seam Fastball
+SL,668984,669221,No event,ball,Sean Murphy flies out to right fielder Amed Rosario.,2024,Slider
+SL,668984,669221,No event,ball,Sean Murphy flies out to right fielder Amed Rosario.,2024,Slider
+FF,668984,669221,No event,foul,Sean Murphy flies out to right fielder Amed Rosario.,2024,4-Seam Fastball
+FF,668984,593160,field_out,hit_into_play,"Whit Merrifield grounds out, shortstop Elly De La Cruz to first baseman Ty France.",2024,4-Seam Fastball
+SL,668984,593160,No event,ball,"Whit Merrifield grounds out, shortstop Elly De La Cruz to first baseman Ty France.",2024,Slider
+SL,668984,657656,strikeout,swinging_strike,Ramón Laureano strikes out swinging.,2024,Slider
+CH,668984,657656,No event,foul,Ramón Laureano strikes out swinging.,2024,Changeup
+FF,668984,657656,No event,foul,Ramón Laureano strikes out swinging.,2024,4-Seam Fastball
+CH,668984,657656,No event,foul,Ramón Laureano strikes out swinging.,2024,Changeup
+CH,668984,657656,No event,called_strike,Ramón Laureano strikes out swinging.,2024,Changeup
+SL,668984,657656,No event,ball,Ramón Laureano strikes out swinging.,2024,Slider
+FF,668984,657656,No event,called_strike,Ramón Laureano strikes out swinging.,2024,4-Seam Fastball
+FF,668984,668904,field_out,hit_into_play,Royce Lewis lines out to left fielder Blake Dunn.,2024,4-Seam Fastball
+CH,668984,668904,No event,ball,Royce Lewis lines out to left fielder Blake Dunn.,2024,Changeup
+FF,668984,670242,field_out,hit_into_play,Matt Wallner flies out to left fielder Blake Dunn.,2024,4-Seam Fastball
+SL,668984,670242,No event,foul,Matt Wallner flies out to left fielder Blake Dunn.,2024,Slider
+CH,668984,670242,No event,foul,Matt Wallner flies out to left fielder Blake Dunn.,2024,Changeup
+FF,668984,670242,No event,foul,Matt Wallner flies out to left fielder Blake Dunn.,2024,4-Seam Fastball
+CH,668984,670242,No event,ball,Matt Wallner flies out to left fielder Blake Dunn.,2024,Changeup
+CH,668984,670242,No event,swinging_strike,Matt Wallner flies out to left fielder Blake Dunn.,2024,Changeup
+SL,668984,622534,field_out,hit_into_play,Manuel Margot flies out to center fielder TJ Friedl.,2024,Slider
+FF,668984,622534,No event,foul,Manuel Margot flies out to center fielder TJ Friedl.,2024,4-Seam Fastball
+FF,668984,571657,strikeout,called_strike,Kyle Farmer called out on strikes.,2024,4-Seam Fastball
+CH,668984,571657,No event,foul,Kyle Farmer called out on strikes.,2024,Changeup
+SL,668984,571657,No event,foul,Kyle Farmer called out on strikes.,2024,Slider
+FF,668984,571657,No event,foul,Kyle Farmer called out on strikes.,2024,4-Seam Fastball
+CH,668984,571657,No event,foul,Kyle Farmer called out on strikes.,2024,Changeup
+FF,668984,571657,No event,called_strike,Kyle Farmer called out on strikes.,2024,4-Seam Fastball
+CH,668984,686797,triple,hit_into_play,Brooks Lee triples (1) on a ground ball to right fielder Jake Fraley. Trevor Larnach scores. Willi Castro scores. Ryan Jeffers scores.,2024,Changeup
+CH,668984,686797,No event,ball,Brooks Lee triples (1) on a ground ball to right fielder Jake Fraley. Trevor Larnach scores. Willi Castro scores. Ryan Jeffers scores.,2024,Changeup
+FF,668984,686797,No event,foul,Brooks Lee triples (1) on a ground ball to right fielder Jake Fraley. Trevor Larnach scores. Willi Castro scores. Ryan Jeffers scores.,2024,4-Seam Fastball
+CH,668984,686797,No event,ball,Brooks Lee triples (1) on a ground ball to right fielder Jake Fraley. Trevor Larnach scores. Willi Castro scores. Ryan Jeffers scores.,2024,Changeup
+FF,668984,680777,single,hit_into_play,Ryan Jeffers singles on a line drive to center fielder TJ Friedl. Trevor Larnach to 3rd. Willi Castro to 2nd.,2024,4-Seam Fastball
+FF,668984,680777,No event,ball,Ryan Jeffers singles on a line drive to center fielder TJ Friedl. Trevor Larnach to 3rd. Willi Castro to 2nd.,2024,4-Seam Fastball
+FF,668984,650489,hit_by_pitch,hit_by_pitch,Willi Castro hit by pitch.,2024,4-Seam Fastball
+CH,668984,676475,field_out,hit_into_play,"Alec Burleson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,Changeup
+FF,668984,676475,No event,foul,"Alec Burleson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+CH,668984,691026,fielders_choice,hit_into_play,"Masyn Winn reaches on a fielder's choice, fielded by shortstop Elly De La Cruz. Thomas Saggese scores. Brendan Donovan to 3rd. Michael Siani to 2nd. Fielding error by shortstop Elly De La Cruz.",2024,Changeup
+CH,668984,691026,No event,ball,"Masyn Winn reaches on a fielder's choice, fielded by shortstop Elly De La Cruz. Thomas Saggese scores. Brendan Donovan to 3rd. Michael Siani to 2nd. Fielding error by shortstop Elly De La Cruz.",2024,Changeup
+FF,668984,691026,No event,called_strike,"Masyn Winn reaches on a fielder's choice, fielded by shortstop Elly De La Cruz. Thomas Saggese scores. Brendan Donovan to 3rd. Michael Siani to 2nd. Fielding error by shortstop Elly De La Cruz.",2024,4-Seam Fastball
+FF,668984,691026,No event,called_strike,"Masyn Winn reaches on a fielder's choice, fielded by shortstop Elly De La Cruz. Thomas Saggese scores. Brendan Donovan to 3rd. Michael Siani to 2nd. Fielding error by shortstop Elly De La Cruz.",2024,4-Seam Fastball
+FF,668984,691026,No event,ball,"Masyn Winn reaches on a fielder's choice, fielded by shortstop Elly De La Cruz. Thomas Saggese scores. Brendan Donovan to 3rd. Michael Siani to 2nd. Fielding error by shortstop Elly De La Cruz.",2024,4-Seam Fastball
+CH,668984,664913,field_out,hit_into_play,Seth Brown flies out to center fielder TJ Friedl.,2024,Changeup
+FF,668984,664913,No event,ball,Seth Brown flies out to center fielder TJ Friedl.,2024,4-Seam Fastball
+FF,668984,669127,field_out,hit_into_play,Shea Langeliers flies out to right fielder Rece Hinds.,2024,4-Seam Fastball
+FF,668984,668709,walk,ball,JJ Bleday walks.   Lawrence Butler to 2nd.,2024,4-Seam Fastball
+CH,668984,668709,No event,ball,JJ Bleday walks.   Lawrence Butler to 2nd.,2024,Changeup
+FF,668984,668709,No event,ball,JJ Bleday walks.   Lawrence Butler to 2nd.,2024,4-Seam Fastball
+CH,668984,668709,No event,foul,JJ Bleday walks.   Lawrence Butler to 2nd.,2024,Changeup
+FF,668984,668709,No event,ball,JJ Bleday walks.   Lawrence Butler to 2nd.,2024,4-Seam Fastball
+SL,668984,667670,strikeout,swinging_strike,Brent Rooker strikes out swinging.,2024,Slider
+FF,668984,667670,No event,ball,Brent Rooker strikes out swinging.,2024,4-Seam Fastball
+FF,668984,667670,No event,called_strike,Brent Rooker strikes out swinging.,2024,4-Seam Fastball
+FF,668984,667670,No event,swinging_strike,Brent Rooker strikes out swinging.,2024,4-Seam Fastball
+CH,668984,671732,single,hit_into_play,Lawrence Butler singles on a ground ball to left fielder Spencer Steer.,2024,Changeup
+FF,668984,671732,No event,swinging_strike,Lawrence Butler singles on a ground ball to left fielder Spencer Steer.,2024,4-Seam Fastball
+CH,668984,671732,No event,ball,Lawrence Butler singles on a ground ball to left fielder Spencer Steer.,2024,Changeup
+FF,668984,671732,No event,ball,Lawrence Butler singles on a ground ball to left fielder Spencer Steer.,2024,4-Seam Fastball
+CH,668984,671732,No event,called_strike,Lawrence Butler singles on a ground ball to left fielder Spencer Steer.,2024,Changeup
+FF,668984,671732,No event,ball,Lawrence Butler singles on a ground ball to left fielder Spencer Steer.,2024,4-Seam Fastball
+FF,668984,805779,field_out,hit_into_play,"Jacob Wilson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+SL,668984,805779,No event,foul,"Jacob Wilson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,Slider
+FF,668984,805779,No event,called_strike,"Jacob Wilson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+FF,668984,805779,No event,called_strike,"Jacob Wilson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+FF,668984,805779,No event,ball,"Jacob Wilson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+FF,668984,805779,No event,ball,"Jacob Wilson grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+CH,668984,680474,single,hit_into_play,Max Schuemann singles on a line drive to left fielder Spencer Steer.,2024,Changeup
+FF,668984,680474,No event,foul,Max Schuemann singles on a line drive to left fielder Spencer Steer.,2024,4-Seam Fastball
+SL,668984,680474,No event,called_strike,Max Schuemann singles on a line drive to left fielder Spencer Steer.,2024,Slider
+CH,668984,680474,No event,ball,Max Schuemann singles on a line drive to left fielder Spencer Steer.,2024,Changeup
+SL,668984,680869,home_run,hit_into_play,Zack Gelof homers (16) on a fly ball to left center field.,2024,Slider
+SL,668984,680869,No event,foul,Zack Gelof homers (16) on a fly ball to left center field.,2024,Slider
+FF,668984,663662,strikeout,called_strike,Daz Cameron called out on strikes.,2024,4-Seam Fastball
+CH,668984,663662,No event,foul,Daz Cameron called out on strikes.,2024,Changeup
+SL,668984,663662,No event,called_strike,Daz Cameron called out on strikes.,2024,Slider
+CH,668984,664913,strikeout,swinging_strike,Seth Brown strikes out swinging.,2024,Changeup
+FF,668984,664913,No event,foul,Seth Brown strikes out swinging.,2024,4-Seam Fastball
+CH,668984,664913,No event,swinging_strike,Seth Brown strikes out swinging.,2024,Changeup
+CH,668984,664913,No event,ball,Seth Brown strikes out swinging.,2024,Changeup
+FF,668984,664913,No event,foul,Seth Brown strikes out swinging.,2024,4-Seam Fastball
+SL,668984,521692,grounded_into_double_play,hit_into_play,"Salvador Perez grounds into a double play, shortstop Elly De La Cruz to second baseman Jonathan India to first baseman Ty France. Vinnie Pasquantino out at 2nd. Salvador Perez out at 1st.",2024,Slider
+FF,668984,686469,single,hit_into_play,Vinnie Pasquantino singles on a sharp ground ball to left fielder Spencer Steer. Maikel Garcia scores. Bobby Witt Jr. to 2nd.,2024,4-Seam Fastball
+FF,668984,686469,No event,foul,Vinnie Pasquantino singles on a sharp ground ball to left fielder Spencer Steer. Maikel Garcia scores. Bobby Witt Jr. to 2nd.,2024,4-Seam Fastball
+SL,668984,677951,single,hit_into_play,Bobby Witt Jr. singles on a ground ball to right fielder Stuart Fairchild. Kyle Isbel scores. Maikel Garcia to 3rd.,2024,Slider
+FF,668984,677951,No event,ball,Bobby Witt Jr. singles on a ground ball to right fielder Stuart Fairchild. Kyle Isbel scores. Maikel Garcia to 3rd.,2024,4-Seam Fastball
+CH,668984,677951,No event,foul,Bobby Witt Jr. singles on a ground ball to right fielder Stuart Fairchild. Kyle Isbel scores. Maikel Garcia to 3rd.,2024,Changeup
+SL,668984,672580,fielders_choice_out,hit_into_play,"Maikel Garcia reaches on a fielder's choice out, shortstop Elly De La Cruz unassisted. MJ Melendez out at home.",2024,Slider
+SL,668984,672580,No event,ball,"Maikel Garcia reaches on a fielder's choice out, shortstop Elly De La Cruz unassisted. MJ Melendez out at home.",2024,Slider
+FF,668984,672580,No event,ball,"Maikel Garcia reaches on a fielder's choice out, shortstop Elly De La Cruz unassisted. MJ Melendez out at home.",2024,4-Seam Fastball
+SL,668984,664728,double,hit_into_play,"Kyle Isbel doubles (8) on a ground ball to second baseman Jonathan India, deflected by first baseman Ty France. Adam Frazier scores. MJ Melendez to 3rd.",2024,Slider
+FF,668984,664728,No event,called_strike,"Kyle Isbel doubles (8) on a ground ball to second baseman Jonathan India, deflected by first baseman Ty France. Adam Frazier scores. MJ Melendez to 3rd.",2024,4-Seam Fastball
+FF,668984,669004,single,hit_into_play,MJ Melendez singles on a ground ball to right fielder Stuart Fairchild. Freddy Fermin scores. Adam Frazier to 3rd.,2024,4-Seam Fastball
+CH,668984,686681,single,hit_into_play,Michael Massey singles on a sharp line drive to right fielder Stuart Fairchild. Freddy Fermin to 2nd.,2024,Changeup
+FF,668984,686681,No event,ball,Michael Massey singles on a sharp line drive to right fielder Stuart Fairchild. Freddy Fermin to 2nd.,2024,4-Seam Fastball
+FF,668984,666023,single,hit_into_play,Freddy Fermin singles on a ground ball to right fielder Stuart Fairchild.,2024,4-Seam Fastball
+SL,668984,592669,field_out,hit_into_play,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,Slider
+FF,668984,592669,No event,ball,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,4-Seam Fastball
+CH,668984,592669,No event,foul,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,Changeup
+FF,668984,592669,No event,foul,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,4-Seam Fastball
+FF,668984,592669,No event,foul,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,4-Seam Fastball
+SL,668984,592669,No event,ball,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,Slider
+SL,668984,592669,No event,ball,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,Slider
+FF,668984,592669,No event,called_strike,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,4-Seam Fastball
+SL,668984,592669,No event,swinging_strike,"Hunter Renfroe grounds out, third baseman Santiago Espinal to first baseman Ty France.",2024,Slider
+CH,668984,521692,field_out,hit_into_play,"Salvador Perez grounds out, shortstop Elly De La Cruz to first baseman Ty France.",2024,Changeup
+FF,668984,521692,No event,foul,"Salvador Perez grounds out, shortstop Elly De La Cruz to first baseman Ty France.",2024,4-Seam Fastball
+FF,668984,521692,No event,ball,"Salvador Perez grounds out, shortstop Elly De La Cruz to first baseman Ty France.",2024,4-Seam Fastball
+CH,668984,686469,field_out,hit_into_play,"Vinnie Pasquantino grounds out, second baseman Jonathan India to first baseman Ty France.",2024,Changeup
+SL,668984,686469,No event,foul,"Vinnie Pasquantino grounds out, second baseman Jonathan India to first baseman Ty France.",2024,Slider
+FF,668984,686469,No event,foul,"Vinnie Pasquantino grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+CH,668984,686469,No event,called_strike,"Vinnie Pasquantino grounds out, second baseman Jonathan India to first baseman Ty France.",2024,Changeup
+FF,668984,686469,No event,ball,"Vinnie Pasquantino grounds out, second baseman Jonathan India to first baseman Ty France.",2024,4-Seam Fastball
+SL,668984,592663,force_out,hit_into_play,"J.T. Realmuto grounds into a force out, third baseman Jeimer Candelario to second baseman Santiago Espinal.   Trea Turner out at 2nd.",2024,Slider
+FF,668984,607208,single,hit_into_play,Trea Turner singles on a sharp line drive to left fielder Spencer Steer.,2024,4-Seam Fastball
+SL,668984,607208,No event,ball,Trea Turner singles on a sharp line drive to left fielder Spencer Steer.,2024,Slider
+FF,668984,656941,strikeout,called_strike,Kyle Schwarber called out on strikes.,2024,4-Seam Fastball
+CH,668984,656941,No event,foul,Kyle Schwarber called out on strikes.,2024,Changeup
+CH,668984,656941,No event,called_strike,Kyle Schwarber called out on strikes.,2024,Changeup
+SL,668984,656941,No event,called_strike,Kyle Schwarber called out on strikes.,2024,Slider
+SL,668984,679032,field_out,hit_into_play,"Johan Rojas grounds out, third baseman Jeimer Candelario to first baseman Christian Encarnacion-Strand.",2024,Slider
+FF,668984,665019,home_run,hit_into_play,Kody Clemens homers (1) on a fly ball to right center field.    Nick Castellanos scores.    Bryson Stott scores.,2024,4-Seam Fastball
+FF,668984,665019,No event,foul,Kody Clemens homers (1) on a fly ball to right center field.    Nick Castellanos scores.    Bryson Stott scores.,2024,4-Seam Fastball
+FF,668984,665019,No event,ball,Kody Clemens homers (1) on a fly ball to right center field.    Nick Castellanos scores.    Bryson Stott scores.,2024,4-Seam Fastball
+FF,668984,665019,No event,foul,Kody Clemens homers (1) on a fly ball to right center field.    Nick Castellanos scores.    Bryson Stott scores.,2024,4-Seam Fastball
+SL,668984,665019,No event,ball,Kody Clemens homers (1) on a fly ball to right center field.    Nick Castellanos scores.    Bryson Stott scores.,2024,Slider
+FF,668984,665019,No event,ball,Kody Clemens homers (1) on a fly ball to right center field.    Nick Castellanos scores.    Bryson Stott scores.,2024,4-Seam Fastball
+FF,668984,681082,walk,ball,Bryson Stott walks.   Nick Castellanos to 2nd.,2024,4-Seam Fastball
+FF,668984,681082,No event,ball,Bryson Stott walks.   Nick Castellanos to 2nd.,2024,4-Seam Fastball
+FF,668984,681082,No event,ball,Bryson Stott walks.   Nick Castellanos to 2nd.,2024,4-Seam Fastball
+FF,668984,681082,No event,ball,Bryson Stott walks.   Nick Castellanos to 2nd.,2024,4-Seam Fastball
+SL,668984,592206,field_error,hit_into_play,Nick Castellanos reaches on a fielding error by third baseman Jeimer Candelario.,2024,Slider
+SL,668984,664761,field_out,hit_into_play,"Alec Bohm grounds out, shortstop Elly De La Cruz to first baseman Christian Encarnacion-Strand.",2024,Slider
+SL,668984,664761,No event,called_strike,"Alec Bohm grounds out, shortstop Elly De La Cruz to first baseman Christian Encarnacion-Strand.",2024,Slider
+FF,668984,669016,field_out,hit_into_play,Brandon Marsh lines out sharply to left fielder Spencer Steer.,2024,4-Seam Fastball
+SL,668984,669016,No event,ball,Brandon Marsh lines out sharply to left fielder Spencer Steer.,2024,Slider
+FF,668984,669016,No event,ball,Brandon Marsh lines out sharply to left fielder Spencer Steer.,2024,4-Seam Fastball
+FF,668984,669016,No event,foul,Brandon Marsh lines out sharply to left fielder Spencer Steer.,2024,4-Seam Fastball
+FF,668984,669016,No event,ball,Brandon Marsh lines out sharply to left fielder Spencer Steer.,2024,4-Seam Fastball
+SL,668984,592663,field_out,hit_into_play,"J.T. Realmuto grounds out, third baseman Jeimer Candelario to first baseman Christian Encarnacion-Strand.",2024,Slider
+FF,668984,592663,No event,ball,"J.T. Realmuto grounds out, third baseman Jeimer Candelario to first baseman Christian Encarnacion-Strand.",2024,4-Seam Fastball
+FF,668984,592663,No event,foul,"J.T. Realmuto grounds out, third baseman Jeimer Candelario to first baseman Christian Encarnacion-Strand.",2024,4-Seam Fastball
+SL,668984,592663,No event,ball,"J.T. Realmuto grounds out, third baseman Jeimer Candelario to first baseman Christian Encarnacion-Strand.",2024,Slider
+,668984,663698,strikeout,foul_tip,Joey Bart strikes out on a foul tip.,2024,
+,668984,663698,No event,swinging_strike,Joey Bart strikes out on a foul tip.,2024,
+,668984,663698,No event,swinging_strike,Joey Bart strikes out on a foul tip.,2024,
+,668984,676198,double,hit_into_play,Chase Pinder doubles (1) on a fly ball to center fielder Justice Thompson.   Pablo Sandoval scores.    Tyler Fitzgerald scores.,2024,
+,668984,666149,walk,ball,Tyler Fitzgerald walks.   Pablo Sandoval to 2nd.,2024,
+,668984,666149,No event,ball,Tyler Fitzgerald walks.   Pablo Sandoval to 2nd.,2024,
+,668984,666149,No event,ball,Tyler Fitzgerald walks.   Pablo Sandoval to 2nd.,2024,
+,668984,666149,No event,ball,Tyler Fitzgerald walks.   Pablo Sandoval to 2nd.,2024,
+,668984,669477,field_out,hit_into_play,Casey Schmitt flies out to left fielder Anthony Alford.,2024,
+,668984,467055,single,hit_into_play,Pablo Sandoval singles on a ground ball to center fielder Justice Thompson.,2024,
+,668984,681584,home_run,hit_into_play,David Villar homers (2) on a fly ball to left center field.   Luis Matos scores.,2024,
+,668984,681584,No event,swinging_strike,David Villar homers (2) on a fly ball to left center field.   Luis Matos scores.,2024,
+,668984,681584,No event,ball,David Villar homers (2) on a fly ball to left center field.   Luis Matos scores.,2024,
+,668984,665998,field_out,hit_into_play,"Ismael Munguia grounds out, shortstop Victor Acosta to first baseman Alex McGarry.",2024,
+,668984,682641,double,hit_into_play,Luis Matos doubles (5) on a line drive to center fielder Justice Thompson.,2024,
+,668984,691718,field_out,hit_into_play,Pete Crow-Armstrong lines out to shortstop Miguel Hernandez.,2024,
+,668984,672744,strikeout,swinging_strike,Alexander Canario strikes out swinging.,2024,
+,668984,672744,No event,called_strike,Alexander Canario strikes out swinging.,2024,
+,668984,672744,No event,swinging_strike,Alexander Canario strikes out swinging.,2024,
+,668984,595751,strikeout,swinging_strike,Jorge Alfaro strikes out swinging.,2024,
+,668984,595751,No event,foul,Jorge Alfaro strikes out swinging.,2024,
+,668984,595751,No event,called_strike,Jorge Alfaro strikes out swinging.,2024,
+,668984,683737,field_out,hit_into_play,Michael Busch flies out to left fielder Spencer Steer.,2024,
+,668984,643265,strikeout,swinging_strike,Garrett Cooper strikes out swinging.,2024,
+,668984,643265,No event,swinging_strike,Garrett Cooper strikes out swinging.,2024,
+,668984,643265,No event,called_strike,Garrett Cooper strikes out swinging.,2024,
+,668984,683357,field_out,hit_into_play,"Owen Caissie grounds out, second baseman Tony Kemp to first baseman Mike Ford.",2024,
+,668984,695078,field_out,hit_into_play,Jean Walters grounds out to first baseman Alex McGarry.,2024,
+,668984,683490,field_out,hit_into_play,"J.J. D'Orazio grounds out, shortstop Hernán Pérez to first baseman Alex McGarry.",2024,
+,668984,678689,double,hit_into_play,Neyfy Castillo doubles (1) on a line drive to right fielder Rece Hinds.   Andy Weber to 3rd.,2024,
+,668984,681581,single,hit_into_play,Andy Weber singles on a line drive to center fielder Blake Dunn.   Tim Tawa scores.,2024,
+,668984,805842,strikeout,swinging_strike,Brett Johnson strikes out swinging.,2024,
+,668984,805842,No event,swinging_strike,Brett Johnson strikes out swinging.,2024,
+,668984,805842,No event,swinging_strike,Brett Johnson strikes out swinging.,2024,
+,668984,694374,triple,hit_into_play,Tim Tawa triples (1) on a ground ball to left fielder Jacob Hurtubise.,2024,
+,668984,661388,strikeout,swinging_strike,William Contreras strikes out swinging.,2024,
+,668984,661388,No event,foul,William Contreras strikes out swinging.,2024,
+,668984,661388,No event,ball,William Contreras strikes out swinging.,2024,
+,668984,661388,No event,ball,William Contreras strikes out swinging.,2024,
+,668984,661388,No event,swinging_strike,William Contreras strikes out swinging.,2024,
+,668984,661388,No event,called_strike,William Contreras strikes out swinging.,2024,
+,668984,686217,field_out,hit_into_play,Sal Frelick pops out to third baseman Mark Mathias in foul territory.,2024,
+,668984,686217,No event,called_strike,Sal Frelick pops out to third baseman Mark Mathias in foul territory.,2024,
+,668984,686217,No event,called_strike,Sal Frelick pops out to third baseman Mark Mathias in foul territory.,2024,
+,668984,676551,double,hit_into_play,Brewer Hicklen doubles (1) on a line drive to left fielder Will Benson.,2024,
+,668984,676551,No event,ball,Brewer Hicklen doubles (1) on a line drive to left fielder Will Benson.,2024,
+,668984,676551,No event,called_strike,Brewer Hicklen doubles (1) on a line drive to left fielder Will Benson.,2024,
+,668984,606992,field_out,hit_into_play,Eric Haase lines out to left fielder Will Benson.,2024,
+,668984,606992,No event,ball,Eric Haase lines out to left fielder Will Benson.,2024,
+,668984,606992,No event,called_strike,Eric Haase lines out to left fielder Will Benson.,2024,
+,668984,606992,No event,ball,Eric Haase lines out to left fielder Will Benson.,2024,
+,668984,606992,No event,ball,Eric Haase lines out to left fielder Will Benson.,2024,

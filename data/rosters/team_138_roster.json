@@ -1,0 +1,202 @@
+[
+    {
+        "jersey_number": "41",
+        "position": "1B",
+        "name": "Alec Burleson"
+    },
+    {
+        "jersey_number": "53",
+        "position": "P",
+        "name": "Andre Pallante"
+    },
+    {
+        "jersey_number": "33",
+        "position": "IF",
+        "name": "Brendan Donovan"
+    },
+    {
+        "jersey_number": "58",
+        "position": "P",
+        "name": "Chris Roycroft"
+    },
+    {
+        "jersey_number": "12",
+        "position": "P",
+        "name": "Erick Fedde"
+    },
+    {
+        "jersey_number": "44",
+        "position": "P",
+        "name": "Gordon Graceffo"
+    },
+    {
+        "jersey_number": "48",
+        "position": "C",
+        "name": "Iván Herrera"
+    },
+    {
+        "jersey_number": "59",
+        "position": "P",
+        "name": "JoJo Romero"
+    },
+    {
+        "jersey_number": "47",
+        "position": "P",
+        "name": "John King"
+    },
+    {
+        "jersey_number": "18",
+        "position": "RF",
+        "name": "Jordan Walker"
+    },
+    {
+        "jersey_number": "15",
+        "position": "2B",
+        "name": "José Fermín"
+    },
+    {
+        "jersey_number": "62",
+        "position": "P",
+        "name": "Kyle Leahy"
+    },
+    {
+        "jersey_number": "21",
+        "position": "RF",
+        "name": "Lars Nootbaar"
+    },
+    {
+        "jersey_number": "26",
+        "position": "1B",
+        "name": "Luken Baker"
+    },
+    {
+        "jersey_number": "0",
+        "position": "SS",
+        "name": "Masyn Winn"
+    },
+    {
+        "jersey_number": "29",
+        "position": "LF",
+        "name": "Matt Koperniak"
+    },
+    {
+        "jersey_number": "49",
+        "position": "P",
+        "name": "Matt Svanson"
+    },
+    {
+        "jersey_number": "52",
+        "position": "P",
+        "name": "Matthew Liberatore"
+    },
+    {
+        "jersey_number": "13",
+        "position": "CF",
+        "name": "Michael Helman"
+    },
+    {
+        "jersey_number": "36",
+        "position": "P",
+        "name": "Michael McGreevy"
+    },
+    {
+        "jersey_number": "22",
+        "position": "CF",
+        "name": "Michael Siani"
+    },
+    {
+        "jersey_number": "39",
+        "position": "P",
+        "name": "Miles Mikolas"
+    },
+    {
+        "jersey_number": "28",
+        "position": "3B",
+        "name": "Nolan Arenado"
+    },
+    {
+        "jersey_number": "16",
+        "position": "2B",
+        "name": "Nolan Gorman"
+    },
+    {
+        "jersey_number": "43",
+        "position": "C",
+        "name": "Pedro Pagés"
+    },
+    {
+        "jersey_number": "88",
+        "position": "P",
+        "name": "Phil Maton"
+    },
+    {
+        "jersey_number": "55",
+        "position": "P",
+        "name": "Riley O'Brien"
+    },
+    {
+        "jersey_number": "35",
+        "position": "P",
+        "name": "Roddery Muñoz"
+    },
+    {
+        "jersey_number": "64",
+        "position": "P",
+        "name": "Ryan Fernandez"
+    },
+    {
+        "jersey_number": "56",
+        "position": "P",
+        "name": "Ryan Helsley"
+    },
+    {
+        "jersey_number": "68",
+        "position": "P",
+        "name": "Ryan Loutos"
+    },
+    {
+        "jersey_number": "61",
+        "position": "P",
+        "name": "Sem Robberse"
+    },
+    {
+        "jersey_number": "54",
+        "position": "P",
+        "name": "Sonny Gray"
+    },
+    {
+        "jersey_number": "32",
+        "position": "P",
+        "name": "Steven Matz"
+    },
+    {
+        "jersey_number": "38",
+        "position": "P",
+        "name": "Tekoah Roby"
+    },
+    {
+        "jersey_number": "25",
+        "position": "2B",
+        "name": "Thomas Saggese"
+    },
+    {
+        "jersey_number": "30",
+        "position": "P",
+        "name": "Tink Hence"
+    },
+    {
+        "jersey_number": "11",
+        "position": "CF",
+        "name": "Victor Scott II"
+    },
+    {
+        "jersey_number": "40",
+        "position": "1B",
+        "name": "Willson Contreras"
+    },
+    {
+        "jersey_number": "57",
+        "position": "P",
+        "name": "Zack Thompson"
+    }
+]

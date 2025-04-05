@@ -1,0 +1,86 @@
+pitch_type,pitcher,batter,events,description,des,game_year,pitch_name
+,608337,665561,strikeout,called_strike,Rafael Marchán called out on strikes.,2025,
+,608337,665561,No event,ball,Rafael Marchán called out on strikes.,2025,
+,608337,665561,No event,ball,Rafael Marchán called out on strikes.,2025,
+,608337,665561,No event,foul,Rafael Marchán called out on strikes.,2025,
+,608337,665561,No event,called_strike,Rafael Marchán called out on strikes.,2025,
+,608337,665561,No event,ball,Rafael Marchán called out on strikes.,2025,
+,608337,671083,sac_fly,hit_into_play,Buddy Kennedy out on a sacrifice fly to center fielder Ceddanne Rafaela. Johan Rojas scores.,2025,
+,608337,671083,No event,called_strike,Buddy Kennedy out on a sacrifice fly to center fielder Ceddanne Rafaela. Johan Rojas scores.,2025,
+,608337,664761,sac_fly,hit_into_play,Alec Bohm out on a sacrifice fly to right fielder Trayce Thompson. Bryson Stott scores. Johan Rojas to 3rd.,2025,
+,608337,664761,No event,ball,Alec Bohm out on a sacrifice fly to right fielder Trayce Thompson. Bryson Stott scores. Johan Rojas to 3rd.,2025,
+,608337,664761,No event,ball,Alec Bohm out on a sacrifice fly to right fielder Trayce Thompson. Bryson Stott scores. Johan Rojas to 3rd.,2025,
+,608337,669016,walk,ball,Brandon Marsh walks.,2025,
+,608337,669016,No event,ball,Brandon Marsh walks.,2025,
+,608337,669016,No event,foul,Brandon Marsh walks.,2025,
+,608337,669016,No event,ball,Brandon Marsh walks.,2025,
+,608337,669016,No event,ball,Brandon Marsh walks.,2025,
+,608337,679032,double,hit_into_play,Johan Rojas doubles (1) on a ground ball to left fielder Jarren Duran. Bryson Stott to 3rd.,2025,
+,608337,679032,No event,ball,Johan Rojas doubles (1) on a ground ball to left fielder Jarren Duran. Bryson Stott to 3rd.,2025,
+,608337,681082,walk,ball,Bryson Stott walks.,2025,
+,608337,681082,No event,called_strike,Bryson Stott walks.,2025,
+,608337,681082,No event,ball,Bryson Stott walks.,2025,
+,608337,681082,No event,ball,Bryson Stott walks.,2025,
+,608337,681082,No event,called_strike,Bryson Stott walks.,2025,
+,608337,681082,No event,ball,Bryson Stott walks.,2025,
+FF,608337,621439,walk,ball,Byron Buxton walks. Edouard Julien to 3rd. Carlos Correa to 2nd.,2024,4-Seam Fastball
+SL,608337,621439,No event,foul,Byron Buxton walks. Edouard Julien to 3rd. Carlos Correa to 2nd.,2024,Slider
+CH,608337,621439,No event,ball,Byron Buxton walks. Edouard Julien to 3rd. Carlos Correa to 2nd.,2024,Changeup
+SL,608337,621439,No event,ball,Byron Buxton walks. Edouard Julien to 3rd. Carlos Correa to 2nd.,2024,Slider
+SL,608337,621439,No event,ball,Byron Buxton walks. Edouard Julien to 3rd. Carlos Correa to 2nd.,2024,Slider
+SL,608337,621439,No event,swinging_strike,Byron Buxton walks. Edouard Julien to 3rd. Carlos Correa to 2nd.,2024,Slider
+FF,608337,621439,No event,swinging_strike,Byron Buxton walks. Edouard Julien to 3rd. Carlos Correa to 2nd.,2024,4-Seam Fastball
+SL,608337,621043,walk,ball,Carlos Correa walks. Edouard Julien to 2nd.,2024,Slider
+FF,608337,621043,No event,ball,Carlos Correa walks. Edouard Julien to 2nd.,2024,4-Seam Fastball
+SL,608337,621043,No event,ball,Carlos Correa walks. Edouard Julien to 2nd.,2024,Slider
+CH,608337,621043,No event,swinging_strike,Carlos Correa walks. Edouard Julien to 2nd.,2024,Changeup
+CH,608337,621043,No event,ball,Carlos Correa walks. Edouard Julien to 2nd.,2024,Changeup
+FF,608337,666397,single,hit_into_play,Edouard Julien singles on a ground ball to center fielder Ceddanne Rafaela.,2024,4-Seam Fastball
+CH,608337,666397,No event,ball,Edouard Julien singles on a ground ball to center fielder Ceddanne Rafaela.,2024,Changeup
+CU,608337,666397,No event,called_strike,Edouard Julien singles on a ground ball to center fielder Ceddanne Rafaela.,2024,Curveball
+CH,608337,571657,field_out,hit_into_play,Kyle Farmer flies out to left fielder Jarren Duran.,2024,Changeup
+FF,608337,571657,No event,called_strike,Kyle Farmer flies out to left fielder Jarren Duran.,2024,4-Seam Fastball
+SL,608337,571657,No event,ball,Kyle Farmer flies out to left fielder Jarren Duran.,2024,Slider
+SL,608337,571657,No event,swinging_strike,Kyle Farmer flies out to left fielder Jarren Duran.,2024,Slider
+CH,608337,622534,field_out,hit_into_play,Manuel Margot flies out to center fielder Ceddanne Rafaela.,2024,Changeup
+FF,608337,622534,No event,swinging_strike,Manuel Margot flies out to center fielder Ceddanne Rafaela.,2024,4-Seam Fastball
+FF,608337,622534,No event,called_strike,Manuel Margot flies out to center fielder Ceddanne Rafaela.,2024,4-Seam Fastball
+CH,608337,543877,field_out,hit_into_play,"Christian Vázquez grounds out, third baseman Jamie Westbrook to first baseman Bobby Dalbec.",2024,Changeup
+SL,608337,543877,No event,foul,"Christian Vázquez grounds out, third baseman Jamie Westbrook to first baseman Bobby Dalbec.",2024,Slider
+FF,608337,543877,No event,ball,"Christian Vázquez grounds out, third baseman Jamie Westbrook to first baseman Bobby Dalbec.",2024,4-Seam Fastball
+FF,608337,543877,No event,foul,"Christian Vázquez grounds out, third baseman Jamie Westbrook to first baseman Bobby Dalbec.",2024,4-Seam Fastball
+CH,608337,543877,No event,ball,"Christian Vázquez grounds out, third baseman Jamie Westbrook to first baseman Bobby Dalbec.",2024,Changeup
+SL,608337,543877,No event,ball,"Christian Vázquez grounds out, third baseman Jamie Westbrook to first baseman Bobby Dalbec.",2024,Slider
+SL,608337,467793,field_out,hit_into_play,Carlos Santana flies out to right fielder Wilyer Abreu.,2024,Slider
+FF,608337,467793,No event,called_strike,Carlos Santana flies out to right fielder Wilyer Abreu.,2024,4-Seam Fastball
+CH,608337,596146,field_out,hit_into_play,Max Kepler grounds out to first baseman Bobby Dalbec.,2024,Changeup
+SL,608337,596146,No event,ball,Max Kepler grounds out to first baseman Bobby Dalbec.,2024,Slider
+CH,608337,596146,No event,foul,Max Kepler grounds out to first baseman Bobby Dalbec.,2024,Changeup
+CH,608337,596146,No event,called_strike,Max Kepler grounds out to first baseman Bobby Dalbec.,2024,Changeup
+CH,608337,668904,walk,ball,Royce Lewis walks.,2024,Changeup
+FF,608337,668904,No event,foul,Royce Lewis walks.,2024,4-Seam Fastball
+CH,608337,668904,No event,swinging_strike,Royce Lewis walks.,2024,Changeup
+FF,608337,668904,No event,called_strike,Royce Lewis walks.,2024,4-Seam Fastball
+SL,608337,668904,No event,ball,Royce Lewis walks.,2024,Slider
+CH,608337,668904,No event,ball,Royce Lewis walks.,2024,Changeup
+FF,608337,668904,No event,ball,Royce Lewis walks.,2024,4-Seam Fastball
+FF,608337,621439,strikeout,swinging_strike,Byron Buxton strikes out swinging.,2024,4-Seam Fastball
+SL,608337,621439,No event,called_strike,Byron Buxton strikes out swinging.,2024,Slider
+SL,608337,621439,No event,swinging_strike,Byron Buxton strikes out swinging.,2024,Slider
+SL,608337,621043,field_out,hit_into_play,"Carlos Correa grounds out softly, pitcher Lucas Giolito to first baseman Bobby Dalbec.",2024,Slider
+CH,608337,666397,home_run,hit_into_play,Edouard Julien homers (1) on a fly ball to left center field.,2024,Changeup
+CH,608337,666397,No event,called_strike,Edouard Julien homers (1) on a fly ball to left center field.,2024,Changeup
+FF,608337,666397,No event,called_strike,Edouard Julien homers (1) on a fly ball to left center field.,2024,4-Seam Fastball
+,608337,670870,field_out,hit_into_play,"Yunior Severino grounds out, third baseman Rafael Devers to first baseman Blaze Jordan.",2024,
+,608337,691181,strikeout,swinging_strike,Emmanuel Rodriguez strikes out swinging.,2024,
+,608337,691181,No event,swinging_strike,Emmanuel Rodriguez strikes out swinging.,2024,
+,608337,691181,No event,called_strike,Emmanuel Rodriguez strikes out swinging.,2024,
+,608337,663616,field_out,hit_into_play,"Trevor Larnach grounds out, shortstop Trevor Story to first baseman Blaze Jordan.",2024,
+,608337,686797,field_out,hit_into_play,Brooks Lee flies out to right fielder Rob Refsnyder.,2024,
+,608337,670242,walk,ball,Matt Wallner walks.,2024,
+,608337,670242,No event,ball,Matt Wallner walks.,2024,
+,608337,670242,No event,ball,Matt Wallner walks.,2024,
+,608337,670242,No event,ball,Matt Wallner walks.,2024,
+,608337,543877,field_out,hit_into_play,Christian Vazquez pops out to first baseman Blaze Jordan.,2024,
+,608337,666135,field_out,hit_into_play,Alex Kirilloff flies out to left fielder Tyler O'Neill.,2024,
+,608337,666135,No event,foul,Alex Kirilloff flies out to left fielder Tyler O'Neill.,2024,

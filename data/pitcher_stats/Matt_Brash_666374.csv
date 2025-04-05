@@ -1,0 +1,13 @@
+pitch_type,pitcher,batter,events,description,des,game_year,pitch_name
+SI,666374,686744,walk,ball,Jake Snider walks.,2025,Sinker
+SI,666374,686744,No event,ball,Jake Snider walks.,2025,Sinker
+FF,666374,686744,No event,ball,Jake Snider walks.,2025,4-Seam Fastball
+FF,666374,686744,No event,ball,Jake Snider walks.,2025,4-Seam Fastball
+SI,666374,670092,strikeout,called_strike,Trenton Brooks called out on strikes.,2025,Sinker
+CH,666374,670092,No event,ball,Trenton Brooks called out on strikes.,2025,Changeup
+SI,666374,670092,No event,foul_tip,Trenton Brooks called out on strikes.,2025,Sinker
+SI,666374,670092,No event,ball,Trenton Brooks called out on strikes.,2025,Sinker
+SL,666374,670092,No event,foul_bunt,Trenton Brooks called out on strikes.,2025,Slider
+SL,666374,701682,strikeout,swinging_strike,Braedon Karpathios strikes out swinging.,2025,Slider
+SI,666374,701682,No event,called_strike,Braedon Karpathios strikes out swinging.,2025,Sinker
+SI,666374,701682,No event,called_strike,Braedon Karpathios strikes out swinging.,2025,Sinker

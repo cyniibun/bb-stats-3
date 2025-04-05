@@ -1,0 +1,1255 @@
+pitch_type,pitcher,batter,events,description,des,game_year,pitch_name
+FF,663158,672356,field_out,hit_into_play,Gabriel Arias flies out to left fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,672356,No event,ball,Gabriel Arias flies out to left fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,672356,No event,ball,Gabriel Arias flies out to left fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,672356,No event,swinging_strike,Gabriel Arias flies out to left fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,672356,No event,ball,Gabriel Arias flies out to left fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,677587,strikeout,swinging_strike,Brayan Rocchio strikes out swinging.,2025,4-Seam Fastball
+CH,663158,677587,No event,foul,Brayan Rocchio strikes out swinging.,2025,Changeup
+CH,663158,677587,No event,swinging_strike,Brayan Rocchio strikes out swinging.,2025,Changeup
+FF,663158,677587,No event,foul,Brayan Rocchio strikes out swinging.,2025,4-Seam Fastball
+SI,663158,657041,field_out,hit_into_play,"Lane Thomas grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2025,Sinker
+FF,663158,657041,No event,called_strike,"Lane Thomas grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2025,4-Seam Fastball
+SI,663158,657041,No event,ball,"Lane Thomas grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2025,Sinker
+CH,663158,672284,strikeout,swinging_strike,Jarred Kelenic strikes out swinging.,2025,Changeup
+CH,663158,672284,No event,ball,Jarred Kelenic strikes out swinging.,2025,Changeup
+CH,663158,672284,No event,swinging_strike,Jarred Kelenic strikes out swinging.,2025,Changeup
+FF,663158,672284,No event,called_strike,Jarred Kelenic strikes out swinging.,2025,4-Seam Fastball
+SI,663158,669397,field_out,hit_into_play,Nick Allen lines out to center fielder Jackson Merrill.,2025,Sinker
+FF,663158,669397,No event,foul,Nick Allen lines out to center fielder Jackson Merrill.,2025,4-Seam Fastball
+FF,663158,669397,No event,swinging_strike,Nick Allen lines out to center fielder Jackson Merrill.,2025,4-Seam Fastball
+SI,663158,669397,No event,ball,Nick Allen lines out to center fielder Jackson Merrill.,2025,Sinker
+SI,663158,669397,No event,called_strike,Nick Allen lines out to center fielder Jackson Merrill.,2025,Sinker
+FF,663158,686948,field_out,hit_into_play,"Drake Baldwin grounds out, pitcher Robert Suarez to first baseman Luis Arraez.",2025,4-Seam Fastball
+FF,663158,686948,No event,ball,"Drake Baldwin grounds out, pitcher Robert Suarez to first baseman Luis Arraez.",2025,4-Seam Fastball
+CH,663158,686948,No event,ball,"Drake Baldwin grounds out, pitcher Robert Suarez to first baseman Luis Arraez.",2025,Changeup
+CH,663158,686948,No event,ball,"Drake Baldwin grounds out, pitcher Robert Suarez to first baseman Luis Arraez.",2025,Changeup
+FF,663158,686948,No event,called_strike,"Drake Baldwin grounds out, pitcher Robert Suarez to first baseman Luis Arraez.",2025,4-Seam Fastball
+CH,663158,645277,field_out,hit_into_play,"Ozzie Albies grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2025,Changeup
+FF,663158,645277,No event,called_strike,"Ozzie Albies grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2025,4-Seam Fastball
+CH,663158,645277,No event,ball,"Ozzie Albies grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2025,Changeup
+CH,663158,645277,No event,ball,"Ozzie Albies grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2025,Changeup
+SI,663158,542303,strikeout,swinging_strike,Marcell Ozuna strikes out swinging.,2025,Sinker
+CH,663158,542303,No event,ball,Marcell Ozuna strikes out swinging.,2025,Changeup
+CH,663158,542303,No event,called_strike,Marcell Ozuna strikes out swinging.,2025,Changeup
+CH,663158,542303,No event,swinging_strike,Marcell Ozuna strikes out swinging.,2025,Changeup
+CH,663158,542303,No event,blocked_ball,Marcell Ozuna strikes out swinging.,2025,Changeup
+SI,663158,621566,walk,ball,Matt Olson walks. Austin Riley to 2nd.,2025,Sinker
+FF,663158,621566,No event,ball,Matt Olson walks. Austin Riley to 2nd.,2025,4-Seam Fastball
+SI,663158,621566,No event,ball,Matt Olson walks. Austin Riley to 2nd.,2025,Sinker
+CH,663158,621566,No event,blocked_ball,Matt Olson walks. Austin Riley to 2nd.,2025,Changeup
+SI,663158,663586,field_error,hit_into_play,Austin Riley reaches on a throwing error by shortstop Xander Bogaerts.,2025,Sinker
+SI,663158,663586,No event,ball,Austin Riley reaches on a throwing error by shortstop Xander Bogaerts.,2025,Sinker
+FF,663158,663586,No event,foul,Austin Riley reaches on a throwing error by shortstop Xander Bogaerts.,2025,4-Seam Fastball
+FF,663158,663586,No event,ball,Austin Riley reaches on a throwing error by shortstop Xander Bogaerts.,2025,4-Seam Fastball
+SI,663158,595777,strikeout,called_strike,Jurickson Profar called out on strikes.,2025,Sinker
+SI,663158,595777,No event,foul,Jurickson Profar called out on strikes.,2025,Sinker
+CH,663158,595777,No event,foul,Jurickson Profar called out on strikes.,2025,Changeup
+CH,663158,595777,No event,foul,Jurickson Profar called out on strikes.,2025,Changeup
+SI,663158,595777,No event,foul,Jurickson Profar called out on strikes.,2025,Sinker
+SI,663158,595777,No event,swinging_strike,Jurickson Profar called out on strikes.,2025,Sinker
+SI,663158,595777,No event,ball,Jurickson Profar called out on strikes.,2025,Sinker
+CH,663158,805319,strikeout,called_strike,Dervy Ventura called out on strikes.,2025,Changeup
+CH,663158,805319,No event,blocked_ball,Dervy Ventura called out on strikes.,2025,Changeup
+CH,663158,805319,No event,swinging_strike,Dervy Ventura called out on strikes.,2025,Changeup
+FF,663158,805319,No event,ball,Dervy Ventura called out on strikes.,2025,4-Seam Fastball
+FF,663158,805319,No event,swinging_strike,Dervy Ventura called out on strikes.,2025,4-Seam Fastball
+CH,663158,692046,field_out,hit_into_play,Axel Sanchez flies out to center fielder Tyler Robertson.,2025,Changeup
+CH,663158,692046,No event,swinging_strike,Axel Sanchez flies out to center fielder Tyler Robertson.,2025,Changeup
+FF,663158,701805,single,hit_into_play,Josh Caron singles on a line drive to right fielder Jake Snider.,2025,4-Seam Fastball
+FF,663158,701805,No event,swinging_strike,Josh Caron singles on a line drive to right fielder Jake Snider.,2025,4-Seam Fastball
+FF,663158,701805,No event,swinging_strike,Josh Caron singles on a line drive to right fielder Jake Snider.,2025,4-Seam Fastball
+FF,663158,694806,strikeout,swinging_strike,Brandon Eike strikes out swinging.,2025,4-Seam Fastball
+CH,663158,694806,No event,foul,Brandon Eike strikes out swinging.,2025,Changeup
+CH,663158,694806,No event,ball,Brandon Eike strikes out swinging.,2025,Changeup
+FF,663158,694806,No event,called_strike,Brandon Eike strikes out swinging.,2025,4-Seam Fastball
+FF,663158,694806,No event,foul,Brandon Eike strikes out swinging.,2025,4-Seam Fastball
+FF,663158,678662,walk,ball,Ezequiel Tovar walks. Sean Bouchard to 3rd. Brenton Doyle to 2nd.,2025,4-Seam Fastball
+SI,663158,678662,No event,ball,Ezequiel Tovar walks. Sean Bouchard to 3rd. Brenton Doyle to 2nd.,2025,Sinker
+SI,663158,678662,No event,ball,Ezequiel Tovar walks. Sean Bouchard to 3rd. Brenton Doyle to 2nd.,2025,Sinker
+FF,663158,678662,No event,ball,Ezequiel Tovar walks. Sean Bouchard to 3rd. Brenton Doyle to 2nd.,2025,4-Seam Fastball
+SL,663158,686668,single,hit_into_play,Brenton Doyle singles on a ground ball to center fielder Brandon Lockridge. Nolan Jones scores. Sean Bouchard to 2nd.,2025,Slider
+FF,663158,686668,No event,foul,Brenton Doyle singles on a ground ball to center fielder Brandon Lockridge. Nolan Jones scores. Sean Bouchard to 2nd.,2025,4-Seam Fastball
+FF,663158,686668,No event,called_strike,Brenton Doyle singles on a ground ball to center fielder Brandon Lockridge. Nolan Jones scores. Sean Bouchard to 2nd.,2025,4-Seam Fastball
+SI,663158,656248,single,hit_into_play,Sean Bouchard singles on a ground ball to left fielder Gavin Sheets. Hunter Goodman scores. Nolan Jones to 2nd.,2025,Sinker
+FF,663158,656248,No event,foul,Sean Bouchard singles on a ground ball to left fielder Gavin Sheets. Hunter Goodman scores. Nolan Jones to 2nd.,2025,4-Seam Fastball
+CH,663158,666134,single,hit_into_play,Nolan Jones singles on a ground ball to right fielder Tirso Ornelas. Michael Toglia scores. Hunter Goodman to 3rd.,2025,Changeup
+CH,663158,666134,No event,called_strike,Nolan Jones singles on a ground ball to right fielder Tirso Ornelas. Michael Toglia scores. Hunter Goodman to 3rd.,2025,Changeup
+FF,663158,666134,No event,ball,Nolan Jones singles on a ground ball to right fielder Tirso Ornelas. Michael Toglia scores. Hunter Goodman to 3rd.,2025,4-Seam Fastball
+FF,663158,666134,No event,foul_tip,Nolan Jones singles on a ground ball to right fielder Tirso Ornelas. Michael Toglia scores. Hunter Goodman to 3rd.,2025,4-Seam Fastball
+SI,663158,696100,single,hit_into_play,Hunter Goodman singles on a ground ball to left fielder Gavin Sheets. Michael Toglia to 2nd.,2025,Sinker
+CH,663158,669911,force_out,hit_into_play,"Michael Toglia grounds into a force out, third baseman Tyler Wade to shortstop Eguy Rosario. Thairo Estrada out at 2nd. Michael Toglia to 1st.",2025,Changeup
+CH,663158,669911,No event,ball,"Michael Toglia grounds into a force out, third baseman Tyler Wade to shortstop Eguy Rosario. Thairo Estrada out at 2nd. Michael Toglia to 1st.",2025,Changeup
+FF,663158,669911,No event,called_strike,"Michael Toglia grounds into a force out, third baseman Tyler Wade to shortstop Eguy Rosario. Thairo Estrada out at 2nd. Michael Toglia to 1st.",2025,4-Seam Fastball
+FF,663158,642731,single,hit_into_play,Thairo Estrada singles on a line drive to right fielder Tirso Ornelas.,2025,4-Seam Fastball
+FF,663158,642731,No event,foul,Thairo Estrada singles on a line drive to right fielder Tirso Ornelas.,2025,4-Seam Fastball
+SI,663158,642731,No event,swinging_strike,Thairo Estrada singles on a line drive to right fielder Tirso Ornelas.,2025,Sinker
+CH,663158,700932,field_out,hit_into_play,Kyle Manzardo grounds out to first baseman Luis Arraez.,2025,Changeup
+CH,663158,700932,No event,ball,Kyle Manzardo grounds out to first baseman Luis Arraez.,2025,Changeup
+SL,663158,700932,No event,ball,Kyle Manzardo grounds out to first baseman Luis Arraez.,2025,Slider
+FF,663158,671289,field_out,hit_into_play,Tyler Freeman lines out to right fielder Fernando Tatis Jr.,2025,4-Seam Fastball
+FF,663158,671289,No event,ball,Tyler Freeman lines out to right fielder Fernando Tatis Jr.,2025,4-Seam Fastball
+CH,663158,671289,No event,blocked_ball,Tyler Freeman lines out to right fielder Fernando Tatis Jr.,2025,Changeup
+SL,663158,671289,No event,foul,Tyler Freeman lines out to right fielder Fernando Tatis Jr.,2025,Slider
+SI,663158,671289,No event,called_strike,Tyler Freeman lines out to right fielder Fernando Tatis Jr.,2025,Sinker
+SI,663158,671289,No event,ball,Tyler Freeman lines out to right fielder Fernando Tatis Jr.,2025,Sinker
+FF,663158,671289,No event,swinging_strike,Tyler Freeman lines out to right fielder Fernando Tatis Jr.,2025,4-Seam Fastball
+FF,663158,677587,single,hit_into_play,Brayan Rocchio singles on a line drive to right fielder Fernando Tatis Jr.,2025,4-Seam Fastball
+CH,663158,687597,strikeout,swinging_strike,Jordan Beck strikes out swinging.,2025,Changeup
+SL,663158,687597,No event,foul,Jordan Beck strikes out swinging.,2025,Slider
+FF,663158,687597,No event,foul,Jordan Beck strikes out swinging.,2025,4-Seam Fastball
+SI,663158,687597,No event,foul,Jordan Beck strikes out swinging.,2025,Sinker
+FF,663158,687597,No event,ball,Jordan Beck strikes out swinging.,2025,4-Seam Fastball
+FF,663158,687597,No event,foul,Jordan Beck strikes out swinging.,2025,4-Seam Fastball
+CH,663158,687597,No event,blocked_ball,Jordan Beck strikes out swinging.,2025,Changeup
+SI,663158,687597,No event,swinging_strike,Jordan Beck strikes out swinging.,2025,Sinker
+SL,663158,687597,No event,ball,Jordan Beck strikes out swinging.,2025,Slider
+FF,663158,687597,No event,foul,Jordan Beck strikes out swinging.,2025,4-Seam Fastball
+CH,663158,666134,field_out,hit_into_play,Nolan Jones flies out to center fielder Brandon Lockridge.,2025,Changeup
+FF,663158,666134,No event,foul,Nolan Jones flies out to center fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,666134,No event,swinging_strike,Nolan Jones flies out to center fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,666134,No event,ball,Nolan Jones flies out to center fielder Brandon Lockridge.,2025,4-Seam Fastball
+FF,663158,666134,No event,called_strike,Nolan Jones flies out to center fielder Brandon Lockridge.,2025,4-Seam Fastball
+SL,663158,642731,single,hit_into_play,Thairo Estrada singles on a ground ball to center fielder Brandon Lockridge.,2025,Slider
+SL,663158,642731,No event,ball,Thairo Estrada singles on a ground ball to center fielder Brandon Lockridge.,2025,Slider
+FF,663158,642731,No event,swinging_strike,Thairo Estrada singles on a ground ball to center fielder Brandon Lockridge.,2025,4-Seam Fastball
+SI,663158,642731,No event,foul,Thairo Estrada singles on a ground ball to center fielder Brandon Lockridge.,2025,Sinker
+SI,663158,642731,No event,ball,Thairo Estrada singles on a ground ball to center fielder Brandon Lockridge.,2025,Sinker
+FF,663158,669911,strikeout,called_strike,Michael Toglia called out on strikes.,2025,4-Seam Fastball
+CH,663158,669911,No event,swinging_strike,Michael Toglia called out on strikes.,2025,Changeup
+FF,663158,669911,No event,foul,Michael Toglia called out on strikes.,2025,4-Seam Fastball
+CH,663158,686681,walk,blocked_ball,Michael Massey walks. Cam Devanney scores. John Rave to 3rd. Tyler Tolbert to 2nd.,2025,Changeup
+FF,663158,686681,No event,foul,Michael Massey walks. Cam Devanney scores. John Rave to 3rd. Tyler Tolbert to 2nd.,2025,4-Seam Fastball
+FF,663158,686681,No event,ball,Michael Massey walks. Cam Devanney scores. John Rave to 3rd. Tyler Tolbert to 2nd.,2025,4-Seam Fastball
+CH,663158,686681,No event,ball,Michael Massey walks. Cam Devanney scores. John Rave to 3rd. Tyler Tolbert to 2nd.,2025,Changeup
+CH,663158,686681,No event,foul,Michael Massey walks. Cam Devanney scores. John Rave to 3rd. Tyler Tolbert to 2nd.,2025,Changeup
+FF,663158,686681,No event,ball,Michael Massey walks. Cam Devanney scores. John Rave to 3rd. Tyler Tolbert to 2nd.,2025,4-Seam Fastball
+SI,663158,672580,field_out,hit_into_play,Maikel Garcia flies out to right fielder Fernando Tatis Jr.,2025,Sinker
+FF,663158,686475,walk,ball,Tyler Tolbert walks. Cavan Biggio scores. Cam Devanney to 3rd. John Rave to 2nd.,2025,4-Seam Fastball
+FF,663158,686475,No event,ball,Tyler Tolbert walks. Cavan Biggio scores. Cam Devanney to 3rd. John Rave to 2nd.,2025,4-Seam Fastball
+FF,663158,686475,No event,ball,Tyler Tolbert walks. Cavan Biggio scores. Cam Devanney to 3rd. John Rave to 2nd.,2025,4-Seam Fastball
+SI,663158,686475,No event,ball,Tyler Tolbert walks. Cavan Biggio scores. Cam Devanney to 3rd. John Rave to 2nd.,2025,Sinker
+CH,663158,670231,single,hit_into_play,John Rave singles on a soft bunt ground ball to third baseman Tyler Wade. Cavan Biggio to 3rd. Cam Devanney to 2nd.,2025,Changeup
+SI,663158,687478,single,hit_into_play,Cam Devanney singles on a line drive to left fielder Jason Heyward. Cavan Biggio to 2nd.,2025,Sinker
+SI,663158,687478,No event,swinging_strike,Cam Devanney singles on a line drive to left fielder Jason Heyward. Cavan Biggio to 2nd.,2025,Sinker
+SI,663158,687478,No event,foul,Cam Devanney singles on a line drive to left fielder Jason Heyward. Cavan Biggio to 2nd.,2025,Sinker
+SI,663158,687478,No event,ball,Cam Devanney singles on a line drive to left fielder Jason Heyward. Cavan Biggio to 2nd.,2025,Sinker
+FF,663158,624415,walk,ball,Cavan Biggio walks.,2025,4-Seam Fastball
+CH,663158,624415,No event,ball,Cavan Biggio walks.,2025,Changeup
+FF,663158,624415,No event,foul,Cavan Biggio walks.,2025,4-Seam Fastball
+FF,663158,624415,No event,ball,Cavan Biggio walks.,2025,4-Seam Fastball
+FF,663158,624415,No event,ball,Cavan Biggio walks.,2025,4-Seam Fastball
+,663158,680769,strikeout,swinging_strike,CJ Alexander strikes out swinging.,2025,
+,663158,680769,No event,foul,CJ Alexander strikes out swinging.,2025,
+,663158,680769,No event,ball,CJ Alexander strikes out swinging.,2025,
+,663158,680769,No event,swinging_strike,CJ Alexander strikes out swinging.,2025,
+,663158,680769,No event,swinging_strike,CJ Alexander strikes out swinging.,2025,
+,663158,680769,No event,ball,CJ Alexander strikes out swinging.,2025,
+,663158,570482,strikeout,swinging_strike,Gio Urshela strikes out swinging.,2025,
+,663158,570482,No event,ball,Gio Urshela strikes out swinging.,2025,
+,663158,570482,No event,foul,Gio Urshela strikes out swinging.,2025,
+,663158,570482,No event,ball,Gio Urshela strikes out swinging.,2025,
+,663158,570482,No event,foul,Gio Urshela strikes out swinging.,2025,
+,663158,669127,force_out,hit_into_play,"Shea Langeliers grounds into a force out, fielded by shortstop Leo De Vries. Brent Rooker out at 2nd. Shea Langeliers to 1st.",2025,
+,663158,667670,single,hit_into_play,Brent Rooker singles on a ground ball to center fielder Brandon Lockridge.,2025,
+FF,663158,666158,strikeout,foul_tip,Gavin Lux strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,666158,No event,ball,Gavin Lux strikes out on a foul tip.,2024,Changeup
+FF,663158,666158,No event,foul,Gavin Lux strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,666158,No event,ball,Gavin Lux strikes out on a foul tip.,2024,Changeup
+FF,663158,666158,No event,swinging_strike,Gavin Lux strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,666158,No event,foul,Gavin Lux strikes out on a foul tip.,2024,Changeup
+FF,663158,666158,No event,ball,Gavin Lux strikes out on a foul tip.,2024,4-Seam Fastball
+SI,663158,669257,field_out,hit_into_play,"Will Smith grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2024,Sinker
+FF,663158,571970,strikeout,foul_tip,Max Muncy strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,571970,No event,swinging_strike,Max Muncy strikes out on a foul tip.,2024,Changeup
+FF,663158,571970,No event,ball,Max Muncy strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,571970,No event,foul,Max Muncy strikes out on a foul tip.,2024,4-Seam Fastball
+SI,663158,606192,field_out,hit_into_play,Teoscar Hernández pops out to first baseman Luis Arraez.,2024,Sinker
+SI,663158,606192,No event,swinging_strike,Teoscar Hernández pops out to first baseman Luis Arraez.,2024,Sinker
+SI,663158,606192,No event,ball,Teoscar Hernández pops out to first baseman Luis Arraez.,2024,Sinker
+SI,663158,606192,No event,ball,Teoscar Hernández pops out to first baseman Luis Arraez.,2024,Sinker
+FF,663158,606192,No event,called_strike,Teoscar Hernández pops out to first baseman Luis Arraez.,2024,4-Seam Fastball
+SI,663158,518595,field_out,hit_into_play,Travis d'Arnaud pops out to catcher Kyle Higashioka in foul territory.,2024,Sinker
+SI,663158,657656,field_out,hit_into_play,"Ramón Laureano grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+SI,663158,657656,No event,foul,"Ramón Laureano grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+SI,663158,657656,No event,foul,"Ramón Laureano grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+SI,663158,657656,No event,ball,"Ramón Laureano grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+CH,663158,657656,No event,ball,"Ramón Laureano grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Changeup
+SI,663158,657656,No event,ball,"Ramón Laureano grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+CH,663158,657656,No event,swinging_strike,"Ramón Laureano grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Changeup
+SI,663158,624585,field_out,hit_into_play,Jorge Soler lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,624585,No event,ball,Jorge Soler lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,624585,No event,foul_tip,Jorge Soler lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,624585,No event,ball,Jorge Soler lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+FF,663158,624585,No event,ball,Jorge Soler lines out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+SI,663158,624585,No event,foul,Jorge Soler lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,518595,field_out,hit_into_play,"Travis d'Arnaud grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+FF,663158,518595,No event,ball,"Travis d'Arnaud grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,4-Seam Fastball
+SI,663158,657656,force_out,hit_into_play,"Ramón Laureano grounds into a force out, shortstop Xander Bogaerts to second baseman Jake Cronenworth. Eli White out at 2nd. Ramón Laureano to 1st.",2024,Sinker
+SI,663158,657656,No event,blocked_ball,"Ramón Laureano grounds into a force out, shortstop Xander Bogaerts to second baseman Jake Cronenworth. Eli White out at 2nd. Ramón Laureano to 1st.",2024,Sinker
+FF,663158,624585,single,hit_into_play,Jorge Soler singles on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,624585,No event,foul,Jorge Soler singles on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,624585,No event,foul_tip,Jorge Soler singles on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,621566,field_out,hit_into_play,Matt Olson flies out sharply to left fielder Jurickson Profar.,2024,4-Seam Fastball
+CH,663158,677950,field_out,hit_into_play,"Alek Thomas grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,Changeup
+CH,663158,677950,No event,called_strike,"Alek Thomas grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,Changeup
+CH,663158,606466,strikeout,called_strike,Ketel Marte called out on strikes.,2024,Changeup
+CH,663158,606466,No event,foul,Ketel Marte called out on strikes.,2024,Changeup
+FF,663158,606466,No event,ball,Ketel Marte called out on strikes.,2024,4-Seam Fastball
+FF,663158,606466,No event,ball,Ketel Marte called out on strikes.,2024,4-Seam Fastball
+SI,663158,606466,No event,swinging_strike,Ketel Marte called out on strikes.,2024,Sinker
+CH,663158,606466,No event,called_strike,Ketel Marte called out on strikes.,2024,Changeup
+FF,663158,682998,walk,ball,Corbin Carroll walks.,2024,4-Seam Fastball
+CH,663158,682998,No event,ball,Corbin Carroll walks.,2024,Changeup
+FF,663158,682998,No event,foul_tip,Corbin Carroll walks.,2024,4-Seam Fastball
+SI,663158,682998,No event,ball,Corbin Carroll walks.,2024,Sinker
+CH,663158,682998,No event,called_strike,Corbin Carroll walks.,2024,Changeup
+CH,663158,682998,No event,ball,Corbin Carroll walks.,2024,Changeup
+SI,663158,672695,field_out,hit_into_play,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+FF,663158,672695,No event,foul,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,672695,No event,foul,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+SI,663158,672695,No event,foul,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+CH,663158,672695,No event,ball,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,Changeup
+CH,663158,672695,No event,ball,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,Changeup
+FF,663158,672695,No event,foul,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+SI,663158,672695,No event,called_strike,Geraldo Perdomo lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+FF,663158,500743,triple_play,hit_into_play,"Dodgers challenged (force play), call on the field was upheld: Dodgers challenged (force play), call on the field was upheld: Dodgers challenged (force play), call on the field was upheld: Miguel Rojas grounds into a triple play, third baseman Manny Machado to second baseman Jake Cronenworth to first baseman Donovan Solano. Tommy Edman out at 3rd. Enrique Hernández out at 2nd. Miguel Rojas out at 1st.",2024,4-Seam Fastball
+FF,663158,500743,No event,called_strike,"Dodgers challenged (force play), call on the field was upheld: Dodgers challenged (force play), call on the field was upheld: Dodgers challenged (force play), call on the field was upheld: Miguel Rojas grounds into a triple play, third baseman Manny Machado to second baseman Jake Cronenworth to first baseman Donovan Solano. Tommy Edman out at 3rd. Enrique Hernández out at 2nd. Miguel Rojas out at 1st.",2024,4-Seam Fastball
+SI,663158,571771,single,hit_into_play,Enrique Hernández singles on a line drive to center fielder Jackson Merrill. Will Smith scores. Tommy Edman to 2nd.,2024,Sinker
+CH,663158,571771,No event,blocked_ball,Enrique Hernández singles on a line drive to center fielder Jackson Merrill. Will Smith scores. Tommy Edman to 2nd.,2024,Changeup
+FF,663158,571771,No event,swinging_strike,Enrique Hernández singles on a line drive to center fielder Jackson Merrill. Will Smith scores. Tommy Edman to 2nd.,2024,4-Seam Fastball
+FF,663158,571771,No event,swinging_strike,Enrique Hernández singles on a line drive to center fielder Jackson Merrill. Will Smith scores. Tommy Edman to 2nd.,2024,4-Seam Fastball
+FF,663158,669242,single,hit_into_play,Tommy Edman singles on a sharp ground ball to right fielder Fernando Tatis Jr. Will Smith to 3rd.,2024,4-Seam Fastball
+FF,663158,669242,No event,swinging_strike,Tommy Edman singles on a sharp ground ball to right fielder Fernando Tatis Jr. Will Smith to 3rd.,2024,4-Seam Fastball
+CH,663158,669242,No event,ball,Tommy Edman singles on a sharp ground ball to right fielder Fernando Tatis Jr. Will Smith to 3rd.,2024,Changeup
+SI,663158,669242,No event,called_strike,Tommy Edman singles on a sharp ground ball to right fielder Fernando Tatis Jr. Will Smith to 3rd.,2024,Sinker
+SI,663158,669257,single,hit_into_play,Will Smith singles on a sharp ground ball to left fielder Jurickson Profar.,2024,Sinker
+SI,663158,669257,No event,ball,Will Smith singles on a sharp ground ball to left fielder Jurickson Profar.,2024,Sinker
+CH,663158,657757,strikeout,swinging_strike,Gavin Sheets strikes out swinging.,2024,Changeup
+CH,663158,657757,No event,blocked_ball,Gavin Sheets strikes out swinging.,2024,Changeup
+SI,663158,657757,No event,foul,Gavin Sheets strikes out swinging.,2024,Sinker
+FF,663158,657757,No event,foul,Gavin Sheets strikes out swinging.,2024,4-Seam Fastball
+FF,663158,657757,No event,called_strike,Gavin Sheets strikes out swinging.,2024,4-Seam Fastball
+FC,663158,683734,single,hit_into_play,Andrew Vaughn singles on a ground ball to shortstop Xander Bogaerts.,2024,Cutter
+FF,663158,643217,strikeout,swinging_strike,Andrew Benintendi strikes out swinging.,2024,4-Seam Fastball
+SI,663158,643217,No event,foul,Andrew Benintendi strikes out swinging.,2024,Sinker
+SI,663158,643217,No event,swinging_strike,Andrew Benintendi strikes out swinging.,2024,Sinker
+FF,663158,643217,No event,swinging_strike,Andrew Benintendi strikes out swinging.,2024,4-Seam Fastball
+FF,663158,643217,No event,ball,Andrew Benintendi strikes out swinging.,2024,4-Seam Fastball
+CH,663158,643217,No event,ball,Andrew Benintendi strikes out swinging.,2024,Changeup
+SI,663158,673357,field_out,hit_into_play,"Luis Robert Jr. grounds out softly, catcher Elias Díaz to first baseman Jake Cronenworth.",2024,Sinker
+SI,663158,682868,field_out,hit_into_play,Bryan Ramos lines out to second baseman Jake Cronenworth.,2024,Sinker
+FF,663158,682868,No event,foul,Bryan Ramos lines out to second baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,672820,home_run,hit_into_play,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,4-Seam Fastball
+FF,663158,672820,No event,ball,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,4-Seam Fastball
+SI,663158,672820,No event,foul,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,Sinker
+FF,663158,672820,No event,foul,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,4-Seam Fastball
+SI,663158,672820,No event,foul,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,Sinker
+FF,663158,672820,No event,ball,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,4-Seam Fastball
+FF,663158,672820,No event,foul,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,4-Seam Fastball
+SI,663158,672820,No event,ball,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,Sinker
+FF,663158,672820,No event,called_strike,Lenyn Sosa homers (6) on a line drive to left center field.   Gavin Sheets scores.,2024,4-Seam Fastball
+FF,663158,657757,walk,ball,Gavin Sheets walks.,2024,4-Seam Fastball
+FF,663158,657757,No event,foul,Gavin Sheets walks.,2024,4-Seam Fastball
+FF,663158,657757,No event,foul,Gavin Sheets walks.,2024,4-Seam Fastball
+CH,663158,657757,No event,ball,Gavin Sheets walks.,2024,Changeup
+FF,663158,657757,No event,foul,Gavin Sheets walks.,2024,4-Seam Fastball
+FF,663158,657757,No event,foul,Gavin Sheets walks.,2024,4-Seam Fastball
+CH,663158,657757,No event,ball,Gavin Sheets walks.,2024,Changeup
+FF,663158,657757,No event,foul,Gavin Sheets walks.,2024,4-Seam Fastball
+SI,663158,657757,No event,ball,Gavin Sheets walks.,2024,Sinker
+SI,663158,683734,field_out,hit_into_play,"Andrew Vaughn grounds out, shortstop Xander Bogaerts to first baseman Donovan Solano.",2024,Sinker
+FF,663158,683734,No event,foul,"Andrew Vaughn grounds out, shortstop Xander Bogaerts to first baseman Donovan Solano.",2024,4-Seam Fastball
+SI,663158,683734,No event,ball,"Andrew Vaughn grounds out, shortstop Xander Bogaerts to first baseman Donovan Solano.",2024,Sinker
+FF,663158,683734,No event,foul,"Andrew Vaughn grounds out, shortstop Xander Bogaerts to first baseman Donovan Solano.",2024,4-Seam Fastball
+FF,663158,643217,strikeout,swinging_strike,Andrew Benintendi strikes out swinging.,2024,4-Seam Fastball
+FF,663158,643217,No event,called_strike,Andrew Benintendi strikes out swinging.,2024,4-Seam Fastball
+SI,663158,643217,No event,called_strike,Andrew Benintendi strikes out swinging.,2024,Sinker
+SI,663158,514888,field_out,hit_into_play,"Jose Altuve grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+SI,663158,514888,No event,swinging_strike,"Jose Altuve grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+SI,663158,514888,No event,ball,"Jose Altuve grounds out, third baseman Manny Machado to first baseman Donovan Solano.",2024,Sinker
+FF,663158,605170,strikeout,called_strike,Victor Caratini called out on strikes.,2024,4-Seam Fastball
+FF,663158,605170,No event,foul,Victor Caratini called out on strikes.,2024,4-Seam Fastball
+CH,663158,605170,No event,called_strike,Victor Caratini called out on strikes.,2024,Changeup
+SI,663158,518792,field_out,hit_into_play,Jason Heyward flies out to left fielder Jurickson Profar.,2024,Sinker
+FF,663158,665161,double,hit_into_play,Jeremy Peña doubles (26) on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,665161,No event,foul,Jeremy Peña doubles (26) on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,665161,No event,ball,Jeremy Peña doubles (26) on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+SI,663158,665161,No event,foul,Jeremy Peña doubles (26) on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+SI,663158,665161,No event,ball,Jeremy Peña doubles (26) on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,676694,field_out,hit_into_play,Jake Meyers flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,676694,No event,ball,Jake Meyers flies out to right fielder Fernando Tatis Jr.,2024,Sinker
+SI,663158,676694,No event,ball,Jake Meyers flies out to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,518792,field_out,hit_into_play,Jason Heyward flies out to left fielder Brandon Lockridge.,2024,4-Seam Fastball
+SI,663158,518792,No event,called_strike,Jason Heyward flies out to left fielder Brandon Lockridge.,2024,Sinker
+FF,663158,518792,No event,ball,Jason Heyward flies out to left fielder Brandon Lockridge.,2024,4-Seam Fastball
+SI,663158,518792,No event,ball,Jason Heyward flies out to left fielder Brandon Lockridge.,2024,Sinker
+SI,663158,665161,field_out,hit_into_play,"Jeremy Peña grounds out, first baseman Donovan Solano to pitcher Robert Suarez.",2024,Sinker
+FF,663158,573262,field_out,hit_into_play,Mike Yastrzemski flies out to left fielder Brandon Lockridge.,2024,4-Seam Fastball
+FF,663158,573262,No event,ball,Mike Yastrzemski flies out to left fielder Brandon Lockridge.,2024,4-Seam Fastball
+CH,663158,573262,No event,foul,Mike Yastrzemski flies out to left fielder Brandon Lockridge.,2024,Changeup
+FF,663158,573262,No event,ball,Mike Yastrzemski flies out to left fielder Brandon Lockridge.,2024,4-Seam Fastball
+CH,663158,666464,field_out,hit_into_play,"Jerar Encarnacion grounds out, third baseman Donovan Solano to first baseman Luis Arraez.",2024,Changeup
+SI,663158,666464,No event,ball,"Jerar Encarnacion grounds out, third baseman Donovan Solano to first baseman Luis Arraez.",2024,Sinker
+SI,663158,666464,No event,foul,"Jerar Encarnacion grounds out, third baseman Donovan Solano to first baseman Luis Arraez.",2024,Sinker
+SI,663158,656305,field_out,hit_into_play,"Matt Chapman grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2024,Sinker
+FF,663158,656305,No event,ball,"Matt Chapman grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2024,4-Seam Fastball
+CH,663158,656305,No event,called_strike,"Matt Chapman grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2024,Changeup
+FF,663158,656305,No event,called_strike,"Matt Chapman grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,656305,No event,ball,"Matt Chapman grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,671218,home_run,hit_into_play,Heliot Ramos homers (21) on a fly ball to right field.,2024,4-Seam Fastball
+FF,663158,671218,No event,foul,Heliot Ramos homers (21) on a fly ball to right field.,2024,4-Seam Fastball
+FF,663158,671218,No event,foul,Heliot Ramos homers (21) on a fly ball to right field.,2024,4-Seam Fastball
+FF,663158,671218,No event,ball,Heliot Ramos homers (21) on a fly ball to right field.,2024,4-Seam Fastball
+FF,663158,671218,No event,ball,Heliot Ramos homers (21) on a fly ball to right field.,2024,4-Seam Fastball
+CH,663158,671218,No event,ball,Heliot Ramos homers (21) on a fly ball to right field.,2024,Changeup
+FF,663158,671218,No event,called_strike,Heliot Ramos homers (21) on a fly ball to right field.,2024,4-Seam Fastball
+FF,663158,677594,strikeout,swinging_strike,Julio Rodríguez strikes out swinging.,2024,4-Seam Fastball
+CH,663158,677594,No event,swinging_strike,Julio Rodríguez strikes out swinging.,2024,Changeup
+FF,663158,677594,No event,foul,Julio Rodríguez strikes out swinging.,2024,4-Seam Fastball
+SI,663158,645302,single,hit_into_play,Victor Robles singles on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+FC,663158,645302,No event,ball,Victor Robles singles on a line drive to right fielder Fernando Tatis Jr.,2024,Cutter
+FF,663158,664238,strikeout,swinging_strike,Dylan Moore strikes out swinging.,2024,4-Seam Fastball
+FF,663158,664238,No event,foul,Dylan Moore strikes out swinging.,2024,4-Seam Fastball
+FF,663158,664238,No event,ball,Dylan Moore strikes out swinging.,2024,4-Seam Fastball
+SI,663158,664238,No event,foul,Dylan Moore strikes out swinging.,2024,Sinker
+FF,663158,641487,field_out,hit_into_play,J.P. Crawford lines out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,641487,No event,swinging_strike,J.P. Crawford lines out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,641487,No event,swinging_strike,J.P. Crawford lines out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,641487,No event,ball,J.P. Crawford lines out to third baseman Manny Machado.,2024,4-Seam Fastball
+SI,663158,641487,No event,ball,J.P. Crawford lines out to third baseman Manny Machado.,2024,Sinker
+FF,663158,593871,field_out,hit_into_play,Jorge Polanco lines out to first baseman Donovan Solano.,2024,4-Seam Fastball
+FF,663158,593871,No event,foul,Jorge Polanco lines out to first baseman Donovan Solano.,2024,4-Seam Fastball
+FF,663158,593871,No event,ball,Jorge Polanco lines out to first baseman Donovan Solano.,2024,4-Seam Fastball
+SI,663158,593871,No event,ball,Jorge Polanco lines out to first baseman Donovan Solano.,2024,Sinker
+FF,663158,678009,home_run,hit_into_play,Parker Meadows hits a grand slam (6) to left field. Justyn-Henry Malloy scores. Jace Jung scores. Colt Keith scores.,2024,4-Seam Fastball
+FF,663158,678009,No event,foul,Parker Meadows hits a grand slam (6) to left field. Justyn-Henry Malloy scores. Jace Jung scores. Colt Keith scores.,2024,4-Seam Fastball
+FF,663158,678009,No event,ball,Parker Meadows hits a grand slam (6) to left field. Justyn-Henry Malloy scores. Jace Jung scores. Colt Keith scores.,2024,4-Seam Fastball
+FF,663158,678009,No event,ball,Parker Meadows hits a grand slam (6) to left field. Justyn-Henry Malloy scores. Jace Jung scores. Colt Keith scores.,2024,4-Seam Fastball
+FF,663158,678009,No event,swinging_strike,Parker Meadows hits a grand slam (6) to left field. Justyn-Henry Malloy scores. Jace Jung scores. Colt Keith scores.,2024,4-Seam Fastball
+FF,663158,678009,No event,ball,Parker Meadows hits a grand slam (6) to left field. Justyn-Henry Malloy scores. Jace Jung scores. Colt Keith scores.,2024,4-Seam Fastball
+FF,663158,681481,strikeout,foul_tip,Kerry Carpenter strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,681481,No event,foul,Kerry Carpenter strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,681481,No event,swinging_strike,Kerry Carpenter strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,681481,No event,ball,Kerry Carpenter strikes out on a foul tip.,2024,Changeup
+FF,663158,690993,walk,blocked_ball,Colt Keith walks. Justyn-Henry Malloy to 3rd. Jace Jung to 2nd.,2024,4-Seam Fastball
+FF,663158,690993,No event,ball,Colt Keith walks. Justyn-Henry Malloy to 3rd. Jace Jung to 2nd.,2024,4-Seam Fastball
+FF,663158,690993,No event,foul,Colt Keith walks. Justyn-Henry Malloy to 3rd. Jace Jung to 2nd.,2024,4-Seam Fastball
+FF,663158,690993,No event,ball,Colt Keith walks. Justyn-Henry Malloy to 3rd. Jace Jung to 2nd.,2024,4-Seam Fastball
+FF,663158,690993,No event,ball,Colt Keith walks. Justyn-Henry Malloy to 3rd. Jace Jung to 2nd.,2024,4-Seam Fastball
+FF,663158,690993,No event,foul,Colt Keith walks. Justyn-Henry Malloy to 3rd. Jace Jung to 2nd.,2024,4-Seam Fastball
+SI,663158,679529,field_out,hit_into_play,Spencer Torkelson pops out to second baseman Xander Bogaerts on the infield fly rule.,2024,Sinker
+FF,663158,679529,No event,ball,Spencer Torkelson pops out to second baseman Xander Bogaerts on the infield fly rule.,2024,4-Seam Fastball
+SI,663158,679529,No event,ball,Spencer Torkelson pops out to second baseman Xander Bogaerts on the infield fly rule.,2024,Sinker
+FF,663158,690291,walk,ball,Jace Jung walks. Justyn-Henry Malloy to 2nd.,2024,4-Seam Fastball
+FF,663158,690291,No event,ball,Jace Jung walks. Justyn-Henry Malloy to 2nd.,2024,4-Seam Fastball
+FF,663158,690291,No event,swinging_strike,Jace Jung walks. Justyn-Henry Malloy to 2nd.,2024,4-Seam Fastball
+FF,663158,690291,No event,ball,Jace Jung walks. Justyn-Henry Malloy to 2nd.,2024,4-Seam Fastball
+CH,663158,690291,No event,ball,Jace Jung walks. Justyn-Henry Malloy to 2nd.,2024,Changeup
+CH,663158,690291,No event,called_strike,Jace Jung walks. Justyn-Henry Malloy to 2nd.,2024,Changeup
+FF,663158,669234,single,hit_into_play,Justyn-Henry Malloy singles on a sharp line drive to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,663837,force_out,hit_into_play,"Matt Vierling grounds into a force out, shortstop Mason McCoy to second baseman Xander Bogaerts. Riley Greene out at 2nd.",2024,4-Seam Fastball
+FF,663158,663837,No event,called_strike,"Matt Vierling grounds into a force out, shortstop Mason McCoy to second baseman Xander Bogaerts. Riley Greene out at 2nd.",2024,4-Seam Fastball
+FF,663158,663837,No event,called_strike,"Matt Vierling grounds into a force out, shortstop Mason McCoy to second baseman Xander Bogaerts. Riley Greene out at 2nd.",2024,4-Seam Fastball
+CH,663158,682985,walk,blocked_ball,Riley Greene walks.,2024,Changeup
+FF,663158,682985,No event,ball,Riley Greene walks.,2024,4-Seam Fastball
+CH,663158,682985,No event,ball,Riley Greene walks.,2024,Changeup
+FF,663158,682985,No event,foul,Riley Greene walks.,2024,4-Seam Fastball
+CH,663158,682985,No event,swinging_strike,Riley Greene walks.,2024,Changeup
+CH,663158,682985,No event,ball,Riley Greene walks.,2024,Changeup
+FF,663158,678009,field_out,hit_into_play,Parker Meadows pops out to shortstop Mason McCoy.,2024,4-Seam Fastball
+FF,663158,678009,No event,ball,Parker Meadows pops out to shortstop Mason McCoy.,2024,4-Seam Fastball
+FF,663158,678009,No event,foul,Parker Meadows pops out to shortstop Mason McCoy.,2024,4-Seam Fastball
+CH,663158,678009,No event,ball,Parker Meadows pops out to shortstop Mason McCoy.,2024,Changeup
+CH,663158,678009,No event,swinging_strike,Parker Meadows pops out to shortstop Mason McCoy.,2024,Changeup
+FF,663158,678009,No event,ball,Parker Meadows pops out to shortstop Mason McCoy.,2024,4-Seam Fastball
+FF,663158,656716,field_out,hit_into_play,Zach McKinstry flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+CH,663158,656716,No event,ball,Zach McKinstry flies out to left fielder Jurickson Profar.,2024,Changeup
+FF,663158,656716,No event,foul,Zach McKinstry flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,656716,No event,foul,Zach McKinstry flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,690291,field_out,hit_into_play,Jace Jung pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,690291,No event,called_strike,Jace Jung pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,690291,No event,ball,Jace Jung pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,679529,grounded_into_double_play,hit_into_play,"Spencer Torkelson grounds into a double play, third baseman Manny Machado to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Colt Keith out at 2nd.    Spencer Torkelson out at 1st.",2024,4-Seam Fastball
+FF,663158,690993,single,hit_into_play,Colt Keith singles on a line drive to left fielder David Peralta.,2024,4-Seam Fastball
+CH,663158,690993,No event,foul,Colt Keith singles on a line drive to left fielder David Peralta.,2024,Changeup
+FF,663158,690993,No event,ball,Colt Keith singles on a line drive to left fielder David Peralta.,2024,4-Seam Fastball
+FF,663158,690993,No event,foul,Colt Keith singles on a line drive to left fielder David Peralta.,2024,4-Seam Fastball
+FF,663158,670764,strikeout,foul_tip,Taylor Walls strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,670764,No event,ball,Taylor Walls strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,670764,No event,swinging_strike,Taylor Walls strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,670764,No event,foul,Taylor Walls strikes out on a foul tip.,2024,4-Seam Fastball
+SI,663158,642350,field_out,hit_into_play,Jose Siri pops out to second baseman Tyler Wade on the infield fly rule.,2024,Sinker
+SI,663158,642350,No event,ball,Jose Siri pops out to second baseman Tyler Wade on the infield fly rule.,2024,Sinker
+FF,663158,676609,single,hit_into_play,José Caballero singles on a ground ball to left fielder Jurickson Profar. Ben Rortvedt to 2nd.,2024,4-Seam Fastball
+FF,663158,676609,No event,swinging_strike,José Caballero singles on a ground ball to left fielder Jurickson Profar. Ben Rortvedt to 2nd.,2024,4-Seam Fastball
+FF,663158,666163,walk,ball,Ben Rortvedt walks.,2024,4-Seam Fastball
+FF,663158,666163,No event,called_strike,Ben Rortvedt walks.,2024,4-Seam Fastball
+FF,663158,666163,No event,ball,Ben Rortvedt walks.,2024,4-Seam Fastball
+FF,663158,666163,No event,ball,Ben Rortvedt walks.,2024,4-Seam Fastball
+FF,663158,666163,No event,ball,Ben Rortvedt walks.,2024,4-Seam Fastball
+SI,663158,666624,field_out,hit_into_play,Christopher Morel pops out to first baseman Donovan Solano.,2024,Sinker
+FF,663158,571448,single,hit_into_play,Nolan Arenado singles on a ground ball to center fielder Jackson Merrill.   Masyn Winn scores.    Victor Scott II to 2nd.,2024,4-Seam Fastball
+CH,663158,571448,No event,ball,Nolan Arenado singles on a ground ball to center fielder Jackson Merrill.   Masyn Winn scores.    Victor Scott II to 2nd.,2024,Changeup
+FF,663158,571448,No event,called_strike,Nolan Arenado singles on a ground ball to center fielder Jackson Merrill.   Masyn Winn scores.    Victor Scott II to 2nd.,2024,4-Seam Fastball
+FF,663158,687363,single,hit_into_play,Victor Scott II singles on a line drive to center fielder Jackson Merrill.   Masyn Winn to 2nd.,2024,4-Seam Fastball
+FF,663158,687363,No event,ball,Victor Scott II singles on a line drive to center fielder Jackson Merrill.   Masyn Winn to 2nd.,2024,4-Seam Fastball
+FF,663158,687363,No event,foul,Victor Scott II singles on a line drive to center fielder Jackson Merrill.   Masyn Winn to 2nd.,2024,4-Seam Fastball
+FF,663158,687363,No event,ball,Victor Scott II singles on a line drive to center fielder Jackson Merrill.   Masyn Winn to 2nd.,2024,4-Seam Fastball
+FF,663158,691026,single,hit_into_play,Masyn Winn singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,691026,No event,foul,Masyn Winn singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,691026,No event,foul,Masyn Winn singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,691026,No event,ball,Masyn Winn singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,572761,strikeout,swinging_strike,Matt Carpenter strikes out swinging.,2024,4-Seam Fastball
+FF,663158,572761,No event,ball,Matt Carpenter strikes out swinging.,2024,4-Seam Fastball
+FF,663158,572761,No event,foul,Matt Carpenter strikes out swinging.,2024,4-Seam Fastball
+FF,663158,572761,No event,called_strike,Matt Carpenter strikes out swinging.,2024,4-Seam Fastball
+FF,663158,572761,No event,foul,Matt Carpenter strikes out swinging.,2024,4-Seam Fastball
+FF,663158,572761,No event,ball,Matt Carpenter strikes out swinging.,2024,4-Seam Fastball
+FF,663158,572761,No event,ball,Matt Carpenter strikes out swinging.,2024,4-Seam Fastball
+FF,663158,502054,field_out,hit_into_play,Tommy Pham flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,502054,No event,ball,Tommy Pham flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,502054,No event,called_strike,Tommy Pham flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,571448,field_out,hit_into_play,"Nolan Arenado grounds out, shortstop Mason McCoy to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+SI,663158,571448,No event,ball,"Nolan Arenado grounds out, shortstop Mason McCoy to first baseman Jake Cronenworth.",2024,Sinker
+FF,663158,571448,No event,foul,"Nolan Arenado grounds out, shortstop Mason McCoy to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+CH,663158,571448,No event,blocked_ball,"Nolan Arenado grounds out, shortstop Mason McCoy to first baseman Jake Cronenworth.",2024,Changeup
+FF,663158,571448,No event,swinging_strike,"Nolan Arenado grounds out, shortstop Mason McCoy to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+CH,663158,676475,single,hit_into_play,Alec Burleson singles on a line drive to center fielder Jackson Merrill. Masyn Winn scores.,2024,Changeup
+CH,663158,676475,No event,ball,Alec Burleson singles on a line drive to center fielder Jackson Merrill. Masyn Winn scores.,2024,Changeup
+FF,663158,676475,No event,foul,Alec Burleson singles on a line drive to center fielder Jackson Merrill. Masyn Winn scores.,2024,4-Seam Fastball
+FF,663158,691026,single,hit_into_play,Masyn Winn singles on a ground ball to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,691026,No event,foul_tip,Masyn Winn singles on a ground ball to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FC,663158,691026,No event,ball,Masyn Winn singles on a ground ball to center fielder Jackson Merrill.,2024,Cutter
+FF,663158,691026,No event,called_strike,Masyn Winn singles on a ground ball to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,687363,field_out,hit_into_play,Victor Scott II flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,663609,field_out,hit_into_play,Luken Baker flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,663609,No event,foul,Luken Baker flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,663609,No event,foul,Luken Baker flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,663609,No event,ball,Luken Baker flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,663609,No event,ball,Luken Baker flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,663609,No event,called_strike,Luken Baker flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,596019,strikeout,swinging_strike,Francisco Lindor strikes out swinging.,2024,4-Seam Fastball
+FF,663158,596019,No event,swinging_strike,Francisco Lindor strikes out swinging.,2024,4-Seam Fastball
+FF,663158,596019,No event,called_strike,Francisco Lindor strikes out swinging.,2024,4-Seam Fastball
+FF,663158,664056,field_out,hit_into_play,"Harrison Bader grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,664056,No event,foul,"Harrison Bader grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+SI,663158,664056,No event,called_strike,"Harrison Bader grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,Sinker
+FF,663158,664056,No event,called_strike,"Harrison Bader grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,608385,field_out,hit_into_play,"Jesse Winker grounds out, shortstop Mason McCoy to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,663616,strikeout,swinging_strike,Trevor Larnach strikes out swinging.,2024,4-Seam Fastball
+CH,663158,663616,No event,ball,Trevor Larnach strikes out swinging.,2024,Changeup
+CH,663158,663616,No event,swinging_strike,Trevor Larnach strikes out swinging.,2024,Changeup
+FF,663158,663616,No event,foul,Trevor Larnach strikes out swinging.,2024,4-Seam Fastball
+SI,663158,668885,field_out,hit_into_play,Austin Martin lines out to center fielder Jackson Merrill.,2024,Sinker
+FF,663158,596146,field_out,hit_into_play,Max Kepler lines out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+CH,663158,596146,No event,swinging_strike,Max Kepler lines out sharply to center fielder Jackson Merrill.,2024,Changeup
+FF,663158,596146,No event,called_strike,Max Kepler lines out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,596146,No event,ball,Max Kepler lines out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669304,field_out,hit_into_play,"Jose Miranda grounds out, shortstop Tyler Wade to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+CH,663158,669304,No event,ball,"Jose Miranda grounds out, shortstop Tyler Wade to first baseman Jake Cronenworth.",2024,Changeup
+FF,663158,669304,No event,foul,"Jose Miranda grounds out, shortstop Tyler Wade to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,669304,No event,ball,"Jose Miranda grounds out, shortstop Tyler Wade to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+SI,663158,543877,single,hit_into_play,Christian Vázquez singles on a sharp ground ball to third baseman Manny Machado.   Edouard Julien scores.,2024,Sinker
+CH,663158,543877,No event,blocked_ball,Christian Vázquez singles on a sharp ground ball to third baseman Manny Machado.   Edouard Julien scores.,2024,Changeup
+FF,663158,543877,No event,foul,Christian Vázquez singles on a sharp ground ball to third baseman Manny Machado.   Edouard Julien scores.,2024,4-Seam Fastball
+FF,663158,666397,walk,ball,Edouard Julien walks.,2024,4-Seam Fastball
+FF,663158,666397,No event,foul,Edouard Julien walks.,2024,4-Seam Fastball
+FF,663158,666397,No event,foul,Edouard Julien walks.,2024,4-Seam Fastball
+FF,663158,666397,No event,ball,Edouard Julien walks.,2024,4-Seam Fastball
+CH,663158,666397,No event,ball,Edouard Julien walks.,2024,Changeup
+FF,663158,666397,No event,swinging_strike,Edouard Julien walks.,2024,4-Seam Fastball
+FF,663158,666397,No event,ball,Edouard Julien walks.,2024,4-Seam Fastball
+SI,663158,666397,No event,called_strike,Edouard Julien walks.,2024,Sinker
+FF,663158,596146,field_out,hit_into_play,"Max Kepler grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+SI,663158,596146,No event,foul,"Max Kepler grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,Sinker
+SI,663158,596146,No event,ball,"Max Kepler grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,Sinker
+FF,663158,467793,field_out,hit_into_play,"Carlos Santana grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,4-Seam Fastball
+SI,663158,467793,No event,foul,"Carlos Santana grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,Sinker
+SI,663158,467793,No event,ball,"Carlos Santana grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,Sinker
+FF,663158,467793,No event,ball,"Carlos Santana grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,4-Seam Fastball
+SI,663158,650559,field_out,hit_into_play,"Bryan De La Cruz grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,Sinker
+SI,663158,663647,single,hit_into_play,Ke'Bryan Hayes singles on a ground ball to left fielder Jurickson Profar.,2024,Sinker
+SI,663158,663647,No event,ball,Ke'Bryan Hayes singles on a ground ball to left fielder Jurickson Profar.,2024,Sinker
+SI,663158,643396,field_out,hit_into_play,"Isiah Kiner-Falefa grounds out, third baseman Manny Machado to first baseman Jake Cronenworth.",2024,Sinker
+FF,663158,642133,strikeout,swinging_strike,Rowdy Tellez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,642133,No event,swinging_strike,Rowdy Tellez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,642133,No event,called_strike,Rowdy Tellez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,642133,No event,ball,Rowdy Tellez strikes out swinging.,2024,4-Seam Fastball
+SI,663158,642133,No event,ball,Rowdy Tellez strikes out swinging.,2024,Sinker
+SI,663158,668804,field_out,hit_into_play,Bryan Reynolds lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+CH,663158,668804,No event,ball,Bryan Reynolds lines out sharply to center fielder Jackson Merrill.,2024,Changeup
+CH,663158,668804,No event,swinging_strike,Bryan Reynolds lines out sharply to center fielder Jackson Merrill.,2024,Changeup
+SI,663158,668804,No event,ball,Bryan Reynolds lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+CH,663158,668804,No event,ball,Bryan Reynolds lines out sharply to center fielder Jackson Merrill.,2024,Changeup
+SI,663158,457705,single,hit_into_play,"Andrew McCutchen singles on a ground ball to right fielder Bryce Johnson, deflected by first baseman Jake Cronenworth.   Bryan De La Cruz scores.",2024,Sinker
+FF,663158,457705,No event,ball,"Andrew McCutchen singles on a ground ball to right fielder Bryce Johnson, deflected by first baseman Jake Cronenworth.   Bryan De La Cruz scores.",2024,4-Seam Fastball
+FF,663158,457705,No event,swinging_strike,"Andrew McCutchen singles on a ground ball to right fielder Bryce Johnson, deflected by first baseman Jake Cronenworth.   Bryan De La Cruz scores.",2024,4-Seam Fastball
+SI,663158,457705,No event,ball,"Andrew McCutchen singles on a ground ball to right fielder Bryce Johnson, deflected by first baseman Jake Cronenworth.   Bryan De La Cruz scores.",2024,Sinker
+SI,663158,457705,No event,called_strike,"Andrew McCutchen singles on a ground ball to right fielder Bryce Johnson, deflected by first baseman Jake Cronenworth.   Bryan De La Cruz scores.",2024,Sinker
+SI,663158,572191,field_out,hit_into_play,Michael A.   Taylor flies out to right fielder Bryce Johnson.,2024,Sinker
+CH,663158,572191,No event,ball,Michael A.   Taylor flies out to right fielder Bryce Johnson.,2024,Changeup
+FF,663158,650559,single,hit_into_play,Bryan De La Cruz singles on a line drive to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,663647,field_out,hit_into_play,Ke'Bryan Hayes grounds out softly to pitcher Robert Suarez.,2024,4-Seam Fastball
+CH,663158,663647,No event,ball,Ke'Bryan Hayes grounds out softly to pitcher Robert Suarez.,2024,Changeup
+FF,663158,663647,No event,foul,Ke'Bryan Hayes grounds out softly to pitcher Robert Suarez.,2024,4-Seam Fastball
+FF,663158,663647,No event,foul,Ke'Bryan Hayes grounds out softly to pitcher Robert Suarez.,2024,4-Seam Fastball
+SI,663158,663647,No event,foul,Ke'Bryan Hayes grounds out softly to pitcher Robert Suarez.,2024,Sinker
+FF,663158,663647,No event,foul,Ke'Bryan Hayes grounds out softly to pitcher Robert Suarez.,2024,4-Seam Fastball
+FF,663158,660644,field_out,hit_into_play,Vidal Bruján pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,660644,No event,foul,Vidal Bruján pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,660644,No event,foul,Vidal Bruján pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,660644,No event,ball,Vidal Bruján pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,660644,No event,swinging_strike,Vidal Bruján pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,660644,No event,ball,Vidal Bruján pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,660644,No event,swinging_strike,Vidal Bruján pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+SI,663158,672640,field_out,hit_into_play,Otto Lopez flies out to right fielder Tyler Wade.,2024,Sinker
+FF,663158,672640,No event,foul,Otto Lopez flies out to right fielder Tyler Wade.,2024,4-Seam Fastball
+FF,663158,672640,No event,ball,Otto Lopez flies out to right fielder Tyler Wade.,2024,4-Seam Fastball
+SI,663158,672640,No event,ball,Otto Lopez flies out to right fielder Tyler Wade.,2024,Sinker
+FF,663158,672640,No event,called_strike,Otto Lopez flies out to right fielder Tyler Wade.,2024,4-Seam Fastball
+SI,663158,672640,No event,called_strike,Otto Lopez flies out to right fielder Tyler Wade.,2024,Sinker
+FF,663158,669065,strikeout,swinging_strike,Kyle Stowers strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669065,No event,foul,Kyle Stowers strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669065,No event,swinging_strike,Kyle Stowers strikes out swinging.,2024,4-Seam Fastball
+FF,663158,650559,strikeout,swinging_strike,Bryan De La Cruz strikes out swinging.,2024,4-Seam Fastball
+FF,663158,650559,No event,swinging_strike,Bryan De La Cruz strikes out swinging.,2024,4-Seam Fastball
+SI,663158,650559,No event,called_strike,Bryan De La Cruz strikes out swinging.,2024,Sinker
+FF,663158,642133,single,hit_into_play,Rowdy Tellez singles on a ground ball to left fielder Jurickson Profar. Joey Bart scores.,2024,4-Seam Fastball
+FF,663158,642133,No event,ball,Rowdy Tellez singles on a ground ball to left fielder Jurickson Profar. Joey Bart scores.,2024,4-Seam Fastball
+FF,663158,642133,No event,called_strike,Rowdy Tellez singles on a ground ball to left fielder Jurickson Profar. Joey Bart scores.,2024,4-Seam Fastball
+FF,663158,642133,No event,ball,Rowdy Tellez singles on a ground ball to left fielder Jurickson Profar. Joey Bart scores.,2024,4-Seam Fastball
+FF,663158,663698,double,hit_into_play,Joey Bart doubles (6) on a line drive to left fielder Jurickson Profar.,2024,4-Seam Fastball
+SI,663158,663698,No event,ball,Joey Bart doubles (6) on a line drive to left fielder Jurickson Profar.,2024,Sinker
+CH,663158,665833,field_out,hit_into_play,"Oneil Cruz grounds out, second baseman Luis Arraez to first baseman Donovan Solano.",2024,Changeup
+CH,663158,665833,No event,called_strike,"Oneil Cruz grounds out, second baseman Luis Arraez to first baseman Donovan Solano.",2024,Changeup
+SI,663158,665833,No event,ball,"Oneil Cruz grounds out, second baseman Luis Arraez to first baseman Donovan Solano.",2024,Sinker
+CH,663158,665833,No event,swinging_strike,"Oneil Cruz grounds out, second baseman Luis Arraez to first baseman Donovan Solano.",2024,Changeup
+FF,663158,668804,strikeout,foul_tip,Bryan Reynolds strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,668804,No event,ball,Bryan Reynolds strikes out on a foul tip.,2024,Changeup
+FF,663158,668804,No event,foul,Bryan Reynolds strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,668804,No event,ball,Bryan Reynolds strikes out on a foul tip.,2024,Changeup
+CH,663158,668804,No event,called_strike,Bryan Reynolds strikes out on a foul tip.,2024,Changeup
+SI,663158,668804,No event,called_strike,Bryan Reynolds strikes out on a foul tip.,2024,Sinker
+FF,663158,678225,force_out,hit_into_play,"Ji Hwan Bae grounds into a force out, second baseman Xander Bogaerts to catcher Luis Campusano. Isiah Kiner-Falefa out at home. Connor Joe to 3rd. Ke'Bryan Hayes to 2nd. Ji Hwan Bae to 1st.",2024,4-Seam Fastball
+SI,663158,678225,No event,foul,"Ji Hwan Bae grounds into a force out, second baseman Xander Bogaerts to catcher Luis Campusano. Isiah Kiner-Falefa out at home. Connor Joe to 3rd. Ke'Bryan Hayes to 2nd. Ji Hwan Bae to 1st.",2024,Sinker
+SI,663158,663647,No event,ball,Robert Suarez intentionally walks Ke'Bryan Hayes.,2024,Sinker
+FF,663158,518735,sac_bunt,hit_into_play,"Yasmani Grandal out on a sacrifice bunt, pitcher Robert Suarez to second baseman Xander Bogaerts. Isiah Kiner-Falefa to 3rd. Connor Joe to 2nd.",2024,4-Seam Fastball
+FF,663158,656582,fielders_choice,hit_into_play,"Connor Joe reaches on a fielder's choice, fielded by second baseman Xander Bogaerts. Isiah Kiner-Falefa to 2nd. Isiah Kiner-Falefa advances to 2nd, on a fielding error by second baseman Xander Bogaerts.",2024,4-Seam Fastball
+FF,663158,643396,single,hit_into_play,Isiah Kiner-Falefa singles on a ground ball to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669911,field_out,hit_into_play,"Michael Toglia grounds out softly, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,669911,No event,ball,"Michael Toglia grounds out softly, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,669911,No event,foul,"Michael Toglia grounds out softly, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,669911,No event,ball,"Michael Toglia grounds out softly, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,669911,No event,foul,"Michael Toglia grounds out softly, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,641857,strikeout,swinging_strike,Ryan McMahon strikes out swinging.,2024,4-Seam Fastball
+CH,663158,641857,No event,swinging_strike,Ryan McMahon strikes out swinging.,2024,Changeup
+FF,663158,641857,No event,called_strike,Ryan McMahon strikes out swinging.,2024,4-Seam Fastball
+FF,663158,686668,field_out,hit_into_play,"Rockies challenged (play at 1st), call on the field was upheld: Brenton Doyle grounds out, third baseman Manny Machado to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,681624,field_out,hit_into_play,Andy Pages flies out to right fielder David Peralta.,2024,4-Seam Fastball
+FF,663158,681546,strikeout,swinging_strike,James Outman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681546,No event,swinging_strike,James Outman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681546,No event,swinging_strike,James Outman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,606192,strikeout,swinging_strike,Teoscar Hernández strikes out swinging.,2024,4-Seam Fastball
+FF,663158,606192,No event,foul,Teoscar Hernández strikes out swinging.,2024,4-Seam Fastball
+SI,663158,606192,No event,foul,Teoscar Hernández strikes out swinging.,2024,Sinker
+SI,663158,606192,No event,ball,Teoscar Hernández strikes out swinging.,2024,Sinker
+FF,663158,606192,No event,ball,Teoscar Hernández strikes out swinging.,2024,4-Seam Fastball
+FF,663158,606192,No event,called_strike,Teoscar Hernández strikes out swinging.,2024,4-Seam Fastball
+SI,663158,623993,field_out,hit_into_play,Anthony Santander pops out to first baseman Jake Cronenworth in foul territory.,2024,Sinker
+FF,663158,668939,strikeout,foul_tip,Adley Rutschman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,668939,No event,foul,Adley Rutschman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,668939,No event,foul,Adley Rutschman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,668939,No event,called_strike,Adley Rutschman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,668939,No event,ball,Adley Rutschman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,668939,No event,foul,Adley Rutschman strikes out on a foul tip.,2024,4-Seam Fastball
+SI,663158,668939,No event,ball,Adley Rutschman strikes out on a foul tip.,2024,Sinker
+FF,663158,683002,field_out,hit_into_play,"Gunnar Henderson grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,683002,No event,ball,"Gunnar Henderson grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+SI,663158,683002,No event,ball,"Gunnar Henderson grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,Sinker
+FF,663158,656775,strikeout,swinging_strike,Cedric Mullins strikes out swinging.,2024,4-Seam Fastball
+FF,663158,656775,No event,ball,Cedric Mullins strikes out swinging.,2024,4-Seam Fastball
+FF,663158,656775,No event,swinging_strike,Cedric Mullins strikes out swinging.,2024,4-Seam Fastball
+FF,663158,656775,No event,swinging_strike,Cedric Mullins strikes out swinging.,2024,4-Seam Fastball
+FF,663158,656775,No event,ball,Cedric Mullins strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681297,single,hit_into_play,Colton Cowser singles on a ground ball to left fielder Jurickson Profar. Cristian Pache to 3rd.,2024,4-Seam Fastball
+SI,663158,663624,sac_fly,hit_into_play,Ryan Mountcastle out on a sacrifice fly to right fielder David Peralta. Ryan O'Hearn scores.,2024,Sinker
+SI,663158,663624,No event,ball,Ryan Mountcastle out on a sacrifice fly to right fielder David Peralta. Ryan O'Hearn scores.,2024,Sinker
+FF,663158,695578,strikeout,swinging_strike,James Wood strikes out swinging.,2024,4-Seam Fastball
+SI,663158,695578,No event,foul,James Wood strikes out swinging.,2024,Sinker
+FF,663158,695578,No event,called_strike,James Wood strikes out swinging.,2024,4-Seam Fastball
+FF,663158,660766,single,hit_into_play,Juan Yepez singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+SI,663158,660766,No event,ball,Juan Yepez singles on a ground ball to right fielder Bryce Johnson.,2024,Sinker
+FF,663158,660766,No event,foul,Juan Yepez singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,660766,No event,called_strike,Juan Yepez singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,608385,strikeout,swinging_strike,Jesse Winker strikes out swinging.,2024,4-Seam Fastball
+SI,663158,608385,No event,foul,Jesse Winker strikes out swinging.,2024,Sinker
+FF,663158,608385,No event,ball,Jesse Winker strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608385,No event,foul,Jesse Winker strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608385,No event,swinging_strike,Jesse Winker strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608385,No event,called_strike,Jesse Winker strikes out swinging.,2024,4-Seam Fastball
+SI,663158,657041,field_out,hit_into_play,"Lane Thomas grounds out, third baseman Manny Machado to first baseman Jake Cronenworth.",2024,Sinker
+SI,663158,657041,No event,ball,"Lane Thomas grounds out, third baseman Manny Machado to first baseman Jake Cronenworth.",2024,Sinker
+FF,663158,657041,No event,called_strike,"Lane Thomas grounds out, third baseman Manny Machado to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+SI,663158,608070,field_out,hit_into_play,José Ramírez lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,608070,No event,foul,José Ramírez lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,608070,No event,ball,José Ramírez lines out sharply to center fielder Jackson Merrill.,2024,Sinker
+CH,663158,608070,No event,ball,José Ramírez lines out sharply to center fielder Jackson Merrill.,2024,Changeup
+FF,663158,682657,strikeout,foul_tip,Angel Martínez strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,682657,No event,swinging_strike,Angel Martínez strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,682657,No event,called_strike,Angel Martínez strikes out on a foul tip.,2024,Changeup
+SI,663158,680757,field_out,hit_into_play,"Steven Kwan grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,Sinker
+SI,663158,680757,No event,called_strike,"Steven Kwan grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,Sinker
+FF,663158,680757,No event,ball,"Steven Kwan grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,680757,No event,ball,"Steven Kwan grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,666310,field_out,hit_into_play,Bo Naylor pops out to first baseman Luis Arraez in foul territory.,2024,4-Seam Fastball
+CH,663158,666310,No event,ball,Bo Naylor pops out to first baseman Luis Arraez in foul territory.,2024,Changeup
+FF,663158,666310,No event,ball,Bo Naylor pops out to first baseman Luis Arraez in foul territory.,2024,4-Seam Fastball
+FF,663158,666310,No event,foul,Bo Naylor pops out to first baseman Luis Arraez in foul territory.,2024,4-Seam Fastball
+FF,663158,666310,No event,called_strike,Bo Naylor pops out to first baseman Luis Arraez in foul territory.,2024,4-Seam Fastball
+SI,663158,669221,field_out,hit_into_play,"Sean Murphy grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,Sinker
+FF,663158,669221,No event,foul,"Sean Murphy grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,669221,No event,ball,"Sean Murphy grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+SI,663158,669221,No event,ball,"Sean Murphy grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,Sinker
+SI,663158,669221,No event,ball,"Sean Murphy grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,Sinker
+FF,663158,669221,No event,called_strike,"Sean Murphy grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,592696,single,hit_into_play,Eddie Rosario singles on a line drive to center fielder Jackson Merrill.   Adam Duvall to 3rd.,2024,4-Seam Fastball
+SI,663158,592696,No event,foul,Eddie Rosario singles on a line drive to center fielder Jackson Merrill.   Adam Duvall to 3rd.,2024,Sinker
+FF,663158,592696,No event,foul,Eddie Rosario singles on a line drive to center fielder Jackson Merrill.   Adam Duvall to 3rd.,2024,4-Seam Fastball
+FF,663158,592696,No event,swinging_strike,Eddie Rosario singles on a line drive to center fielder Jackson Merrill.   Adam Duvall to 3rd.,2024,4-Seam Fastball
+FF,663158,592696,No event,ball,Eddie Rosario singles on a line drive to center fielder Jackson Merrill.   Adam Duvall to 3rd.,2024,4-Seam Fastball
+FF,663158,594807,single,hit_into_play,Adam Duvall singles on a fly ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,594807,No event,called_strike,Adam Duvall singles on a fly ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,594807,No event,ball,Adam Duvall singles on a fly ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,594807,No event,ball,Adam Duvall singles on a fly ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+SI,663158,542303,field_out,hit_into_play,Marcell Ozuna lines out to left fielder Jurickson Profar.,2024,Sinker
+FF,663158,542303,No event,called_strike,Marcell Ozuna lines out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,621566,strikeout,swinging_strike,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+SI,663158,621566,No event,ball,Matt Olson strikes out swinging.,2024,Sinker
+FF,663158,621566,No event,foul,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+FF,663158,621566,No event,foul,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+CH,663158,621566,No event,ball,Matt Olson strikes out swinging.,2024,Changeup
+CH,663158,621566,No event,ball,Matt Olson strikes out swinging.,2024,Changeup
+FF,663158,621566,No event,called_strike,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+FF,663158,621566,No event,foul,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+FF,663158,664238,truncated_pa,called_strike,"Ryan Bliss caught stealing 2nd base, catcher Brett Sullivan to second baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,668942,strikeout,swinging_strike,Josh Rojas strikes out swinging.,2024,4-Seam Fastball
+FF,663158,668942,No event,swinging_strike,Josh Rojas strikes out swinging.,2024,4-Seam Fastball
+FF,663158,668942,No event,swinging_strike,Josh Rojas strikes out swinging.,2024,4-Seam Fastball
+CH,663158,668942,No event,ball,Josh Rojas strikes out swinging.,2024,Changeup
+FF,663158,593871,walk,blocked_ball,Jorge Polanco walks.,2024,4-Seam Fastball
+FF,663158,593871,No event,ball,Jorge Polanco walks.,2024,4-Seam Fastball
+SI,663158,593871,No event,foul,Jorge Polanco walks.,2024,Sinker
+FF,663158,593871,No event,ball,Jorge Polanco walks.,2024,4-Seam Fastball
+FF,663158,593871,No event,ball,Jorge Polanco walks.,2024,4-Seam Fastball
+FF,663158,664034,field_out,hit_into_play,Ty France flies out to right fielder David Peralta.,2024,4-Seam Fastball
+FF,663158,664034,No event,foul,Ty France flies out to right fielder David Peralta.,2024,4-Seam Fastball
+FF,663158,664034,No event,ball,Ty France flies out to right fielder David Peralta.,2024,4-Seam Fastball
+FF,663158,664034,No event,foul,Ty France flies out to right fielder David Peralta.,2024,4-Seam Fastball
+SI,663158,664034,No event,foul,Ty France flies out to right fielder David Peralta.,2024,Sinker
+FF,663158,621028,single,hit_into_play,Kevin Newman singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,621028,No event,foul,Kevin Newman singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,621028,No event,ball,Kevin Newman singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,621028,No event,ball,Kevin Newman singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,621028,No event,called_strike,Kevin Newman singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,621028,No event,ball,Kevin Newman singles on a ground ball to right fielder Bryce Johnson.,2024,4-Seam Fastball
+CH,663158,545341,home_run,hit_into_play,Randal Grichuk homers (3) on a fly ball to left field. Corbin Carroll scores.,2024,Changeup
+CH,663158,545341,No event,blocked_ball,Randal Grichuk homers (3) on a fly ball to left field. Corbin Carroll scores.,2024,Changeup
+SI,663158,545341,No event,foul,Randal Grichuk homers (3) on a fly ball to left field. Corbin Carroll scores.,2024,Sinker
+FF,663158,545341,No event,swinging_strike,Randal Grichuk homers (3) on a fly ball to left field. Corbin Carroll scores.,2024,4-Seam Fastball
+FF,663158,545341,No event,ball,Randal Grichuk homers (3) on a fly ball to left field. Corbin Carroll scores.,2024,4-Seam Fastball
+FF,663158,682998,double,hit_into_play,Corbin Carroll doubles (15) on a sharp line drive to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,672695,field_out,hit_into_play,Geraldo Perdomo grounds out to first baseman Luis Arraez.,2024,4-Seam Fastball
+CH,663158,672695,No event,ball,Geraldo Perdomo grounds out to first baseman Luis Arraez.,2024,Changeup
+FF,663158,672695,No event,foul,Geraldo Perdomo grounds out to first baseman Luis Arraez.,2024,4-Seam Fastball
+FF,663158,672695,No event,foul,Geraldo Perdomo grounds out to first baseman Luis Arraez.,2024,4-Seam Fastball
+FF,663158,672695,No event,foul,Geraldo Perdomo grounds out to first baseman Luis Arraez.,2024,4-Seam Fastball
+CH,663158,672695,No event,ball,Geraldo Perdomo grounds out to first baseman Luis Arraez.,2024,Changeup
+FF,663158,672695,No event,ball,Geraldo Perdomo grounds out to first baseman Luis Arraez.,2024,4-Seam Fastball
+FF,663158,677950,home_run,hit_into_play,Alek Thomas hits a grand slam (2) to right center field. Lourdes Gurriel Jr. scores. Gabriel Moreno scores. Jake McCarthy scores.,2024,4-Seam Fastball
+CH,663158,641680,field_out,hit_into_play,Jonah Heim grounds out to first baseman Luis Arraez.,2024,Changeup
+FF,663158,641680,No event,foul,Jonah Heim grounds out to first baseman Luis Arraez.,2024,4-Seam Fastball
+FF,663158,608671,strikeout,swinging_strike,Travis Jankowski strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608671,No event,ball,Travis Jankowski strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608671,No event,foul,Travis Jankowski strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608671,No event,foul,Travis Jankowski strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608671,No event,foul,Travis Jankowski strikes out swinging.,2024,4-Seam Fastball
+FF,663158,665750,force_out,hit_into_play,"Leody Taveras grounds into a force out, second baseman Jake Cronenworth to shortstop Ha-Seong Kim.   Wyatt Langford out at 2nd.    Leody Taveras to 1st.",2024,4-Seam Fastball
+FF,663158,665750,No event,ball,"Leody Taveras grounds into a force out, second baseman Jake Cronenworth to shortstop Ha-Seong Kim.   Wyatt Langford out at 2nd.    Leody Taveras to 1st.",2024,4-Seam Fastball
+CH,663158,665750,No event,ball,"Leody Taveras grounds into a force out, second baseman Jake Cronenworth to shortstop Ha-Seong Kim.   Wyatt Langford out at 2nd.    Leody Taveras to 1st.",2024,Changeup
+FF,663158,665750,No event,foul,"Leody Taveras grounds into a force out, second baseman Jake Cronenworth to shortstop Ha-Seong Kim.   Wyatt Langford out at 2nd.    Leody Taveras to 1st.",2024,4-Seam Fastball
+CH,663158,665750,No event,swinging_strike,"Leody Taveras grounds into a force out, second baseman Jake Cronenworth to shortstop Ha-Seong Kim.   Wyatt Langford out at 2nd.    Leody Taveras to 1st.",2024,Changeup
+FF,663158,665750,No event,foul,"Leody Taveras grounds into a force out, second baseman Jake Cronenworth to shortstop Ha-Seong Kim.   Wyatt Langford out at 2nd.    Leody Taveras to 1st.",2024,4-Seam Fastball
+SI,663158,694671,walk,ball,Wyatt Langford walks.,2024,Sinker
+CH,663158,694671,No event,ball,Wyatt Langford walks.,2024,Changeup
+FF,663158,694671,No event,foul,Wyatt Langford walks.,2024,4-Seam Fastball
+SI,663158,694671,No event,ball,Wyatt Langford walks.,2024,Sinker
+FF,663158,694671,No event,swinging_strike,Wyatt Langford walks.,2024,4-Seam Fastball
+FF,663158,694671,No event,ball,Wyatt Langford walks.,2024,4-Seam Fastball
+FF,663158,543760,field_out,hit_into_play,"Marcus Semien grounds out, third baseman Manny Machado to first baseman Luis Arraez.",2024,4-Seam Fastball
+CH,663158,665750,strikeout,swinging_strike,Leody Taveras strikes out swinging.,2024,Changeup
+FF,663158,665750,No event,called_strike,Leody Taveras strikes out swinging.,2024,4-Seam Fastball
+SI,663158,665750,No event,foul,Leody Taveras strikes out swinging.,2024,Sinker
+FF,663158,665750,No event,ball,Leody Taveras strikes out swinging.,2024,4-Seam Fastball
+CH,663158,665750,No event,ball,Leody Taveras strikes out swinging.,2024,Changeup
+CH,663158,656537,strikeout,swinging_strike,Derek Hill strikes out swinging.,2024,Changeup
+SI,663158,656537,No event,foul,Derek Hill strikes out swinging.,2024,Sinker
+CH,663158,656537,No event,ball,Derek Hill strikes out swinging.,2024,Changeup
+FF,663158,656537,No event,foul,Derek Hill strikes out swinging.,2024,4-Seam Fastball
+CH,663158,641680,field_out,hit_into_play,"Jonah Heim grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,Changeup
+FF,663158,641680,No event,foul,"Jonah Heim grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+CH,663158,641680,No event,blocked_ball,"Jonah Heim grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,Changeup
+FF,663158,641680,No event,swinging_strike,"Jonah Heim grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,657041,field_out,hit_into_play,Lane Thomas pops out to second baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,657041,No event,foul,Lane Thomas pops out to second baseman Jake Cronenworth.,2024,4-Seam Fastball
+SI,663158,657041,No event,foul,Lane Thomas pops out to second baseman Jake Cronenworth.,2024,Sinker
+FF,663158,682928,single,hit_into_play,CJ Abrams singles on a line drive to center fielder Jackson Merrill. Jacob Young scores.,2024,4-Seam Fastball
+FF,663158,682928,No event,foul,CJ Abrams singles on a line drive to center fielder Jackson Merrill. Jacob Young scores.,2024,4-Seam Fastball
+FF,663158,682928,No event,foul,CJ Abrams singles on a line drive to center fielder Jackson Merrill. Jacob Young scores.,2024,4-Seam Fastball
+FF,663158,682928,No event,swinging_strike,CJ Abrams singles on a line drive to center fielder Jackson Merrill. Jacob Young scores.,2024,4-Seam Fastball
+FF,663158,682928,No event,foul,CJ Abrams singles on a line drive to center fielder Jackson Merrill. Jacob Young scores.,2024,4-Seam Fastball
+CH,663158,682928,No event,blocked_ball,CJ Abrams singles on a line drive to center fielder Jackson Merrill. Jacob Young scores.,2024,Changeup
+SI,663158,696285,field_error,hit_into_play,"Jacob Young reaches on a missed catch error by first baseman Luis Arraez, assist to shortstop Ha-Seong Kim.",2024,Sinker
+FF,663158,696285,No event,ball,"Jacob Young reaches on a missed catch error by first baseman Luis Arraez, assist to shortstop Ha-Seong Kim.",2024,4-Seam Fastball
+SI,663158,696285,No event,called_strike,"Jacob Young reaches on a missed catch error by first baseman Luis Arraez, assist to shortstop Ha-Seong Kim.",2024,Sinker
+FF,663158,671277,field_out,hit_into_play,Luis García Jr. flies out to left fielder Tyler Wade.,2024,4-Seam Fastball
+FF,663158,671277,No event,ball,Luis García Jr. flies out to left fielder Tyler Wade.,2024,4-Seam Fastball
+FF,663158,671277,No event,foul,Luis García Jr. flies out to left fielder Tyler Wade.,2024,4-Seam Fastball
+FF,663158,671277,No event,foul,Luis García Jr. flies out to left fielder Tyler Wade.,2024,4-Seam Fastball
+FF,663158,671277,No event,ball,Luis García Jr. flies out to left fielder Tyler Wade.,2024,4-Seam Fastball
+FF,663158,545121,strikeout,swinging_strike,Ildemaro Vargas strikes out swinging.,2024,4-Seam Fastball
+FF,663158,545121,No event,foul,Ildemaro Vargas strikes out swinging.,2024,4-Seam Fastball
+FF,663158,545121,No event,ball,Ildemaro Vargas strikes out swinging.,2024,4-Seam Fastball
+FF,663158,545121,No event,called_strike,Ildemaro Vargas strikes out swinging.,2024,4-Seam Fastball
+FF,663158,608385,field_out,hit_into_play,"Jesse Winker grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,608385,No event,ball,"Jesse Winker grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+CH,663158,608385,No event,ball,"Jesse Winker grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,Changeup
+FF,663158,608385,No event,foul,"Jesse Winker grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,608385,No event,ball,"Jesse Winker grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,657041,double,hit_into_play,Lane Thomas doubles (7) on a sharp line drive to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,682928,field_out,hit_into_play,CJ Abrams flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+CH,663158,682928,No event,foul,CJ Abrams flies out to right fielder Bryce Johnson.,2024,Changeup
+FF,663158,682928,No event,foul,CJ Abrams flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,682928,No event,foul,CJ Abrams flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+CH,663158,682928,No event,swinging_strike,CJ Abrams flies out to right fielder Bryce Johnson.,2024,Changeup
+FF,663158,682928,No event,called_strike,CJ Abrams flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,682928,No event,ball,CJ Abrams flies out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+SI,663158,696285,field_out,hit_into_play,Jacob Young lines out to right fielder Bryce Johnson.,2024,Sinker
+FF,663158,696285,No event,ball,Jacob Young lines out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,696285,No event,called_strike,Jacob Young lines out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+FF,663158,696285,No event,ball,Jacob Young lines out to right fielder Bryce Johnson.,2024,4-Seam Fastball
+SI,663158,661388,field_out,hit_into_play,"William Contreras grounds out, third baseman Manny Machado to first baseman Luis Arraez.",2024,Sinker
+FF,663158,661388,No event,swinging_strike,"William Contreras grounds out, third baseman Manny Machado to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,661388,No event,ball,"William Contreras grounds out, third baseman Manny Machado to first baseman Luis Arraez.",2024,4-Seam Fastball
+CH,663158,621311,field_out,hit_into_play,"David Dahl grounds out, second baseman Tyler Wade to first baseman Luis Arraez.",2024,Changeup
+FF,663158,621311,No event,foul,"David Dahl grounds out, second baseman Tyler Wade to first baseman Luis Arraez.",2024,4-Seam Fastball
+CH,663158,621311,No event,ball,"David Dahl grounds out, second baseman Tyler Wade to first baseman Luis Arraez.",2024,Changeup
+FF,663158,621311,No event,swinging_strike,"David Dahl grounds out, second baseman Tyler Wade to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,621311,No event,ball,"David Dahl grounds out, second baseman Tyler Wade to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,624641,field_out,hit_into_play,"Edmundo Sosa lines out, pitcher Robert Suarez to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,624641,No event,foul,"Edmundo Sosa lines out, pitcher Robert Suarez to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,624641,No event,swinging_strike,"Edmundo Sosa lines out, pitcher Robert Suarez to first baseman Luis Arraez.",2024,4-Seam Fastball
+SI,663158,624641,No event,ball,"Edmundo Sosa lines out, pitcher Robert Suarez to first baseman Luis Arraez.",2024,Sinker
+FF,663158,669016,strikeout,called_strike,Brandon Marsh called out on strikes.,2024,4-Seam Fastball
+FF,663158,669016,No event,foul,Brandon Marsh called out on strikes.,2024,4-Seam Fastball
+FF,663158,669016,No event,called_strike,Brandon Marsh called out on strikes.,2024,4-Seam Fastball
+FF,663158,669016,No event,ball,Brandon Marsh called out on strikes.,2024,4-Seam Fastball
+SI,663158,592206,double,hit_into_play,Nick Castellanos hits a ground-rule double (12) on a fly ball down the right-field line. Alec Bohm scores. Bryson Stott to 3rd.,2024,Sinker
+FF,663158,681082,single,hit_into_play,Bryson Stott singles on a line drive to left fielder José Azocar. Bryce Harper scores. Alec Bohm to 2nd.,2024,4-Seam Fastball
+FF,663158,681082,No event,ball,Bryson Stott singles on a line drive to left fielder José Azocar. Bryce Harper scores. Alec Bohm to 2nd.,2024,4-Seam Fastball
+FF,663158,681082,No event,ball,Bryson Stott singles on a line drive to left fielder José Azocar. Bryce Harper scores. Alec Bohm to 2nd.,2024,4-Seam Fastball
+FF,663158,664761,single,hit_into_play,Alec Bohm singles on a line drive to center fielder Jackson Merrill. Bryce Harper to 3rd.,2024,4-Seam Fastball
+CH,663158,547180,single,hit_into_play,Bryce Harper singles on a ground ball to right fielder Fernando Tatis Jr.,2024,Changeup
+CH,663158,547180,No event,ball,Bryce Harper singles on a ground ball to right fielder Fernando Tatis Jr.,2024,Changeup
+SI,663158,607208,field_out,hit_into_play,Trea Turner flies out to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,607208,No event,foul,Trea Turner flies out to center fielder Jackson Merrill.,2024,Sinker
+SI,663158,669127,field_out,hit_into_play,Shea Langeliers pops out to shortstop Ha-Seong Kim.,2024,Sinker
+SI,663158,669127,No event,ball,Shea Langeliers pops out to shortstop Ha-Seong Kim.,2024,Sinker
+FF,663158,691016,field_out,hit_into_play,Tyler Soderstrom flies out to left fielder David Peralta.,2024,4-Seam Fastball
+CH,663158,691016,No event,ball,Tyler Soderstrom flies out to left fielder David Peralta.,2024,Changeup
+CH,663158,691016,No event,ball,Tyler Soderstrom flies out to left fielder David Peralta.,2024,Changeup
+FF,663158,609280,single,hit_into_play,Miguel Andujar singles on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,609280,No event,ball,Miguel Andujar singles on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,609280,No event,foul,Miguel Andujar singles on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,609280,No event,foul,Miguel Andujar singles on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,609280,No event,ball,Miguel Andujar singles on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+SI,663158,609280,No event,ball,Miguel Andujar singles on a line drive to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,668709,strikeout,called_strike,JJ Bleday called out on strikes.,2024,4-Seam Fastball
+FF,663158,668709,No event,foul,JJ Bleday called out on strikes.,2024,4-Seam Fastball
+CH,663158,668709,No event,ball,JJ Bleday called out on strikes.,2024,Changeup
+FF,663158,668709,No event,foul,JJ Bleday called out on strikes.,2024,4-Seam Fastball
+CH,663158,668709,No event,ball,JJ Bleday called out on strikes.,2024,Changeup
+CH,663158,668709,No event,ball,JJ Bleday called out on strikes.,2024,Changeup
+FF,663158,668709,No event,called_strike,JJ Bleday called out on strikes.,2024,4-Seam Fastball
+FF,663158,668709,No event,foul,JJ Bleday called out on strikes.,2024,4-Seam Fastball
+FF,663158,647351,field_out,hit_into_play,Abraham Toro pops out to second baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,669127,field_out,hit_into_play,Shea Langeliers flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,680474,field_out,hit_into_play,Max Schuemann flies out to right fielder Fernando Tatis Jr. in foul territory.,2024,4-Seam Fastball
+FF,663158,680474,No event,ball,Max Schuemann flies out to right fielder Fernando Tatis Jr. in foul territory.,2024,4-Seam Fastball
+FF,663158,664913,field_out,hit_into_play,"Seth Brown grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,664913,No event,foul,"Seth Brown grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,664913,No event,ball,"Seth Brown grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,664913,No event,called_strike,"Seth Brown grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,667670,strikeout,swinging_strike,Brent Rooker strikes out swinging.,2024,4-Seam Fastball
+FF,663158,667670,No event,foul,Brent Rooker strikes out swinging.,2024,4-Seam Fastball
+FF,663158,667670,No event,foul,Brent Rooker strikes out swinging.,2024,4-Seam Fastball
+FC,663158,667670,No event,swinging_strike,Brent Rooker strikes out swinging.,2024,Cutter
+CH,663158,668709,strikeout,swinging_strike,JJ Bleday strikes out swinging.,2024,Changeup
+CH,663158,668709,No event,ball,JJ Bleday strikes out swinging.,2024,Changeup
+FF,663158,668709,No event,foul,JJ Bleday strikes out swinging.,2024,4-Seam Fastball
+FF,663158,668709,No event,ball,JJ Bleday strikes out swinging.,2024,4-Seam Fastball
+FF,663158,668709,No event,foul,JJ Bleday strikes out swinging.,2024,4-Seam Fastball
+FF,663158,668709,No event,foul,JJ Bleday strikes out swinging.,2024,4-Seam Fastball
+CH,663158,647351,strikeout,swinging_strike,Abraham Toro strikes out swinging.,2024,Changeup
+FF,663158,647351,No event,foul,Abraham Toro strikes out swinging.,2024,4-Seam Fastball
+FF,663158,647351,No event,foul,Abraham Toro strikes out swinging.,2024,4-Seam Fastball
+FF,663158,647351,No event,foul,Abraham Toro strikes out swinging.,2024,4-Seam Fastball
+FF,663158,647351,No event,ball,Abraham Toro strikes out swinging.,2024,4-Seam Fastball
+FF,663158,686469,field_out,hit_into_play,"Vinnie Pasquantino grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,686469,No event,ball,"Vinnie Pasquantino grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,677951,field_out,hit_into_play,Bobby Witt Jr. flies out to right fielder Fernando Tatis Jr. Adam Frazier to 3rd.,2024,4-Seam Fastball
+CH,663158,677951,No event,ball,Bobby Witt Jr. flies out to right fielder Fernando Tatis Jr. Adam Frazier to 3rd.,2024,Changeup
+FF,663158,677951,No event,called_strike,Bobby Witt Jr. flies out to right fielder Fernando Tatis Jr. Adam Frazier to 3rd.,2024,4-Seam Fastball
+FF,663158,677951,No event,ball,Bobby Witt Jr. flies out to right fielder Fernando Tatis Jr. Adam Frazier to 3rd.,2024,4-Seam Fastball
+FF,663158,677951,No event,ball,Bobby Witt Jr. flies out to right fielder Fernando Tatis Jr. Adam Frazier to 3rd.,2024,4-Seam Fastball
+SI,663158,672580,field_out,hit_into_play,"Maikel Garcia grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez. Adam Frazier to 2nd.",2024,Sinker
+FF,663158,672580,No event,foul,"Maikel Garcia grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez. Adam Frazier to 2nd.",2024,4-Seam Fastball
+CH,663158,672580,No event,blocked_ball,"Maikel Garcia grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez. Adam Frazier to 2nd.",2024,Changeup
+FF,663158,672580,No event,called_strike,"Maikel Garcia grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez. Adam Frazier to 2nd.",2024,4-Seam Fastball
+FF,663158,672580,No event,called_strike,"Maikel Garcia grounds out, shortstop Ha-Seong Kim to first baseman Luis Arraez. Adam Frazier to 2nd.",2024,4-Seam Fastball
+CH,663158,624428,walk,blocked_ball,Adam Frazier walks.,2024,Changeup
+FF,663158,624428,No event,foul,Adam Frazier walks.,2024,4-Seam Fastball
+FF,663158,624428,No event,ball,Adam Frazier walks.,2024,4-Seam Fastball
+CH,663158,624428,No event,ball,Adam Frazier walks.,2024,Changeup
+CH,663158,624428,No event,ball,Adam Frazier walks.,2024,Changeup
+FF,663158,624428,No event,called_strike,Adam Frazier walks.,2024,4-Seam Fastball
+SI,663158,676369,field_out,hit_into_play,Nelson Velázquez flies out sharply to left fielder José Azocar.,2024,Sinker
+FF,663158,666023,single,hit_into_play,Freddy Fermin singles on a ground ball to center fielder Jackson Merrill.   Maikel Garcia scores.    Bobby Witt Jr.  scores.    Vinnie Pasquantino to 2nd.,2024,4-Seam Fastball
+FF,663158,666023,No event,ball,Freddy Fermin singles on a ground ball to center fielder Jackson Merrill.   Maikel Garcia scores.    Bobby Witt Jr.  scores.    Vinnie Pasquantino to 2nd.,2024,4-Seam Fastball
+FF,663158,666023,No event,foul,Freddy Fermin singles on a ground ball to center fielder Jackson Merrill.   Maikel Garcia scores.    Bobby Witt Jr.  scores.    Vinnie Pasquantino to 2nd.,2024,4-Seam Fastball
+FF,663158,666023,No event,ball,Freddy Fermin singles on a ground ball to center fielder Jackson Merrill.   Maikel Garcia scores.    Bobby Witt Jr.  scores.    Vinnie Pasquantino to 2nd.,2024,4-Seam Fastball
+SI,663158,666023,No event,foul,Freddy Fermin singles on a ground ball to center fielder Jackson Merrill.   Maikel Garcia scores.    Bobby Witt Jr.  scores.    Vinnie Pasquantino to 2nd.,2024,Sinker
+SI,663158,667472,field_out,hit_into_play,"Dane Myers grounds out softly, third baseman Manny Machado to first baseman Luis Arraez.",2024,Sinker
+FF,663158,667472,No event,foul,"Dane Myers grounds out softly, third baseman Manny Machado to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,667472,No event,foul,"Dane Myers grounds out softly, third baseman Manny Machado to first baseman Luis Arraez.",2024,4-Seam Fastball
+FF,663158,667472,No event,swinging_strike,"Dane Myers grounds out softly, third baseman Manny Machado to first baseman Luis Arraez.",2024,4-Seam Fastball
+SI,663158,667472,No event,ball,"Dane Myers grounds out softly, third baseman Manny Machado to first baseman Luis Arraez.",2024,Sinker
+FF,663158,667472,No event,foul,"Dane Myers grounds out softly, third baseman Manny Machado to first baseman Luis Arraez.",2024,4-Seam Fastball
+SI,663158,667472,No event,ball,"Dane Myers grounds out softly, third baseman Manny Machado to first baseman Luis Arraez.",2024,Sinker
+FF,663158,669394,field_out,hit_into_play,Jake Burger pops out to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,660821,strikeout,swinging_strike,Jesús Sánchez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,660821,No event,foul,Jesús Sánchez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,660821,No event,swinging_strike,Jesús Sánchez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,660821,No event,ball,Jesús Sánchez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,660821,No event,swinging_strike,Jesús Sánchez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,660821,No event,ball,Jesús Sánchez strikes out swinging.,2024,4-Seam Fastball
+FF,663158,624431,force_out,hit_into_play,"Jose Trevino grounds into a force out, fielded by second baseman Jake Cronenworth.   Kevin Smith out at 2nd.",2024,4-Seam Fastball
+FF,663158,650402,field_out,hit_into_play,Gleyber Torres flies out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+CH,663158,650402,No event,blocked_ball,Gleyber Torres flies out sharply to center fielder Jackson Merrill.,2024,Changeup
+FF,663158,650402,No event,foul,Gleyber Torres flies out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,650402,No event,ball,Gleyber Torres flies out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,650402,No event,called_strike,Gleyber Torres flies out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,519203,single,hit_into_play,Anthony Rizzo singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,519203,No event,ball,Anthony Rizzo singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,519203,No event,foul,Anthony Rizzo singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,519203,No event,ball,Anthony Rizzo singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,519203,No event,called_strike,Anthony Rizzo singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+SI,663158,519317,strikeout,called_strike,Giancarlo Stanton called out on strikes.,2024,Sinker
+SI,663158,519317,No event,swinging_strike,Giancarlo Stanton called out on strikes.,2024,Sinker
+FF,663158,519317,No event,ball,Giancarlo Stanton called out on strikes.,2024,4-Seam Fastball
+FF,663158,519317,No event,called_strike,Giancarlo Stanton called out on strikes.,2024,4-Seam Fastball
+FF,663158,657077,home_run,hit_into_play,Alex Verdugo homers (7) on a fly ball to left field.,2024,4-Seam Fastball
+FF,663158,592450,strikeout,called_strike,Aaron Judge called out on strikes.,2024,4-Seam Fastball
+SI,663158,592450,No event,foul,Aaron Judge called out on strikes.,2024,Sinker
+FF,663158,592450,No event,ball,Aaron Judge called out on strikes.,2024,4-Seam Fastball
+FF,663158,592450,No event,foul,Aaron Judge called out on strikes.,2024,4-Seam Fastball
+FF,663158,668715,field_out,hit_into_play,Spencer Steer pops out softly to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,668715,No event,foul,Spencer Steer pops out softly to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,668715,No event,called_strike,Spencer Steer pops out softly to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,668715,No event,ball,Spencer Steer pops out softly to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,645801,field_out,hit_into_play,Mike Ford flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,645801,No event,ball,Mike Ford flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,600869,walk,ball,Jeimer Candelario walks.,2024,4-Seam Fastball
+FF,663158,600869,No event,ball,Jeimer Candelario walks.,2024,4-Seam Fastball
+FF,663158,600869,No event,foul,Jeimer Candelario walks.,2024,4-Seam Fastball
+FF,663158,600869,No event,ball,Jeimer Candelario walks.,2024,4-Seam Fastball
+FF,663158,600869,No event,ball,Jeimer Candelario walks.,2024,4-Seam Fastball
+FF,663158,682829,strikeout,called_strike,Elly De La Cruz called out on strikes.,2024,4-Seam Fastball
+FF,663158,682829,No event,foul,Elly De La Cruz called out on strikes.,2024,4-Seam Fastball
+FF,663158,682829,No event,called_strike,Elly De La Cruz called out on strikes.,2024,4-Seam Fastball
+FF,663158,682829,No event,called_strike,Elly De La Cruz called out on strikes.,2024,4-Seam Fastball
+FF,663158,605361,strikeout,swinging_strike,Nick Martini strikes out swinging.,2024,4-Seam Fastball
+FF,663158,605361,No event,foul,Nick Martini strikes out swinging.,2024,4-Seam Fastball
+FF,663158,605361,No event,foul,Nick Martini strikes out swinging.,2024,4-Seam Fastball
+FF,663158,605361,No event,ball,Nick Martini strikes out swinging.,2024,4-Seam Fastball
+FF,663158,605361,No event,ball,Nick Martini strikes out swinging.,2024,4-Seam Fastball
+FF,663158,605361,No event,foul,Nick Martini strikes out swinging.,2024,4-Seam Fastball
+FF,663158,668715,strikeout,swinging_strike,Spencer Steer strikes out swinging.,2024,4-Seam Fastball
+FF,663158,668715,No event,foul,Spencer Steer strikes out swinging.,2024,4-Seam Fastball
+SI,663158,668715,No event,ball,Spencer Steer strikes out swinging.,2024,Sinker
+SI,663158,668715,No event,called_strike,Spencer Steer strikes out swinging.,2024,Sinker
+FF,663158,645801,single,hit_into_play,Mike Ford singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,645801,No event,ball,Mike Ford singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,645801,No event,ball,Mike Ford singles on a line drive to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,663886,field_out,hit_into_play,Tyler Stephenson flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,672284,field_out,hit_into_play,Jarred Kelenic flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,672284,No event,swinging_strike,Jarred Kelenic flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,594807,field_out,hit_into_play,Adam Duvall lines out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+CH,663158,671739,field_out,hit_into_play,Michael Harris II pops out to shortstop Ha-Seong Kim.,2024,Changeup
+FF,663158,671739,No event,swinging_strike,Michael Harris II pops out to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,671739,No event,ball,Michael Harris II pops out to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,671739,No event,foul,Michael Harris II pops out to shortstop Ha-Seong Kim.,2024,4-Seam Fastball
+FF,663158,671739,strikeout,swinging_strike,Michael Harris II strikes out swinging.,2024,4-Seam Fastball
+FF,663158,671739,No event,foul,Michael Harris II strikes out swinging.,2024,4-Seam Fastball
+CH,663158,671739,No event,foul,Michael Harris II strikes out swinging.,2024,Changeup
+FF,663158,671739,No event,foul,Michael Harris II strikes out swinging.,2024,4-Seam Fastball
+FF,663158,671739,No event,ball,Michael Harris II strikes out swinging.,2024,4-Seam Fastball
+CH,663158,671739,No event,called_strike,Michael Harris II strikes out swinging.,2024,Changeup
+FF,663158,644433,double,hit_into_play,Chadwick Tromp doubles (4) on a sharp line drive to center fielder Jackson Merrill. Marcell Ozuna to 3rd.,2024,4-Seam Fastball
+FF,663158,621566,strikeout,swinging_strike,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+FF,663158,621566,No event,foul,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+CH,663158,621566,No event,swinging_strike,Matt Olson strikes out swinging.,2024,Changeup
+FF,663158,621566,No event,foul_tip,Matt Olson strikes out swinging.,2024,4-Seam Fastball
+FF,663158,542303,single,hit_into_play,Marcell Ozuna singles on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,542303,No event,called_strike,Marcell Ozuna singles on a line drive to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,645277,field_out,hit_into_play,Ozzie Albies pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,645277,No event,foul,Ozzie Albies pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,645277,No event,ball,Ozzie Albies pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,645277,No event,ball,Ozzie Albies pops out to first baseman Jake Cronenworth.,2024,4-Seam Fastball
+FF,663158,681624,strikeout,swinging_strike,Andy Pages strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681624,No event,foul,Andy Pages strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681624,No event,foul,Andy Pages strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681624,No event,ball,Andy Pages strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681624,No event,foul,Andy Pages strikes out swinging.,2024,4-Seam Fastball
+FF,663158,681624,No event,ball,Andy Pages strikes out swinging.,2024,4-Seam Fastball
+FF,663158,571970,field_out,hit_into_play,Max Muncy pops out to catcher Luis Campusano in foul territory.,2024,4-Seam Fastball
+FF,663158,571970,No event,foul,Max Muncy pops out to catcher Luis Campusano in foul territory.,2024,4-Seam Fastball
+FF,663158,571970,No event,ball,Max Muncy pops out to catcher Luis Campusano in foul territory.,2024,4-Seam Fastball
+FF,663158,571970,No event,swinging_strike,Max Muncy pops out to catcher Luis Campusano in foul territory.,2024,4-Seam Fastball
+FF,663158,606192,field_error,hit_into_play,Teoscar Hernández reaches on a fielding error by second baseman Xander Bogaerts.,2024,4-Seam Fastball
+FF,663158,606192,No event,swinging_strike,Teoscar Hernández reaches on a fielding error by second baseman Xander Bogaerts.,2024,4-Seam Fastball
+FF,663158,606192,No event,called_strike,Teoscar Hernández reaches on a fielding error by second baseman Xander Bogaerts.,2024,4-Seam Fastball
+SI,663158,606192,No event,ball,Teoscar Hernández reaches on a fielding error by second baseman Xander Bogaerts.,2024,Sinker
+FF,663158,669257,field_out,hit_into_play,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+CH,663158,669257,No event,ball,Will Smith flies out to center fielder Jackson Merrill.,2024,Changeup
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,ball,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,666158,field_out,hit_into_play,Gavin Lux flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,666158,No event,ball,Gavin Lux flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,666158,No event,foul,Gavin Lux flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,666158,No event,ball,Gavin Lux flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,681624,field_out,hit_into_play,Andy Pages flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,681624,No event,ball,Andy Pages flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,681624,No event,swinging_strike,Andy Pages flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,681624,No event,ball,Andy Pages flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,681624,No event,swinging_strike,Andy Pages flies out to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,606192,field_out,hit_into_play,Teoscar Hernández flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,606192,No event,foul,Teoscar Hernández flies out to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,606192,No event,ball,Teoscar Hernández flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,606192,No event,swinging_strike,Teoscar Hernández flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,641355,strikeout,swinging_strike,Cody Bellinger strikes out swinging.,2024,4-Seam Fastball
+FF,663158,641355,No event,foul,Cody Bellinger strikes out swinging.,2024,4-Seam Fastball
+FF,663158,641355,No event,swinging_strike,Cody Bellinger strikes out swinging.,2024,4-Seam Fastball
+FF,663158,641355,No event,ball,Cody Bellinger strikes out swinging.,2024,4-Seam Fastball
+FF,663158,641355,No event,ball,Cody Bellinger strikes out swinging.,2024,4-Seam Fastball
+FF,663158,643565,field_out,hit_into_play,"Mike Tauchman grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,4-Seam Fastball
+FF,663158,643565,No event,ball,"Mike Tauchman grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,4-Seam Fastball
+FF,663158,643565,No event,foul,"Mike Tauchman grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,4-Seam Fastball
+FF,663158,643565,No event,foul,"Mike Tauchman grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,4-Seam Fastball
+FF,663158,663538,field_out,hit_into_play,Nico Hoerner flies out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+SI,663158,663538,No event,ball,Nico Hoerner flies out to right fielder Fernando Tatis Jr.,2024,Sinker
+FF,663158,666624,field_out,hit_into_play,Christopher Morel flies out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,664023,strikeout,called_strike,Ian Happ called out on strikes.,2024,4-Seam Fastball
+FF,663158,664023,No event,foul,Ian Happ called out on strikes.,2024,4-Seam Fastball
+FF,663158,664023,No event,foul_tip,Ian Happ called out on strikes.,2024,4-Seam Fastball
+FF,663158,664023,No event,ball,Ian Happ called out on strikes.,2024,4-Seam Fastball
+FF,663158,664023,No event,foul,Ian Happ called out on strikes.,2024,4-Seam Fastball
+FF,663158,643565,strikeout,foul_tip,Mike Tauchman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,643565,No event,ball,Mike Tauchman strikes out on a foul tip.,2024,4-Seam Fastball
+CH,663158,643565,No event,ball,Mike Tauchman strikes out on a foul tip.,2024,Changeup
+FF,663158,643565,No event,foul,Mike Tauchman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,643565,No event,ball,Mike Tauchman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,643565,No event,foul,Mike Tauchman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,643565,No event,foul,Mike Tauchman strikes out on a foul tip.,2024,4-Seam Fastball
+FF,663158,643565,No event,swinging_strike,Mike Tauchman strikes out on a foul tip.,2024,4-Seam Fastball
+SI,663158,663538,field_out,hit_into_play,Nico Hoerner pops out to shortstop Ha-Seong Kim.,2024,Sinker
+SI,663158,663538,No event,ball,Nico Hoerner pops out to shortstop Ha-Seong Kim.,2024,Sinker
+FF,663158,543228,strikeout,swinging_strike,Yan Gomes strikes out swinging.,2024,4-Seam Fastball
+SI,663158,543228,No event,foul,Yan Gomes strikes out swinging.,2024,Sinker
+FF,663158,543228,No event,called_strike,Yan Gomes strikes out swinging.,2024,4-Seam Fastball
+FF,663158,543228,No event,ball,Yan Gomes strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669289,field_out,hit_into_play,Santiago Espinal flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669289,No event,called_strike,Santiago Espinal flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669289,No event,ball,Santiago Espinal flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669289,No event,foul,Santiago Espinal flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+SI,663158,669289,No event,ball,Santiago Espinal flies out to center fielder Jackson Merrill.,2024,Sinker
+FF,663158,605361,field_out,hit_into_play,Nick Martini pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,605361,No event,foul,Nick Martini pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,605361,No event,called_strike,Nick Martini pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,605361,No event,ball,Nick Martini pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,605361,No event,foul,Nick Martini pops out to third baseman Manny Machado.,2024,4-Seam Fastball
+FF,663158,663697,field_out,hit_into_play,"Jonathan India grounds out, third baseman Manny Machado to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,571912,field_out,hit_into_play,Luke Maile flies out sharply to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,600869,field_out,hit_into_play,Jeimer Candelario lines out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,600869,No event,ball,Jeimer Candelario lines out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,600869,No event,foul,Jeimer Candelario lines out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,600869,No event,foul,Jeimer Candelario lines out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,600869,No event,swinging_strike,Jeimer Candelario lines out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,600869,No event,ball,Jeimer Candelario lines out to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,669289,strikeout,swinging_strike,Santiago Espinal strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669289,No event,ball,Santiago Espinal strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669289,No event,foul,Santiago Espinal strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669289,No event,swinging_strike,Santiago Espinal strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669289,No event,ball,Santiago Espinal strikes out swinging.,2024,4-Seam Fastball
+CH,663158,696100,strikeout,swinging_strike_blocked,Hunter Goodman strikes out swinging.,2024,Changeup
+FF,663158,696100,No event,foul,Hunter Goodman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,696100,No event,called_strike,Hunter Goodman strikes out swinging.,2024,4-Seam Fastball
+SI,663158,663898,field_out,hit_into_play,"Brendan Rodgers grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,Sinker
+SI,663158,686668,field_out,hit_into_play,Brenton Doyle flies out sharply to left fielder José Azocar.,2024,Sinker
+SI,663158,686668,No event,ball,Brenton Doyle flies out sharply to left fielder José Azocar.,2024,Sinker
+FF,663158,686668,No event,ball,Brenton Doyle flies out sharply to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,641857,grounded_into_double_play,hit_into_play,"Ryan McMahon grounds into a double play, shortstop Ha-Seong Kim to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Ezequiel Tovar out at 2nd.    Ryan McMahon out at 1st.",2024,4-Seam Fastball
+CH,663158,641857,No event,ball,"Ryan McMahon grounds into a double play, shortstop Ha-Seong Kim to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Ezequiel Tovar out at 2nd.    Ryan McMahon out at 1st.",2024,Changeup
+FF,663158,641857,No event,swinging_strike,"Ryan McMahon grounds into a double play, shortstop Ha-Seong Kim to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Ezequiel Tovar out at 2nd.    Ryan McMahon out at 1st.",2024,4-Seam Fastball
+FF,663158,678662,single,hit_into_play,Ezequiel Tovar singles on a line drive to center fielder Jackson Merrill.   Sean Bouchard to 3rd.,2024,4-Seam Fastball
+FF,663158,678662,No event,ball,Ezequiel Tovar singles on a line drive to center fielder Jackson Merrill.   Sean Bouchard to 3rd.,2024,4-Seam Fastball
+FF,663158,678662,No event,swinging_strike,Ezequiel Tovar singles on a line drive to center fielder Jackson Merrill.   Sean Bouchard to 3rd.,2024,4-Seam Fastball
+FF,663158,453568,field_out,hit_into_play,Charlie Blackmon flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,453568,No event,foul,Charlie Blackmon flies out to left fielder José Azocar.,2024,4-Seam Fastball
+CH,663158,453568,No event,foul,Charlie Blackmon flies out to left fielder José Azocar.,2024,Changeup
+CH,663158,453568,No event,swinging_strike,Charlie Blackmon flies out to left fielder José Azocar.,2024,Changeup
+FF,663158,656248,double,hit_into_play,Sean Bouchard doubles (2) on a fly ball to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+CH,663158,656248,No event,foul,Sean Bouchard doubles (2) on a fly ball to right fielder Fernando Tatis Jr.,2024,Changeup
+FF,663158,656248,No event,foul,Sean Bouchard doubles (2) on a fly ball to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,656248,No event,foul,Sean Bouchard doubles (2) on a fly ball to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,656248,No event,called_strike,Sean Bouchard doubles (2) on a fly ball to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,457759,grounded_into_double_play,hit_into_play,"Justin Turner grounds into a double play, third baseman Eguy Rosario to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Bo Bichette out at 2nd.    Justin Turner out at 1st.",2024,4-Seam Fastball
+FF,663158,457759,No event,foul,"Justin Turner grounds into a double play, third baseman Eguy Rosario to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Bo Bichette out at 2nd.    Justin Turner out at 1st.",2024,4-Seam Fastball
+FF,663158,457759,No event,swinging_strike,"Justin Turner grounds into a double play, third baseman Eguy Rosario to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Bo Bichette out at 2nd.    Justin Turner out at 1st.",2024,4-Seam Fastball
+FF,663158,666182,single,hit_into_play,Bo Bichette singles on a ground ball to third baseman Eguy Rosario.,2024,4-Seam Fastball
+FF,663158,665489,strikeout,called_strike,Vladimir Guerrero Jr.  called out on strikes.,2024,4-Seam Fastball
+FF,663158,665489,No event,ball,Vladimir Guerrero Jr.  called out on strikes.,2024,4-Seam Fastball
+FF,663158,665489,No event,foul,Vladimir Guerrero Jr.  called out on strikes.,2024,4-Seam Fastball
+FF,663158,665489,No event,swinging_strike,Vladimir Guerrero Jr.  called out on strikes.,2024,4-Seam Fastball
+FF,663158,665489,No event,called_strike,Vladimir Guerrero Jr.  called out on strikes.,2024,4-Seam Fastball
+FF,663158,686217,field_out,hit_into_play,Sal Frelick flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,686217,No event,ball,Sal Frelick flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,686217,No event,foul,Sal Frelick flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,686217,No event,ball,Sal Frelick flies out to left fielder Jurickson Profar.,2024,4-Seam Fastball
+SI,663158,686217,No event,foul,Sal Frelick flies out to left fielder Jurickson Profar.,2024,Sinker
+FF,663158,661388,single,hit_into_play,William Contreras singles on a ground ball to second baseman Xander Bogaerts. Oliver Dunn to 3rd. Jackson Chourio to 2nd.,2024,4-Seam Fastball
+SI,663158,661388,No event,called_strike,William Contreras singles on a ground ball to second baseman Xander Bogaerts. Oliver Dunn to 3rd. Jackson Chourio to 2nd.,2024,Sinker
+FF,663158,661388,No event,foul,William Contreras singles on a ground ball to second baseman Xander Bogaerts. Oliver Dunn to 3rd. Jackson Chourio to 2nd.,2024,4-Seam Fastball
+FF,663158,661388,No event,ball,William Contreras singles on a ground ball to second baseman Xander Bogaerts. Oliver Dunn to 3rd. Jackson Chourio to 2nd.,2024,4-Seam Fastball
+FF,663158,571771,grounded_into_double_play,hit_into_play,"Enrique Hernández grounds into a double play, second baseman Xander Bogaerts to first baseman Jake Cronenworth.   James Outman out at 2nd.    Enrique Hernández out at 1st.",2024,4-Seam Fastball
+FF,663158,571771,No event,foul,"Enrique Hernández grounds into a double play, second baseman Xander Bogaerts to first baseman Jake Cronenworth.   James Outman out at 2nd.    Enrique Hernández out at 1st.",2024,4-Seam Fastball
+FF,663158,571771,No event,ball,"Enrique Hernández grounds into a double play, second baseman Xander Bogaerts to first baseman Jake Cronenworth.   James Outman out at 2nd.    Enrique Hernández out at 1st.",2024,4-Seam Fastball
+FF,663158,571771,No event,ball,"Enrique Hernández grounds into a double play, second baseman Xander Bogaerts to first baseman Jake Cronenworth.   James Outman out at 2nd.    Enrique Hernández out at 1st.",2024,4-Seam Fastball
+SI,663158,571771,No event,called_strike,"Enrique Hernández grounds into a double play, second baseman Xander Bogaerts to first baseman Jake Cronenworth.   James Outman out at 2nd.    Enrique Hernández out at 1st.",2024,Sinker
+FF,663158,681546,walk,ball,James Outman walks.,2024,4-Seam Fastball
+FF,663158,681546,No event,foul,James Outman walks.,2024,4-Seam Fastball
+FF,663158,681546,No event,called_strike,James Outman walks.,2024,4-Seam Fastball
+FF,663158,681546,No event,ball,James Outman walks.,2024,4-Seam Fastball
+FF,663158,681546,No event,ball,James Outman walks.,2024,4-Seam Fastball
+FF,663158,681546,No event,ball,James Outman walks.,2024,4-Seam Fastball
+SI,663158,606192,field_out,hit_into_play,"Teoscar Hernández grounds out, third baseman Tyler Wade to first baseman Jake Cronenworth.",2024,Sinker
+FF,663158,605141,field_out,hit_into_play,Mookie Betts flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,605141,No event,called_strike,Mookie Betts flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,605141,No event,ball,Mookie Betts flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,605141,No event,ball,Mookie Betts flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,605141,No event,ball,Mookie Betts flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,500743,field_out,hit_into_play,Miguel Rojas grounds out to first baseman Jake Cronenworth.   Enrique Hernández to 3rd.,2024,4-Seam Fastball
+FF,663158,621035,field_out,hit_into_play,Chris Taylor pops out to first baseman Jake Cronenworth in foul territory.,2024,4-Seam Fastball
+FF,663158,621035,No event,foul,Chris Taylor pops out to first baseman Jake Cronenworth in foul territory.,2024,4-Seam Fastball
+FF,663158,621035,No event,ball,Chris Taylor pops out to first baseman Jake Cronenworth in foul territory.,2024,4-Seam Fastball
+FF,663158,621035,No event,foul,Chris Taylor pops out to first baseman Jake Cronenworth in foul territory.,2024,4-Seam Fastball
+FF,663158,621035,No event,foul,Chris Taylor pops out to first baseman Jake Cronenworth in foul territory.,2024,4-Seam Fastball
+FF,663158,571771,field_out,hit_into_play,Enrique Hernández flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,571771,No event,foul,Enrique Hernández flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,571771,No event,foul,Enrique Hernández flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,571771,No event,called_strike,Enrique Hernández flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,643265,strikeout,swinging_strike,Garrett Cooper strikes out swinging.,2024,4-Seam Fastball
+FF,663158,643265,No event,swinging_strike,Garrett Cooper strikes out swinging.,2024,4-Seam Fastball
+FF,663158,643265,No event,ball,Garrett Cooper strikes out swinging.,2024,4-Seam Fastball
+FF,663158,643265,No event,ball,Garrett Cooper strikes out swinging.,2024,4-Seam Fastball
+FF,663158,643265,No event,called_strike,Garrett Cooper strikes out swinging.,2024,4-Seam Fastball
+FF,663158,641355,field_out,hit_into_play,Cody Bellinger flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,641355,No event,called_strike,Cody Bellinger flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,641355,No event,ball,Cody Bellinger flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,641355,No event,ball,Cody Bellinger flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,641355,No event,ball,Cody Bellinger flies out to left fielder José Azocar.,2024,4-Seam Fastball
+FF,663158,673548,strikeout,swinging_strike,Seiya Suzuki strikes out swinging.,2024,4-Seam Fastball
+FF,663158,673548,No event,called_strike,Seiya Suzuki strikes out swinging.,2024,4-Seam Fastball
+FF,663158,673548,No event,ball,Seiya Suzuki strikes out swinging.,2024,4-Seam Fastball
+FF,663158,673548,No event,called_strike,Seiya Suzuki strikes out swinging.,2024,4-Seam Fastball
+FF,663158,573262,field_out,hit_into_play,"Mike Yastrzemski grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,573262,No event,called_strike,"Mike Yastrzemski grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,573262,No event,foul,"Mike Yastrzemski grounds out, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,642731,field_out,hit_into_play,Thairo Estrada lines out sharply to right fielder Fernando Tatis Jr.,2024,4-Seam Fastball
+FF,663158,656305,strikeout,swinging_strike,Matt Chapman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,656305,No event,foul,Matt Chapman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,656305,No event,swinging_strike,Matt Chapman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,656305,No event,ball,Matt Chapman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,624424,walk,ball,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,624424,No event,ball,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,624424,No event,foul,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,624424,No event,ball,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,624424,No event,foul,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,624424,No event,swinging_strike,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,624424,No event,ball,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,624424,No event,called_strike,Michael Conforto walks.,2024,4-Seam Fastball
+FF,663158,687363,strikeout,swinging_strike,Victor Scott II strikes out swinging.,2024,4-Seam Fastball
+CH,663158,687363,No event,ball,Victor Scott II strikes out swinging.,2024,Changeup
+FF,663158,687363,No event,foul,Victor Scott II strikes out swinging.,2024,4-Seam Fastball
+SI,663158,687363,No event,foul,Victor Scott II strikes out swinging.,2024,Sinker
+FF,663158,687363,No event,foul,Victor Scott II strikes out swinging.,2024,4-Seam Fastball
+FF,663158,687363,No event,called_strike,Victor Scott II strikes out swinging.,2024,4-Seam Fastball
+FF,663158,687363,No event,ball,Victor Scott II strikes out swinging.,2024,4-Seam Fastball
+FF,663158,687363,No event,foul,Victor Scott II strikes out swinging.,2024,4-Seam Fastball
+FF,663158,676475,strikeout,swinging_strike,Alec Burleson strikes out swinging.,2024,4-Seam Fastball
+CH,663158,676475,No event,foul,Alec Burleson strikes out swinging.,2024,Changeup
+FF,663158,676475,No event,ball,Alec Burleson strikes out swinging.,2024,4-Seam Fastball
+SI,663158,676475,No event,foul,Alec Burleson strikes out swinging.,2024,Sinker
+FF,663158,543063,walk,ball,Brandon Crawford walks.   Iván Herrera to 2nd.,2024,4-Seam Fastball
+FF,663158,543063,No event,called_strike,Brandon Crawford walks.   Iván Herrera to 2nd.,2024,4-Seam Fastball
+CH,663158,543063,No event,ball,Brandon Crawford walks.   Iván Herrera to 2nd.,2024,Changeup
+FF,663158,543063,No event,ball,Brandon Crawford walks.   Iván Herrera to 2nd.,2024,4-Seam Fastball
+FF,663158,543063,No event,ball,Brandon Crawford walks.   Iván Herrera to 2nd.,2024,4-Seam Fastball
+SI,663158,671056,single,hit_into_play,Iván Herrera singles on a line drive to left fielder Jurickson Profar.,2024,Sinker
+SI,663158,669357,field_out,hit_into_play,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,Sinker
+FF,663158,669357,No event,foul,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,4-Seam Fastball
+CH,663158,669357,No event,foul,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,Changeup
+CH,663158,669357,No event,ball,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,Changeup
+CH,663158,669357,No event,foul,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,Changeup
+FF,663158,669357,No event,foul,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,4-Seam Fastball
+FF,663158,669357,No event,foul,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,4-Seam Fastball
+CH,663158,669357,No event,ball,Nolan Gorman lines out sharply to left fielder Jurickson Profar.,2024,Changeup
+CH,663158,571448,grounded_into_double_play,hit_into_play,"Nolan Arenado grounds into a double play, shortstop Ha-Seong Kim to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Willson Contreras out at 2nd.    Nolan Arenado out at 1st.",2024,Changeup
+SI,663158,571448,No event,foul,"Nolan Arenado grounds into a double play, shortstop Ha-Seong Kim to second baseman Xander Bogaerts to first baseman Jake Cronenworth.   Willson Contreras out at 2nd.    Nolan Arenado out at 1st.",2024,Sinker
+SI,663158,575929,walk,ball,Willson Contreras walks.,2024,Sinker
+SI,663158,575929,No event,ball,Willson Contreras walks.,2024,Sinker
+SI,663158,575929,No event,ball,Willson Contreras walks.,2024,Sinker
+SI,663158,575929,No event,ball,Willson Contreras walks.,2024,Sinker
+CH,663158,575929,No event,swinging_strike,Willson Contreras walks.,2024,Changeup
+FF,663158,672275,field_out,hit_into_play,"Patrick Bailey grounds out sharply, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+FF,663158,672275,No event,called_strike,"Patrick Bailey grounds out sharply, second baseman Xander Bogaerts to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+CH,663158,624424,home_run,hit_into_play,Michael Conforto homers (1) on a fly ball to right center field.,2024,Changeup
+FF,663158,624424,No event,called_strike,Michael Conforto homers (1) on a fly ball to right center field.,2024,4-Seam Fastball
+FF,663158,642731,strikeout,swinging_strike,Thairo Estrada strikes out swinging.,2024,4-Seam Fastball
+FF,663158,642731,No event,foul,Thairo Estrada strikes out swinging.,2024,4-Seam Fastball
+FF,663158,642731,No event,ball,Thairo Estrada strikes out swinging.,2024,4-Seam Fastball
+FF,663158,642731,No event,called_strike,Thairo Estrada strikes out swinging.,2024,4-Seam Fastball
+FF,663158,573262,field_out,hit_into_play,"Mike Yastrzemski grounds out softly, shortstop Ha-Seong Kim to first baseman Jake Cronenworth.",2024,4-Seam Fastball
+SI,663158,664238,field_out,hit_into_play,Dylan Moore pops out to first baseman Graham Pauley.,2024,Sinker
+FC,663158,664238,No event,ball,Dylan Moore pops out to first baseman Graham Pauley.,2024,Cutter
+SI,663158,664238,No event,ball,Dylan Moore pops out to first baseman Graham Pauley.,2024,Sinker
+SI,663158,810938,triple,hit_into_play,Ben Williamson triples (1) on a fly ball to right fielder Kai Murphy. Seby Zavala scores.,2024,Sinker
+FF,663158,810938,No event,foul,Ben Williamson triples (1) on a fly ball to right fielder Kai Murphy. Seby Zavala scores.,2024,4-Seam Fastball
+SI,663158,810938,No event,ball,Ben Williamson triples (1) on a fly ball to right fielder Kai Murphy. Seby Zavala scores.,2024,Sinker
+FF,663158,666211,strikeout,swinging_strike,Taylor Trammell strikes out swinging.,2024,4-Seam Fastball
+CH,663158,666211,No event,blocked_ball,Taylor Trammell strikes out swinging.,2024,Changeup
+FF,663158,666211,No event,ball,Taylor Trammell strikes out swinging.,2024,4-Seam Fastball
+FF,663158,666211,No event,foul,Taylor Trammell strikes out swinging.,2024,4-Seam Fastball
+FF,663158,666211,No event,swinging_strike,Taylor Trammell strikes out swinging.,2024,4-Seam Fastball
+SI,663158,666211,No event,called_strike,Taylor Trammell strikes out swinging.,2024,Sinker
+FF,663158,666211,No event,ball,Taylor Trammell strikes out swinging.,2024,4-Seam Fastball
+SI,663158,664874,walk,ball,Seby Zavala walks.,2024,Sinker
+SI,663158,664874,No event,ball,Seby Zavala walks.,2024,Sinker
+SI,663158,664874,No event,ball,Seby Zavala walks.,2024,Sinker
+FC,663158,664874,No event,ball,Seby Zavala walks.,2024,Cutter
+SI,663158,664874,No event,foul,Seby Zavala walks.,2024,Sinker
+CH,663158,670042,strikeout,swinging_strike,Luke Raley strikes out swinging.,2024,Changeup
+CH,663158,670042,No event,ball,Luke Raley strikes out swinging.,2024,Changeup
+FF,663158,670042,No event,foul,Luke Raley strikes out swinging.,2024,4-Seam Fastball
+SI,663158,670042,No event,foul,Luke Raley strikes out swinging.,2024,Sinker
+CH,663158,670042,No event,ball,Luke Raley strikes out swinging.,2024,Changeup
+FF,663158,670042,No event,foul,Luke Raley strikes out swinging.,2024,4-Seam Fastball
+FF,663158,571970,strikeout,swinging_strike,Max Muncy strikes out swinging.,2024,4-Seam Fastball
+FF,663158,571970,No event,swinging_strike,Max Muncy strikes out swinging.,2024,4-Seam Fastball
+FF,663158,571970,No event,swinging_strike,Max Muncy strikes out swinging.,2024,4-Seam Fastball
+FF,663158,669257,field_out,hit_into_play,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,ball,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,foul,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,ball,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,called_strike,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,ball,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+FF,663158,669257,No event,swinging_strike,Will Smith flies out to center fielder Jackson Merrill.,2024,4-Seam Fastball
+SI,663158,518692,strikeout,swinging_strike,Freddie Freeman strikes out swinging.,2024,Sinker
+SI,663158,518692,No event,foul,Freddie Freeman strikes out swinging.,2024,Sinker
+FF,663158,518692,No event,called_strike,Freddie Freeman strikes out swinging.,2024,4-Seam Fastball
+FF,663158,518692,No event,ball,Freddie Freeman strikes out swinging.,2024,4-Seam Fastball
+CH,663158,518692,No event,ball,Freddie Freeman strikes out swinging.,2024,Changeup
+SI,663158,518692,No event,ball,Freddie Freeman strikes out swinging.,2024,Sinker
+CH,663158,660271,field_out,hit_into_play,"Shohei Ohtani grounds out, first baseman Jake Cronenworth to pitcher Robert Suarez.",2024,Changeup
+SI,663158,605141,single,hit_into_play,Mookie Betts singles on a ground ball to second baseman Xander Bogaerts.   James Outman scores.    Jason Heyward scores.    Mookie Betts to 2nd.,2024,Sinker
+SI,663158,605141,No event,called_strike,Mookie Betts singles on a ground ball to second baseman Xander Bogaerts.   James Outman scores.    Jason Heyward scores.    Mookie Betts to 2nd.,2024,Sinker
+CH,663158,605141,No event,ball,Mookie Betts singles on a ground ball to second baseman Xander Bogaerts.   James Outman scores.    Jason Heyward scores.    Mookie Betts to 2nd.,2024,Changeup
+CH,663158,605141,No event,blocked_ball,Mookie Betts singles on a ground ball to second baseman Xander Bogaerts.   James Outman scores.    Jason Heyward scores.    Mookie Betts to 2nd.,2024,Changeup
+FF,663158,605141,No event,called_strike,Mookie Betts singles on a ground ball to second baseman Xander Bogaerts.   James Outman scores.    Jason Heyward scores.    Mookie Betts to 2nd.,2024,4-Seam Fastball
+,663158,806068,strikeout,called_strike,Colt Emerson called out on strikes.,2024,
+,663158,806068,No event,called_strike,Colt Emerson called out on strikes.,2024,
+,663158,806068,No event,called_strike,Colt Emerson called out on strikes.,2024,
+,663158,657709,single,hit_into_play,Michael Papierski singles on a ground ball to center fielder José Azocar.,2024,
+,663158,657061,field_out,hit_into_play,"Cole Tucker grounds out, pitcher Robert Suarez to first baseman Brad Miller.",2024,
+,663158,692044,strikeout,swinging_strike,Luis Suisbel strikes out swinging.,2024,
+,663158,692044,No event,swinging_strike,Luis Suisbel strikes out swinging.,2024,
+,663158,692044,No event,swinging_strike,Luis Suisbel strikes out swinging.,2024,
+,663158,542364,strikeout,called_strike,Rafael Ortega called out on strikes.,2024,
+,663158,542364,No event,foul,Rafael Ortega called out on strikes.,2024,
+,663158,542364,No event,called_strike,Rafael Ortega called out on strikes.,2024,
+,663158,664901,strikeout,swinging_strike,Danny Mendick strikes out swinging.,2024,
+,663158,664901,No event,swinging_strike,Danny Mendick strikes out swinging.,2024,
+,663158,664901,No event,called_strike,Danny Mendick strikes out swinging.,2024,
+,663158,607680,field_out,hit_into_play,Kevin Pillar flies out to center fielder Tyler Wade.,2024,
+SI,663158,665953,force_out,hit_into_play,"Andrés Chaparro grounds into a force out, third baseman Mason McCoy to second baseman Connor Hollis.   Kevin Newman out at 2nd.",2024,Sinker
+FC,663158,665953,No event,blocked_ball,"Andrés Chaparro grounds into a force out, third baseman Mason McCoy to second baseman Connor Hollis.   Kevin Newman out at 2nd.",2024,Cutter
+SI,663158,665953,No event,ball,"Andrés Chaparro grounds into a force out, third baseman Mason McCoy to second baseman Connor Hollis.   Kevin Newman out at 2nd.",2024,Sinker
+FF,663158,664247,strikeout,swinging_strike,Kyle Garlick strikes out swinging.,2024,4-Seam Fastball
+SI,663158,664247,No event,foul,Kyle Garlick strikes out swinging.,2024,Sinker
+SI,663158,664247,No event,foul,Kyle Garlick strikes out swinging.,2024,Sinker
+FF,663158,621028,single,hit_into_play,Kevin Newman singles on a ground ball to left fielder Cal Mitchell.,2024,4-Seam Fastball
+FF,663158,621028,No event,ball,Kevin Newman singles on a ground ball to left fielder Cal Mitchell.,2024,4-Seam Fastball
+SI,663158,621028,No event,ball,Kevin Newman singles on a ground ball to left fielder Cal Mitchell.,2024,Sinker
+FF,663158,664983,strikeout,swinging_strike,Jake McCarthy strikes out swinging.,2024,4-Seam Fastball
+FF,663158,664983,No event,swinging_strike,Jake McCarthy strikes out swinging.,2024,4-Seam Fastball
+FF,663158,664983,No event,swinging_strike,Jake McCarthy strikes out swinging.,2024,4-Seam Fastball
+,663158,682617,strikeout,called_strike,Marco Luciano called out on strikes.,2024,
+,663158,682617,No event,called_strike,Marco Luciano called out on strikes.,2024,
+,663158,682617,No event,called_strike,Marco Luciano called out on strikes.,2024,
+,663158,624585,single,hit_into_play,Jorge Soler singles on a ground ball to shortstop Matthew Batten.   Thairo Estrada to 3rd.    Tyler Fitzgerald to 2nd.,2024,
+,663158,527038,walk,ball,Wilmer Flores walks.,2024,
+,663158,527038,No event,ball,Wilmer Flores walks.,2024,
+,663158,527038,No event,ball,Wilmer Flores walks.,2024,
+,663158,527038,No event,ball,Wilmer Flores walks.,2024,
+,663158,642731,double,hit_into_play,Thairo Estrada doubles (1) on a ground ball to left fielder Jakob Marsee.,2024,
+,663158,664774,grounded_into_double_play,hit_into_play,"LaMonte Wade Jr.  grounds into a double play, second baseman Eguy Rosario to shortstop Matthew Batten to first baseman Brett Sullivan.   Grant McCray out at 2nd.    LaMonte Wade Jr.  out at 1st.",2024,
+,663158,687529,walk,ball,Grant McCray walks.,2024,
+,663158,687529,No event,ball,Grant McCray walks.,2024,
+,663158,687529,No event,ball,Grant McCray walks.,2024,
+,663158,687529,No event,ball,Grant McCray walks.,2024,
+,663158,676369,field_out,hit_into_play,"Nelson Velázquez grounds out, shortstop Mason McCoy to first baseman Nathan Martorella.",2024,
+,663158,671221,strikeout,swinging_strike,Drew Waters strikes out swinging.,2024,
+,663158,671221,No event,swinging_strike,Drew Waters strikes out swinging.,2024,
+,663158,671221,No event,swinging_strike,Drew Waters strikes out swinging.,2024,
+,663158,672580,field_out,hit_into_play,Maikel Garcia flies out to right fielder Fernando Tatis Jr.,2024,
+,663158,681123,double,hit_into_play,Luca Tresh doubles (1) on a line drive to left fielder Bryce Johnson.   Cam Devanney scores.,2024,
+,663158,687478,walk,ball,Cam Devanney walks.,2024,
+,663158,687478,No event,ball,Cam Devanney walks.,2024,
+,663158,687478,No event,ball,Cam Devanney walks.,2024,
+,663158,687478,No event,ball,Cam Devanney walks.,2024,
+,663158,672012,walk,ball,Tyler Black walks.   Jackson Chourio to 2nd.,2024,
+,663158,672012,No event,ball,Tyler Black walks.   Jackson Chourio to 2nd.,2024,
+,663158,672012,No event,ball,Tyler Black walks.   Jackson Chourio to 2nd.,2024,
+,663158,672012,No event,ball,Tyler Black walks.   Jackson Chourio to 2nd.,2024,
+,663158,694192,single,hit_into_play,Jackson Chourio singles on a ground ball to left fielder Jackson Merrill.   Sal Frelick scores.,2024,
+,663158,686217,double,hit_into_play,Sal Frelick doubles (1) on a line drive to center fielder Jose Azocar.,2024,
+,663158,682265,home_run,hit_into_play,Wes Clarke homers (2) on a fly ball to left field.,2024,
+,663158,686554,strikeout,called_strike,Oliver Dunn called out on strikes.,2024,
+,663158,686554,No event,swinging_strike,Oliver Dunn called out on strikes.,2024,
+,663158,686554,No event,swinging_strike,Oliver Dunn called out on strikes.,2024,

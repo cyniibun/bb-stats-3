@@ -1,0 +1,105 @@
+pitch_type,pitcher,batter,events,description,des,game_year,pitch_name
+FF,683068,666624,walk,ball,Christopher Morel walks. Josh Lowe scores. Richie Palacios to 3rd. José Caballero to 2nd.,2024,4-Seam Fastball
+FF,683068,666624,No event,swinging_strike,Christopher Morel walks. Josh Lowe scores. Richie Palacios to 3rd. José Caballero to 2nd.,2024,4-Seam Fastball
+CH,683068,666624,No event,ball,Christopher Morel walks. Josh Lowe scores. Richie Palacios to 3rd. José Caballero to 2nd.,2024,Changeup
+FF,683068,666624,No event,ball,Christopher Morel walks. Josh Lowe scores. Richie Palacios to 3rd. José Caballero to 2nd.,2024,4-Seam Fastball
+CH,683068,666624,No event,ball,Christopher Morel walks. Josh Lowe scores. Richie Palacios to 3rd. José Caballero to 2nd.,2024,Changeup
+CH,683068,666624,No event,called_strike,Christopher Morel walks. Josh Lowe scores. Richie Palacios to 3rd. José Caballero to 2nd.,2024,Changeup
+FF,683068,676609,hit_by_pitch,hit_by_pitch,José Caballero hit by pitch. Josh Lowe to 3rd. Richie Palacios to 2nd.,2024,4-Seam Fastball
+FF,683068,676609,No event,foul,José Caballero hit by pitch. Josh Lowe to 3rd. Richie Palacios to 2nd.,2024,4-Seam Fastball
+FF,683068,676609,No event,called_strike,José Caballero hit by pitch. Josh Lowe to 3rd. Richie Palacios to 2nd.,2024,4-Seam Fastball
+FF,683068,676609,No event,ball,José Caballero hit by pitch. Josh Lowe to 3rd. Richie Palacios to 2nd.,2024,4-Seam Fastball
+CH,683068,676609,No event,ball,José Caballero hit by pitch. Josh Lowe to 3rd. Richie Palacios to 2nd.,2024,Changeup
+FF,683068,676609,No event,ball,José Caballero hit by pitch. Josh Lowe to 3rd. Richie Palacios to 2nd.,2024,4-Seam Fastball
+CH,683068,680700,walk,ball,Richie Palacios walks.,2024,Changeup
+FF,683068,680700,No event,ball,Richie Palacios walks.,2024,4-Seam Fastball
+CH,683068,680700,No event,blocked_ball,Richie Palacios walks.,2024,Changeup
+CH,683068,680700,No event,swinging_strike,Richie Palacios walks.,2024,Changeup
+FF,683068,680700,No event,called_strike,Richie Palacios walks.,2024,4-Seam Fastball
+SL,683068,680700,No event,blocked_ball,Richie Palacios walks.,2024,Slider
+CH,683068,664770,walk,blocked_ball,Nathan Lukes walks.,2024,Changeup
+SL,683068,664770,No event,ball,Nathan Lukes walks.,2024,Slider
+SL,683068,664770,No event,ball,Nathan Lukes walks.,2024,Slider
+FF,683068,664770,No event,ball,Nathan Lukes walks.,2024,4-Seam Fastball
+SL,683068,664770,No event,foul,Nathan Lukes walks.,2024,Slider
+SL,683068,664770,No event,foul,Nathan Lukes walks.,2024,Slider
+SL,683068,664770,No event,called_strike,Nathan Lukes walks.,2024,Slider
+CH,683068,543807,field_out,hit_into_play,George Springer flies out sharply to center fielder Jarren Duran.,2024,Changeup
+FF,683068,677870,double,hit_into_play,Leo Jiménez doubles (11) on a line drive to left fielder Romy Gonzalez. Davis Schneider scores.,2024,4-Seam Fastball
+FF,683068,677870,No event,called_strike,Leo Jiménez doubles (11) on a line drive to left fielder Romy Gonzalez. Davis Schneider scores.,2024,4-Seam Fastball
+SL,683068,677870,No event,ball,Leo Jiménez doubles (11) on a line drive to left fielder Romy Gonzalez. Davis Schneider scores.,2024,Slider
+CH,683068,676914,field_out,hit_into_play,Davis Schneider lines out to third baseman Nick Sogard.,2024,Changeup
+FF,683068,676914,No event,ball,Davis Schneider lines out to third baseman Nick Sogard.,2024,4-Seam Fastball
+CH,683068,676914,No event,ball,Davis Schneider lines out to third baseman Nick Sogard.,2024,Changeup
+CH,683068,676914,No event,swinging_strike,Davis Schneider lines out to third baseman Nick Sogard.,2024,Changeup
+CH,683068,672386,single,hit_into_play,Alejandro Kirk singles on a ground ball to shortstop Trevor Story.,2024,Changeup
+FF,683068,672386,No event,called_strike,Alejandro Kirk singles on a ground ball to shortstop Trevor Story.,2024,4-Seam Fastball
+SL,683068,687462,field_out,hit_into_play,"Spencer Horwitz grounds out, pitcher Zach Penrod to first baseman Triston Casas.",2024,Slider
+FF,683068,666163,field_out,hit_into_play,Ben Rortvedt lines out to right fielder Wilyer Abreu.,2024,4-Seam Fastball
+FF,683068,666163,No event,ball,Ben Rortvedt lines out to right fielder Wilyer Abreu.,2024,4-Seam Fastball
+SL,683068,666163,No event,ball,Ben Rortvedt lines out to right fielder Wilyer Abreu.,2024,Slider
+SL,683068,664040,field_out,hit_into_play,Brandon Lowe flies out to left fielder Tyler O'Neill.,2024,Slider
+SL,683068,664040,No event,swinging_strike,Brandon Lowe flies out to left fielder Tyler O'Neill.,2024,Slider
+FF,683068,666624,field_out,hit_into_play,Christopher Morel pops out to shortstop Trevor Story.,2024,4-Seam Fastball
+CH,683068,666624,No event,foul,Christopher Morel pops out to shortstop Trevor Story.,2024,Changeup
+SL,683068,666163,field_out,hit_into_play,"Ben Rortvedt grounds out, second baseman Ceddanne Rafaela to first baseman Triston Casas. Taylor Walls to 2nd.",2024,Slider
+FF,683068,670764,single,hit_into_play,Taylor Walls singles on a line drive to center fielder Jarren Duran.,2024,4-Seam Fastball
+SL,683068,670764,No event,foul,Taylor Walls singles on a line drive to center fielder Jarren Duran.,2024,Slider
+SL,683068,519317,field_out,hit_into_play,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,Slider
+CH,683068,519317,No event,foul,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,Changeup
+FF,683068,519317,No event,ball,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,4-Seam Fastball
+FF,683068,519317,No event,ball,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,4-Seam Fastball
+CH,683068,519317,No event,foul,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,Changeup
+CH,683068,519317,No event,blocked_ball,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,Changeup
+CH,683068,519317,No event,foul,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,Changeup
+FF,683068,519317,No event,called_strike,"Giancarlo Stanton grounds out, shortstop Trevor Story to first baseman Connor Wong.",2024,4-Seam Fastball
+SL,683068,665862,strikeout,called_strike,Jazz Chisholm Jr. called out on strikes.,2024,Slider
+FF,683068,665862,No event,foul_bunt,Jazz Chisholm Jr. called out on strikes.,2024,4-Seam Fastball
+FF,683068,665862,No event,ball,Jazz Chisholm Jr. called out on strikes.,2024,4-Seam Fastball
+CH,683068,665862,No event,ball,Jazz Chisholm Jr. called out on strikes.,2024,Changeup
+SL,683068,665862,No event,foul,Jazz Chisholm Jr. called out on strikes.,2024,Slider
+SL,683068,665862,No event,ball,Jazz Chisholm Jr. called out on strikes.,2024,Slider
+FF,683068,519203,field_out,hit_into_play,Anthony Rizzo pops out to third baseman Rafael Devers.,2024,4-Seam Fastball
+FF,683068,519203,No event,ball,Anthony Rizzo pops out to third baseman Rafael Devers.,2024,4-Seam Fastball
+SL,683068,519203,No event,ball,Anthony Rizzo pops out to third baseman Rafael Devers.,2024,Slider
+FF,683068,519203,No event,foul,Anthony Rizzo pops out to third baseman Rafael Devers.,2024,4-Seam Fastball
+CH,683068,519203,No event,foul,Anthony Rizzo pops out to third baseman Rafael Devers.,2024,Changeup
+FF,683068,519203,No event,foul,Anthony Rizzo pops out to third baseman Rafael Devers.,2024,4-Seam Fastball
+SL,683068,519203,No event,ball,Anthony Rizzo pops out to third baseman Rafael Devers.,2024,Slider
+FF,683068,691176,walk,ball,Jasson Domínguez walks.,2024,4-Seam Fastball
+FF,683068,691176,No event,foul,Jasson Domínguez walks.,2024,4-Seam Fastball
+FF,683068,691176,No event,foul,Jasson Domínguez walks.,2024,4-Seam Fastball
+CH,683068,691176,No event,ball,Jasson Domínguez walks.,2024,Changeup
+CH,683068,691176,No event,blocked_ball,Jasson Domínguez walks.,2024,Changeup
+FF,683068,691176,No event,ball,Jasson Domínguez walks.,2024,4-Seam Fastball
+FF,683068,691176,No event,foul,Jasson Domínguez walks.,2024,4-Seam Fastball
+FF,683068,691176,No event,swinging_strike,Jasson Domínguez walks.,2024,4-Seam Fastball
+CH,683068,665862,strikeout,swinging_strike,Jazz Chisholm Jr. strikes out swinging.,2024,Changeup
+SL,683068,665862,No event,swinging_strike,Jazz Chisholm Jr. strikes out swinging.,2024,Slider
+FF,683068,665862,No event,ball,Jazz Chisholm Jr. strikes out swinging.,2024,4-Seam Fastball
+FF,683068,665862,No event,ball,Jazz Chisholm Jr. strikes out swinging.,2024,4-Seam Fastball
+CH,683068,665862,No event,swinging_strike,Jazz Chisholm Jr. strikes out swinging.,2024,Changeup
+SL,683068,669224,strikeout,swinging_strike,Austin Wells strikes out swinging.,2024,Slider
+FF,683068,669224,No event,foul,Austin Wells strikes out swinging.,2024,4-Seam Fastball
+CH,683068,669224,No event,blocked_ball,Austin Wells strikes out swinging.,2024,Changeup
+FF,683068,669224,No event,ball,Austin Wells strikes out swinging.,2024,4-Seam Fastball
+CH,683068,669224,No event,swinging_strike,Austin Wells strikes out swinging.,2024,Changeup
+FF,683068,669224,No event,called_strike,Austin Wells strikes out swinging.,2024,4-Seam Fastball
+,683068,663944,strikeout,swinging_strike,Cody Roberts strikes out swinging.,2024,
+,683068,663944,No event,swinging_strike,Cody Roberts strikes out swinging.,2024,
+,683068,663944,No event,swinging_strike,Cody Roberts strikes out swinging.,2024,
+,683068,686766,strikeout,called_strike,William Simoneit called out on strikes.,2024,
+,683068,686766,No event,swinging_strike,William Simoneit called out on strikes.,2024,
+,683068,686766,No event,called_strike,William Simoneit called out on strikes.,2024,
+,683068,678926,single,hit_into_play,Carlos De La Cruz singles on a line drive to left fielder Matthew Lugo.   Simon Muzziotti to 3rd.    Kendall Simmons to 2nd.,2024,
+,683068,669227,walk,ball,Kendall Simmons walks.   Simon Muzziotti to 2nd.,2024,
+,683068,669227,No event,ball,Kendall Simmons walks.   Simon Muzziotti to 2nd.,2024,
+,683068,669227,No event,ball,Kendall Simmons walks.   Simon Muzziotti to 2nd.,2024,
+,683068,669227,No event,ball,Kendall Simmons walks.   Simon Muzziotti to 2nd.,2024,
+,683068,665922,walk,ball,Simon Muzziotti walks.,2024,
+,683068,665922,No event,ball,Simon Muzziotti walks.,2024,
+,683068,665922,No event,ball,Simon Muzziotti walks.,2024,
+,683068,665922,No event,ball,Simon Muzziotti walks.,2024,
+,683068,663714,strikeout,swinging_strike,Matt Kroon strikes out swinging.,2024,
+,683068,663714,No event,swinging_strike,Matt Kroon strikes out swinging.,2024,
+,683068,663714,No event,called_strike,Matt Kroon strikes out swinging.,2024,

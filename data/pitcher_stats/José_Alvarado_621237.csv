@@ -1,0 +1,1418 @@
+pitch_type,pitcher,batter,events,description,des,game_year,pitch_name
+FC,621237,686668,strikeout,swinging_strike,Brenton Doyle strikes out swinging.,2025,Cutter
+SI,621237,686668,No event,foul,Brenton Doyle strikes out swinging.,2025,Sinker
+SI,621237,686668,No event,ball,Brenton Doyle strikes out swinging.,2025,Sinker
+SI,621237,686668,No event,called_strike,Brenton Doyle strikes out swinging.,2025,Sinker
+FC,621237,686668,No event,blocked_ball,Brenton Doyle strikes out swinging.,2025,Cutter
+FC,621237,671289,strikeout,swinging_strike,Tyler Freeman strikes out swinging.,2025,Cutter
+SI,621237,671289,No event,foul,Tyler Freeman strikes out swinging.,2025,Sinker
+SI,621237,671289,No event,ball,Tyler Freeman strikes out swinging.,2025,Sinker
+CU,621237,671289,No event,ball,Tyler Freeman strikes out swinging.,2025,Curveball
+FC,621237,671289,No event,foul,Tyler Freeman strikes out swinging.,2025,Cutter
+SI,621237,671289,No event,foul,Tyler Freeman strikes out swinging.,2025,Sinker
+SI,621237,571657,single,hit_into_play,Kyle Farmer singles on a line drive to left fielder Max Kepler. Michael Toglia to 3rd. Sean Bouchard to 2nd.,2025,Sinker
+SI,621237,571657,No event,called_strike,Kyle Farmer singles on a line drive to left fielder Max Kepler. Michael Toglia to 3rd. Sean Bouchard to 2nd.,2025,Sinker
+SI,621237,607732,strikeout,swinging_strike,Jacob Stallings strikes out swinging.,2025,Sinker
+SI,621237,607732,No event,foul,Jacob Stallings strikes out swinging.,2025,Sinker
+FC,621237,607732,No event,blocked_ball,Jacob Stallings strikes out swinging.,2025,Cutter
+SI,621237,607732,No event,foul,Jacob Stallings strikes out swinging.,2025,Sinker
+FC,621237,607732,No event,foul,Jacob Stallings strikes out swinging.,2025,Cutter
+FC,621237,607732,No event,ball,Jacob Stallings strikes out swinging.,2025,Cutter
+CU,621237,607732,No event,blocked_ball,Jacob Stallings strikes out swinging.,2025,Curveball
+CU,621237,607732,No event,swinging_strike_blocked,Jacob Stallings strikes out swinging.,2025,Curveball
+FC,621237,607732,No event,foul,Jacob Stallings strikes out swinging.,2025,Cutter
+FC,621237,656248,single,hit_into_play,"Sean Bouchard singles on a ground ball to left fielder Max Kepler, deflected by third baseman Alec Bohm. Hunter Goodman scores. Michael Toglia to 2nd.",2025,Cutter
+SI,621237,656248,No event,foul,"Sean Bouchard singles on a ground ball to left fielder Max Kepler, deflected by third baseman Alec Bohm. Hunter Goodman scores. Michael Toglia to 2nd.",2025,Sinker
+SI,621237,669911,single,hit_into_play,Michael Toglia singles on a ground ball to right fielder Nick Castellanos. Hunter Goodman to 3rd.,2025,Sinker
+SI,621237,669911,No event,called_strike,Michael Toglia singles on a ground ball to right fielder Nick Castellanos. Hunter Goodman to 3rd.,2025,Sinker
+SI,621237,669911,No event,ball,Michael Toglia singles on a ground ball to right fielder Nick Castellanos. Hunter Goodman to 3rd.,2025,Sinker
+SI,621237,669911,No event,ball,Michael Toglia singles on a ground ball to right fielder Nick Castellanos. Hunter Goodman to 3rd.,2025,Sinker
+SI,621237,669911,No event,ball,Michael Toglia singles on a ground ball to right fielder Nick Castellanos. Hunter Goodman to 3rd.,2025,Sinker
+FC,621237,696100,walk,ball,Hunter Goodman walks.,2025,Cutter
+SI,621237,696100,No event,ball,Hunter Goodman walks.,2025,Sinker
+SI,621237,696100,No event,foul,Hunter Goodman walks.,2025,Sinker
+SI,621237,696100,No event,called_strike,Hunter Goodman walks.,2025,Sinker
+FC,621237,696100,No event,ball,Hunter Goodman walks.,2025,Cutter
+FC,621237,696100,No event,ball,Hunter Goodman walks.,2025,Cutter
+FC,621237,669911,strikeout,swinging_strike,Michael Toglia strikes out swinging.,2025,Cutter
+FC,621237,669911,No event,ball,Michael Toglia strikes out swinging.,2025,Cutter
+FC,621237,669911,No event,swinging_strike,Michael Toglia strikes out swinging.,2025,Cutter
+SI,621237,669911,No event,foul,Michael Toglia strikes out swinging.,2025,Sinker
+CU,621237,669911,No event,ball,Michael Toglia strikes out swinging.,2025,Curveball
+SI,621237,592178,field_out,hit_into_play,Kris Bryant flies out to center fielder Johan Rojas.,2025,Sinker
+FC,621237,592178,No event,ball,Kris Bryant flies out to center fielder Johan Rojas.,2025,Cutter
+SI,621237,696100,double,hit_into_play,Hunter Goodman doubles (3) on a sharp line drive to center fielder Johan Rojas.,2025,Sinker
+SI,621237,641857,strikeout,called_strike,Ryan McMahon called out on strikes.,2025,Sinker
+SI,621237,641857,No event,ball,Ryan McMahon called out on strikes.,2025,Sinker
+CU,621237,641857,No event,ball,Ryan McMahon called out on strikes.,2025,Curveball
+SI,621237,641857,No event,called_strike,Ryan McMahon called out on strikes.,2025,Sinker
+SI,621237,641857,No event,called_strike,Ryan McMahon called out on strikes.,2025,Sinker
+FC,621237,669911,strikeout,swinging_strike,Michael Toglia strikes out swinging.,2025,Cutter
+SI,621237,669911,No event,called_strike,Michael Toglia strikes out swinging.,2025,Sinker
+SI,621237,669911,No event,foul,Michael Toglia strikes out swinging.,2025,Sinker
+SI,621237,669911,No event,ball,Michael Toglia strikes out swinging.,2025,Sinker
+SI,621237,669911,No event,ball,Michael Toglia strikes out swinging.,2025,Sinker
+SI,621237,592178,walk,blocked_ball,Kris Bryant walks.,2025,Sinker
+SI,621237,592178,No event,foul,Kris Bryant walks.,2025,Sinker
+SI,621237,592178,No event,foul,Kris Bryant walks.,2025,Sinker
+SI,621237,592178,No event,swinging_strike,Kris Bryant walks.,2025,Sinker
+FC,621237,592178,No event,ball,Kris Bryant walks.,2025,Cutter
+SI,621237,592178,No event,ball,Kris Bryant walks.,2025,Sinker
+SI,621237,592178,No event,ball,Kris Bryant walks.,2025,Sinker
+SI,621237,592178,No event,foul_tip,Kris Bryant walks.,2025,Sinker
+FC,621237,696100,strikeout,foul_tip,Hunter Goodman strikes out on a foul tip.,2025,Cutter
+FF,621237,696100,No event,foul,Hunter Goodman strikes out on a foul tip.,2025,4-Seam Fastball
+SI,621237,696100,No event,foul,Hunter Goodman strikes out on a foul tip.,2025,Sinker
+CU,621237,696100,No event,ball,Hunter Goodman strikes out on a foul tip.,2025,Curveball
+SI,621237,696100,No event,foul,Hunter Goodman strikes out on a foul tip.,2025,Sinker
+FC,621237,641857,strikeout,swinging_strike,Ryan McMahon strikes out swinging.,2025,Cutter
+CU,621237,641857,No event,ball,Ryan McMahon strikes out swinging.,2025,Curveball
+SI,621237,641857,No event,called_strike,Ryan McMahon strikes out swinging.,2025,Sinker
+SI,621237,641857,No event,foul,Ryan McMahon strikes out swinging.,2025,Sinker
+SI,621237,641857,No event,ball,Ryan McMahon strikes out swinging.,2025,Sinker
+FC,621237,660688,field_out,hit_into_play,"Keibert Ruiz grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Cutter
+CU,621237,660688,No event,ball,"Keibert Ruiz grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Curveball
+SI,621237,660688,No event,foul,"Keibert Ruiz grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Sinker
+SI,621237,657557,strikeout,called_strike,Paul DeJong called out on strikes.,2025,Sinker
+SI,621237,657557,No event,swinging_strike,Paul DeJong called out on strikes.,2025,Sinker
+FC,621237,657557,No event,ball,Paul DeJong called out on strikes.,2025,Cutter
+FC,621237,657557,No event,ball,Paul DeJong called out on strikes.,2025,Cutter
+FC,621237,657557,No event,foul,Paul DeJong called out on strikes.,2025,Cutter
+SI,621237,657557,No event,ball,Paul DeJong called out on strikes.,2025,Sinker
+SI,621237,663993,strikeout,swinging_strike,Nathaniel Lowe strikes out swinging.,2025,Sinker
+FC,621237,663993,No event,ball,Nathaniel Lowe strikes out swinging.,2025,Cutter
+SI,621237,663993,No event,called_strike,Nathaniel Lowe strikes out swinging.,2025,Sinker
+SI,621237,663993,No event,called_strike,Nathaniel Lowe strikes out swinging.,2025,Sinker
+SI,621237,663993,No event,ball,Nathaniel Lowe strikes out swinging.,2025,Sinker
+SI,621237,701678,strikeout,swinging_strike,Hao-Yu Lee strikes out swinging.,2025,Sinker
+FF,621237,701678,No event,ball,Hao-Yu Lee strikes out swinging.,2025,4-Seam Fastball
+SI,621237,701678,No event,foul,Hao-Yu Lee strikes out swinging.,2025,Sinker
+SI,621237,701678,No event,swinging_strike,Hao-Yu Lee strikes out swinging.,2025,Sinker
+SI,621237,701678,No event,swinging_strike,Hao-Yu Lee strikes out swinging.,2025,Sinker
+FC,621237,687724,strikeout,swinging_strike,Jake Holton strikes out swinging. Tomás Nido to 2nd. Wild pitch by pitcher José Alvarado.,2025,Cutter
+SI,621237,687724,No event,called_strike,Jake Holton strikes out swinging. Tomás Nido to 2nd. Wild pitch by pitcher José Alvarado.,2025,Sinker
+SI,621237,687724,No event,called_strike,Jake Holton strikes out swinging. Tomás Nido to 2nd. Wild pitch by pitcher José Alvarado.,2025,Sinker
+SI,621237,687724,No event,ball,Jake Holton strikes out swinging. Tomás Nido to 2nd. Wild pitch by pitcher José Alvarado.,2025,Sinker
+SI,621237,687724,No event,ball,Jake Holton strikes out swinging. Tomás Nido to 2nd. Wild pitch by pitcher José Alvarado.,2025,Sinker
+FC,621237,668670,strikeout,foul_tip,Jake Rogers strikes out on a foul tip.,2025,Cutter
+CU,621237,668670,No event,blocked_ball,Jake Rogers strikes out on a foul tip.,2025,Curveball
+FC,621237,668670,No event,ball,Jake Rogers strikes out on a foul tip.,2025,Cutter
+FC,621237,668670,No event,foul,Jake Rogers strikes out on a foul tip.,2025,Cutter
+SI,621237,668670,No event,called_strike,Jake Rogers strikes out on a foul tip.,2025,Sinker
+FC,621237,668670,No event,ball,Jake Rogers strikes out on a foul tip.,2025,Cutter
+SI,621237,621512,single,hit_into_play,Tomás Nido singles on a sharp line drive to right fielder Nick Castellanos.,2025,Sinker
+SI,621237,621512,No event,ball,Tomás Nido singles on a sharp line drive to right fielder Nick Castellanos.,2025,Sinker
+SI,621237,621512,No event,foul,Tomás Nido singles on a sharp line drive to right fielder Nick Castellanos.,2025,Sinker
+SI,621237,621512,No event,ball,Tomás Nido singles on a sharp line drive to right fielder Nick Castellanos.,2025,Sinker
+SI,621237,665998,field_out,hit_into_play,"Ismael Munguia grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2025,Sinker
+CU,621237,672724,strikeout,swinging_strike,Oswald Peraza strikes out swinging.,2025,Curveball
+SI,621237,672724,No event,foul,Oswald Peraza strikes out swinging.,2025,Sinker
+SI,621237,672724,No event,foul,Oswald Peraza strikes out swinging.,2025,Sinker
+SI,621237,672724,No event,ball,Oswald Peraza strikes out swinging.,2025,Sinker
+SI,621237,672724,No event,called_strike,Oswald Peraza strikes out swinging.,2025,Sinker
+SI,621237,672724,No event,ball,Oswald Peraza strikes out swinging.,2025,Sinker
+SI,621237,672724,No event,ball,Oswald Peraza strikes out swinging.,2025,Sinker
+FC,621237,622569,field_out,hit_into_play,"Pablo Reyes grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Cutter
+FF,621237,622569,No event,ball,"Pablo Reyes grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,4-Seam Fastball
+SI,621237,622569,No event,called_strike,"Pablo Reyes grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Sinker
+SI,621237,622569,No event,called_strike,"Pablo Reyes grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Sinker
+SI,621237,663698,field_out,hit_into_play,"Joey Bart grounds out, second baseman Christian Arroyo to first baseman Kody Clemens.",2025,Sinker
+SI,621237,663698,No event,ball,"Joey Bart grounds out, second baseman Christian Arroyo to first baseman Kody Clemens.",2025,Sinker
+SI,621237,663698,No event,called_strike,"Joey Bart grounds out, second baseman Christian Arroyo to first baseman Kody Clemens.",2025,Sinker
+SI,621237,663698,No event,called_strike,"Joey Bart grounds out, second baseman Christian Arroyo to first baseman Kody Clemens.",2025,Sinker
+FC,621237,502054,strikeout,swinging_strike,Tommy Pham strikes out swinging.,2025,Cutter
+CU,621237,502054,No event,called_strike,Tommy Pham strikes out swinging.,2025,Curveball
+SI,621237,502054,No event,swinging_strike,Tommy Pham strikes out swinging.,2025,Sinker
+CU,621237,502054,No event,ball,Tommy Pham strikes out swinging.,2025,Curveball
+SI,621237,668804,field_out,hit_into_play,"Bryan Reynolds grounds out, shortstop Edmundo Sosa to first baseman Kody Clemens.",2025,Sinker
+SI,621237,668804,No event,ball,"Bryan Reynolds grounds out, shortstop Edmundo Sosa to first baseman Kody Clemens.",2025,Sinker
+FC,621237,681481,strikeout,swinging_strike,Kerry Carpenter strikes out swinging.,2025,Cutter
+SI,621237,681481,No event,foul,Kerry Carpenter strikes out swinging.,2025,Sinker
+SI,621237,681481,No event,foul,Kerry Carpenter strikes out swinging.,2025,Sinker
+SI,621237,681481,No event,ball,Kerry Carpenter strikes out swinging.,2025,Sinker
+FC,621237,681481,No event,ball,Kerry Carpenter strikes out swinging.,2025,Cutter
+SI,621237,681481,No event,called_strike,Kerry Carpenter strikes out swinging.,2025,Sinker
+SI,621237,681481,No event,ball,Kerry Carpenter strikes out swinging.,2025,Sinker
+SI,621237,650402,strikeout,swinging_strike,Gleyber Torres strikes out swinging.,2025,Sinker
+FC,621237,650402,No event,ball,Gleyber Torres strikes out swinging.,2025,Cutter
+SI,621237,650402,No event,called_strike,Gleyber Torres strikes out swinging.,2025,Sinker
+SI,621237,650402,No event,called_strike,Gleyber Torres strikes out swinging.,2025,Sinker
+SI,621237,650402,No event,ball,Gleyber Torres strikes out swinging.,2025,Sinker
+FC,621237,682985,strikeout,swinging_strike,Riley Greene strikes out swinging.,2025,Cutter
+CU,621237,682985,No event,ball,Riley Greene strikes out swinging.,2025,Curveball
+SI,621237,682985,No event,foul,Riley Greene strikes out swinging.,2025,Sinker
+SI,621237,682985,No event,called_strike,Riley Greene strikes out swinging.,2025,Sinker
+,621237,680776,strikeout,foul_tip,Jarren Duran strikes out on a foul tip.,2025,
+,621237,680776,No event,foul,Jarren Duran strikes out on a foul tip.,2025,
+,621237,680776,No event,foul,Jarren Duran strikes out on a foul tip.,2025,
+,621237,680776,No event,called_strike,Jarren Duran strikes out on a foul tip.,2025,
+,621237,572204,walk,ball,Trayce Thompson walks.,2025,
+,621237,572204,No event,ball,Trayce Thompson walks.,2025,
+,621237,572204,No event,ball,Trayce Thompson walks.,2025,
+,621237,572204,No event,foul,Trayce Thompson walks.,2025,
+,621237,572204,No event,ball,Trayce Thompson walks.,2025,
+,621237,572204,No event,called_strike,Trayce Thompson walks.,2025,
+,621237,678882,strikeout,swinging_strike,Ceddanne Rafaela strikes out swinging.,2025,
+,621237,678882,No event,swinging_strike,Ceddanne Rafaela strikes out swinging.,2025,
+,621237,678882,No event,swinging_strike,Ceddanne Rafaela strikes out swinging.,2025,
+,621237,691785,walk,ball,Marcelo Mayer walks.,2025,
+,621237,691785,No event,called_strike,Marcelo Mayer walks.,2025,
+,621237,691785,No event,ball,Marcelo Mayer walks.,2025,
+,621237,691785,No event,ball,Marcelo Mayer walks.,2025,
+,621237,691785,No event,ball,Marcelo Mayer walks.,2025,
+,621237,692225,strikeout,swinging_strike,Kristian Campbell strikes out swinging.,2025,
+,621237,692225,No event,ball,Kristian Campbell strikes out swinging.,2025,
+,621237,692225,No event,called_strike,Kristian Campbell strikes out swinging.,2025,
+,621237,692225,No event,foul,Kristian Campbell strikes out swinging.,2025,
+FC,621237,656896,strikeout,swinging_strike_blocked,Emmanuel Rivera strikes out swinging.,2025,Cutter
+FF,621237,656896,No event,ball,Emmanuel Rivera strikes out swinging.,2025,4-Seam Fastball
+CU,621237,656896,No event,called_strike,Emmanuel Rivera strikes out swinging.,2025,Curveball
+SI,621237,656896,No event,foul,Emmanuel Rivera strikes out swinging.,2025,Sinker
+FC,621237,677008,strikeout,swinging_strike,Heston Kjerstad strikes out swinging.,2025,Cutter
+FC,621237,677008,No event,swinging_strike,Heston Kjerstad strikes out swinging.,2025,Cutter
+SI,621237,677008,No event,called_strike,Heston Kjerstad strikes out swinging.,2025,Sinker
+SI,621237,663624,field_out,hit_into_play,"Ryan Mountcastle grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Sinker
+FC,621237,663624,No event,ball,"Ryan Mountcastle grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Cutter
+SI,621237,663624,No event,foul_tip,"Ryan Mountcastle grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Sinker
+SI,621237,663624,No event,ball,"Ryan Mountcastle grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Sinker
+SI,621237,663624,No event,swinging_strike,"Ryan Mountcastle grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2025,Sinker
+FC,621237,803033,strikeout,called_strike,Matthew Etzel called out on strikes.,2025,Cutter
+FC,621237,803033,No event,blocked_ball,Matthew Etzel called out on strikes.,2025,Cutter
+SI,621237,803033,No event,foul,Matthew Etzel called out on strikes.,2025,Sinker
+SI,621237,803033,No event,called_strike,Matthew Etzel called out on strikes.,2025,Sinker
+FC,621237,803033,No event,ball,Matthew Etzel called out on strikes.,2025,Cutter
+SI,621237,691003,walk,ball,Tre' Morgan walks. Ben Rortvedt to 2nd.,2025,Sinker
+SI,621237,691003,No event,foul,Tre' Morgan walks. Ben Rortvedt to 2nd.,2025,Sinker
+SI,621237,691003,No event,ball,Tre' Morgan walks. Ben Rortvedt to 2nd.,2025,Sinker
+SI,621237,691003,No event,ball,Tre' Morgan walks. Ben Rortvedt to 2nd.,2025,Sinker
+SI,621237,691003,No event,ball,Tre' Morgan walks. Ben Rortvedt to 2nd.,2025,Sinker
+FC,621237,676356,strikeout,foul_tip,Jonny DeLuca strikes out on a foul tip.,2025,Cutter
+SI,621237,676356,No event,foul,Jonny DeLuca strikes out on a foul tip.,2025,Sinker
+FC,621237,676356,No event,foul,Jonny DeLuca strikes out on a foul tip.,2025,Cutter
+FC,621237,800060,strikeout,swinging_strike,Xavier Isaac strikes out swinging.,2025,Cutter
+FC,621237,800060,No event,called_strike,Xavier Isaac strikes out swinging.,2025,Cutter
+FC,621237,800060,No event,ball,Xavier Isaac strikes out swinging.,2025,Cutter
+SI,621237,800060,No event,foul,Xavier Isaac strikes out swinging.,2025,Sinker
+SI,621237,800060,No event,ball,Xavier Isaac strikes out swinging.,2025,Sinker
+SI,621237,666163,fielders_choice,hit_into_play,"Ben Rortvedt reaches on a fielder's choice. Curtis Mead to 3rd. Curtis Mead advances to 3rd, on a throwing error by first baseman Bryce Harper.",2025,Sinker
+SI,621237,666163,No event,foul_tip,"Ben Rortvedt reaches on a fielder's choice. Curtis Mead to 3rd. Curtis Mead advances to 3rd, on a throwing error by first baseman Bryce Harper.",2025,Sinker
+SI,621237,666163,No event,foul,"Ben Rortvedt reaches on a fielder's choice. Curtis Mead to 3rd. Curtis Mead advances to 3rd, on a throwing error by first baseman Bryce Harper.",2025,Sinker
+CU,621237,678554,single,hit_into_play,Curtis Mead singles on a sharp line drive to center fielder Brandon Marsh.,2025,Curveball
+FF,621237,678554,No event,ball,Curtis Mead singles on a sharp line drive to center fielder Brandon Marsh.,2025,4-Seam Fastball
+FC,621237,678554,No event,foul,Curtis Mead singles on a sharp line drive to center fielder Brandon Marsh.,2025,Cutter
+SI,621237,678554,No event,called_strike,Curtis Mead singles on a sharp line drive to center fielder Brandon Marsh.,2025,Sinker
+SI,621237,677008,field_out,hit_into_play,Heston Kjerstad flies out to left fielder Kyle Schwarber.,2025,Sinker
+SI,621237,656896,single,hit_into_play,Emmanuel Rivera singles on a ground ball to right fielder Nick Castellanos.,2025,Sinker
+FF,621237,656896,No event,ball,Emmanuel Rivera singles on a ground ball to right fielder Nick Castellanos.,2025,4-Seam Fastball
+CU,621237,656896,No event,swinging_strike,Emmanuel Rivera singles on a ground ball to right fielder Nick Castellanos.,2025,Curveball
+FC,621237,681297,strikeout,swinging_strike,Colton Cowser strikes out swinging.,2025,Cutter
+SI,621237,681297,No event,called_strike,Colton Cowser strikes out swinging.,2025,Sinker
+SI,621237,681297,No event,called_strike,Colton Cowser strikes out swinging.,2025,Sinker
+SI,621237,681297,No event,ball,Colton Cowser strikes out swinging.,2025,Sinker
+SI,621237,681297,No event,ball,Colton Cowser strikes out swinging.,2025,Sinker
+SI,621237,596142,strikeout,swinging_strike,Gary Sánchez strikes out swinging.,2025,Sinker
+FF,621237,596142,No event,ball,Gary Sánchez strikes out swinging.,2025,4-Seam Fastball
+FC,621237,596142,No event,ball,Gary Sánchez strikes out swinging.,2025,Cutter
+CU,621237,596142,No event,ball,Gary Sánchez strikes out swinging.,2025,Curveball
+FF,621237,596142,No event,foul,Gary Sánchez strikes out swinging.,2025,4-Seam Fastball
+SI,621237,596142,No event,swinging_strike,Gary Sánchez strikes out swinging.,2025,Sinker
+SI,621237,665828,field_out,hit_into_play,Oswaldo Cabrera flies out to right fielder Nick Castellanos.,2025,Sinker
+FC,621237,677592,strikeout,swinging_strike_blocked,Everson Pereira strikes out swinging.,2025,Cutter
+SI,621237,677592,No event,called_strike,Everson Pereira strikes out swinging.,2025,Sinker
+FF,621237,677592,No event,ball,Everson Pereira strikes out swinging.,2025,4-Seam Fastball
+CU,621237,677592,No event,called_strike,Everson Pereira strikes out swinging.,2025,Curveball
+SI,621237,700250,strikeout,called_strike,Ben Rice called out on strikes.,2025,Sinker
+FC,621237,700250,No event,ball,Ben Rice called out on strikes.,2025,Cutter
+SI,621237,700250,No event,ball,Ben Rice called out on strikes.,2025,Sinker
+CU,621237,700250,No event,ball,Ben Rice called out on strikes.,2025,Curveball
+FC,621237,700250,No event,foul,Ben Rice called out on strikes.,2025,Cutter
+SI,621237,700250,No event,foul,Ben Rice called out on strikes.,2025,Sinker
+SI,621237,624413,walk,ball,Pete Alonso walks.   Harrison Bader to 3rd.    Brandon Nimmo to 2nd.,2024,Sinker
+SI,621237,624413,No event,ball,Pete Alonso walks.   Harrison Bader to 3rd.    Brandon Nimmo to 2nd.,2024,Sinker
+SI,621237,624413,No event,blocked_ball,Pete Alonso walks.   Harrison Bader to 3rd.    Brandon Nimmo to 2nd.,2024,Sinker
+SI,621237,624413,No event,ball,Pete Alonso walks.   Harrison Bader to 3rd.    Brandon Nimmo to 2nd.,2024,Sinker
+SI,621237,607043,walk,ball,Brandon Nimmo walks.,2024,Sinker
+FC,621237,607043,No event,ball,Brandon Nimmo walks.,2024,Cutter
+SI,621237,607043,No event,called_strike,Brandon Nimmo walks.,2024,Sinker
+SI,621237,607043,No event,swinging_strike,Brandon Nimmo walks.,2024,Sinker
+SI,621237,607043,No event,blocked_ball,Brandon Nimmo walks.,2024,Sinker
+SI,621237,607043,No event,ball,Brandon Nimmo walks.,2024,Sinker
+SI,621237,668901,single,hit_into_play,"Mark Vientos singles on a line drive to third baseman Alec Bohm, deflected by pitcher José Alvarado.",2024,Sinker
+FC,621237,668901,No event,ball,"Mark Vientos singles on a line drive to third baseman Alec Bohm, deflected by pitcher José Alvarado.",2024,Cutter
+SI,621237,668901,No event,ball,"Mark Vientos singles on a line drive to third baseman Alec Bohm, deflected by pitcher José Alvarado.",2024,Sinker
+SI,621237,668901,No event,foul,"Mark Vientos singles on a line drive to third baseman Alec Bohm, deflected by pitcher José Alvarado.",2024,Sinker
+SI,621237,668901,No event,ball,"Mark Vientos singles on a line drive to third baseman Alec Bohm, deflected by pitcher José Alvarado.",2024,Sinker
+SI,621237,596019,field_out,hit_into_play,Francisco Lindor pops out to third baseman Alec Bohm.,2024,Sinker
+SI,621237,596019,No event,ball,Francisco Lindor pops out to third baseman Alec Bohm.,2024,Sinker
+SI,621237,682626,strikeout,swinging_strike,Francisco Alvarez strikes out swinging.,2024,Sinker
+FC,621237,682626,No event,ball,Francisco Alvarez strikes out swinging.,2024,Cutter
+FC,621237,682626,No event,ball,Francisco Alvarez strikes out swinging.,2024,Cutter
+SI,621237,682626,No event,foul,Francisco Alvarez strikes out swinging.,2024,Sinker
+SI,621237,682626,No event,called_strike,Francisco Alvarez strikes out swinging.,2024,Sinker
+FC,621237,696285,field_out,hit_into_play,"Jacob Young grounds out, shortstop Trea Turner to first baseman Alec Bohm.",2024,Cutter
+FC,621237,696285,No event,ball,"Jacob Young grounds out, shortstop Trea Turner to first baseman Alec Bohm.",2024,Cutter
+FC,621237,696285,No event,ball,"Jacob Young grounds out, shortstop Trea Turner to first baseman Alec Bohm.",2024,Cutter
+SI,621237,696285,No event,foul,"Jacob Young grounds out, shortstop Trea Turner to first baseman Alec Bohm.",2024,Sinker
+SI,621237,696285,No event,foul_bunt,"Jacob Young grounds out, shortstop Trea Turner to first baseman Alec Bohm.",2024,Sinker
+SI,621237,696285,No event,foul,"Jacob Young grounds out, shortstop Trea Turner to first baseman Alec Bohm.",2024,Sinker
+SI,621237,696285,No event,ball,"Jacob Young grounds out, shortstop Trea Turner to first baseman Alec Bohm.",2024,Sinker
+FC,621237,686452,strikeout,swinging_strike,Drew Millas strikes out swinging.,2024,Cutter
+FC,621237,686452,No event,blocked_ball,Drew Millas strikes out swinging.,2024,Cutter
+FC,621237,686452,No event,swinging_strike,Drew Millas strikes out swinging.,2024,Cutter
+SI,621237,686452,No event,ball,Drew Millas strikes out swinging.,2024,Sinker
+SI,621237,686452,No event,called_strike,Drew Millas strikes out swinging.,2024,Sinker
+SI,621237,608336,field_out,hit_into_play,Joey Gallo flies out to third baseman Edmundo Sosa in foul territory.,2024,Sinker
+SI,621237,683083,grounded_into_double_play,hit_into_play,"Nasim Nuñez grounds into a double play, second baseman Bryson Stott to shortstop Trea Turner to first baseman Bryce Harper. Jacob Young out at 2nd. Nasim Nuñez out at 1st.",2024,Sinker
+FC,621237,683083,No event,ball,"Nasim Nuñez grounds into a double play, second baseman Bryson Stott to shortstop Trea Turner to first baseman Bryce Harper. Jacob Young out at 2nd. Nasim Nuñez out at 1st.",2024,Cutter
+FC,621237,683083,No event,blocked_ball,"Nasim Nuñez grounds into a double play, second baseman Bryson Stott to shortstop Trea Turner to first baseman Bryce Harper. Jacob Young out at 2nd. Nasim Nuñez out at 1st.",2024,Cutter
+SI,621237,683083,No event,called_strike,"Nasim Nuñez grounds into a double play, second baseman Bryson Stott to shortstop Trea Turner to first baseman Bryce Harper. Jacob Young out at 2nd. Nasim Nuñez out at 1st.",2024,Sinker
+SI,621237,696285,single,hit_into_play,Jacob Young singles on a line drive to right fielder Weston Wilson.,2024,Sinker
+SI,621237,696285,No event,ball,Jacob Young singles on a line drive to right fielder Weston Wilson.,2024,Sinker
+FC,621237,545121,field_out,hit_into_play,"Ildemaro Vargas grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Cutter
+FC,621237,545121,No event,foul,"Ildemaro Vargas grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Cutter
+FC,621237,545121,No event,ball,"Ildemaro Vargas grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Cutter
+SI,621237,545121,No event,foul,"Ildemaro Vargas grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Sinker
+FC,621237,664056,strikeout,swinging_strike,Harrison Bader strikes out swinging.,2024,Cutter
+SI,621237,664056,No event,foul,Harrison Bader strikes out swinging.,2024,Sinker
+FC,621237,664056,No event,swinging_strike,Harrison Bader strikes out swinging.,2024,Cutter
+SI,621237,664056,No event,ball,Harrison Bader strikes out swinging.,2024,Sinker
+SI,621237,607043,force_out,hit_into_play,"Brandon Nimmo grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. Jose Iglesias out at 2nd.",2024,Sinker
+SI,621237,578428,fielders_choice_out,hit_into_play,"Jose Iglesias reaches on a fielder's choice out, shortstop Trea Turner to catcher J. T. Realmuto. Luisangel Acuña out at home.",2024,Sinker
+SI,621237,578428,No event,ball,"Jose Iglesias reaches on a fielder's choice out, shortstop Trea Turner to catcher J. T. Realmuto. Luisangel Acuña out at home.",2024,Sinker
+FC,621237,578428,No event,foul,"Jose Iglesias reaches on a fielder's choice out, shortstop Trea Turner to catcher J. T. Realmuto. Luisangel Acuña out at home.",2024,Cutter
+FC,621237,578428,No event,ball,"Jose Iglesias reaches on a fielder's choice out, shortstop Trea Turner to catcher J. T. Realmuto. Luisangel Acuña out at home.",2024,Cutter
+SI,621237,682668,triple,hit_into_play,Luisangel Acuña triples (1) on a sharp line drive to right fielder Nick Castellanos. Francisco Alvarez scores.,2024,Sinker
+SI,621237,682626,force_out,hit_into_play,"Francisco Alvarez grounds into a force out, fielded by second baseman Bryson Stott. Tyrone Taylor out at 2nd. Francisco Alvarez to 1st.",2024,Sinker
+SI,621237,682626,No event,called_strike,"Francisco Alvarez grounds into a force out, fielded by second baseman Bryson Stott. Tyrone Taylor out at 2nd. Francisco Alvarez to 1st.",2024,Sinker
+FC,621237,682626,No event,blocked_ball,"Francisco Alvarez grounds into a force out, fielded by second baseman Bryson Stott. Tyrone Taylor out at 2nd. Francisco Alvarez to 1st.",2024,Cutter
+SI,621237,682626,No event,ball,"Francisco Alvarez grounds into a force out, fielded by second baseman Bryson Stott. Tyrone Taylor out at 2nd. Francisco Alvarez to 1st.",2024,Sinker
+SI,621237,621438,walk,ball,Tyrone Taylor walks.,2024,Sinker
+SI,621237,621438,No event,ball,Tyrone Taylor walks.,2024,Sinker
+SI,621237,621438,No event,ball,Tyrone Taylor walks.,2024,Sinker
+SI,621237,621438,No event,swinging_strike,Tyrone Taylor walks.,2024,Sinker
+SI,621237,621438,No event,ball,Tyrone Taylor walks.,2024,Sinker
+FC,621237,694192,strikeout,swinging_strike,Jackson Chourio strikes out swinging.,2024,Cutter
+SI,621237,694192,No event,ball,Jackson Chourio strikes out swinging.,2024,Sinker
+SI,621237,694192,No event,ball,Jackson Chourio strikes out swinging.,2024,Sinker
+FC,621237,694192,No event,foul,Jackson Chourio strikes out swinging.,2024,Cutter
+FC,621237,694192,No event,ball,Jackson Chourio strikes out swinging.,2024,Cutter
+SI,621237,694192,No event,foul,Jackson Chourio strikes out swinging.,2024,Sinker
+SI,621237,694192,No event,foul,Jackson Chourio strikes out swinging.,2024,Sinker
+SI,621237,668930,single,hit_into_play,Brice Turang singles on a line drive to left fielder Brandon Marsh. Joey Ortiz scores.,2024,Sinker
+FC,621237,668930,No event,ball,Brice Turang singles on a line drive to left fielder Brandon Marsh. Joey Ortiz scores.,2024,Cutter
+SI,621237,668930,No event,swinging_strike,Brice Turang singles on a line drive to left fielder Brandon Marsh. Joey Ortiz scores.,2024,Sinker
+SI,621237,668930,No event,foul_tip,Brice Turang singles on a line drive to left fielder Brandon Marsh. Joey Ortiz scores.,2024,Sinker
+FC,621237,687401,triple,hit_into_play,Joey Ortiz triples (5) on a sharp line drive to center fielder Cal Stevenson. Sal Frelick scores.,2024,Cutter
+FC,621237,687401,No event,foul,Joey Ortiz triples (5) on a sharp line drive to center fielder Cal Stevenson. Sal Frelick scores.,2024,Cutter
+FC,621237,687401,No event,ball,Joey Ortiz triples (5) on a sharp line drive to center fielder Cal Stevenson. Sal Frelick scores.,2024,Cutter
+SI,621237,687401,No event,called_strike,Joey Ortiz triples (5) on a sharp line drive to center fielder Cal Stevenson. Sal Frelick scores.,2024,Sinker
+FC,621237,686217,force_out,hit_into_play,"Sal Frelick grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. Gary Sánchez out at 2nd. Sal Frelick to 1st.",2024,Cutter
+FC,621237,686217,No event,swinging_strike,"Sal Frelick grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. Gary Sánchez out at 2nd. Sal Frelick to 1st.",2024,Cutter
+SI,621237,686217,No event,called_strike,"Sal Frelick grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. Gary Sánchez out at 2nd. Sal Frelick to 1st.",2024,Sinker
+SI,621237,656555,strikeout,foul_tip,Rhys Hoskins strikes out on a foul tip.,2024,Sinker
+SI,621237,656555,No event,called_strike,Rhys Hoskins strikes out on a foul tip.,2024,Sinker
+SI,621237,656555,No event,called_strike,Rhys Hoskins strikes out on a foul tip.,2024,Sinker
+SI,621237,656555,No event,ball,Rhys Hoskins strikes out on a foul tip.,2024,Sinker
+SI,621237,656555,No event,ball,Rhys Hoskins strikes out on a foul tip.,2024,Sinker
+SI,621237,596142,walk,ball,Gary Sánchez walks.,2024,Sinker
+FC,621237,596142,No event,ball,Gary Sánchez walks.,2024,Cutter
+FC,621237,596142,No event,ball,Gary Sánchez walks.,2024,Cutter
+SI,621237,596142,No event,called_strike,Gary Sánchez walks.,2024,Sinker
+SI,621237,596142,No event,ball,Gary Sánchez walks.,2024,Sinker
+SI,621237,666185,strikeout,called_strike,Dylan Carlson called out on strikes.,2024,Sinker
+SI,621237,666185,No event,swinging_strike,Dylan Carlson called out on strikes.,2024,Sinker
+SI,621237,666185,No event,called_strike,Dylan Carlson called out on strikes.,2024,Sinker
+SI,621237,676356,field_out,hit_into_play,Jonny DeLuca pops out to first baseman Kody Clemens in foul territory.,2024,Sinker
+SI,621237,691406,field_out,hit_into_play,Junior Caminero flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,691406,No event,ball,Junior Caminero flies out to right fielder Nick Castellanos.,2024,Cutter
+FC,621237,691406,No event,ball,Junior Caminero flies out to right fielder Nick Castellanos.,2024,Cutter
+FC,621237,666624,strikeout,swinging_strike_blocked,Christopher Morel strikes out swinging.,2024,Cutter
+SI,621237,666624,No event,ball,Christopher Morel strikes out swinging.,2024,Sinker
+FC,621237,666624,No event,swinging_strike,Christopher Morel strikes out swinging.,2024,Cutter
+FC,621237,666624,No event,swinging_strike,Christopher Morel strikes out swinging.,2024,Cutter
+FC,621237,676609,strikeout,swinging_strike,José Caballero strikes out swinging.,2024,Cutter
+FC,621237,676609,No event,foul,José Caballero strikes out swinging.,2024,Cutter
+FC,621237,676609,No event,ball,José Caballero strikes out swinging.,2024,Cutter
+SI,621237,676609,No event,foul,José Caballero strikes out swinging.,2024,Sinker
+SI,621237,676609,No event,ball,José Caballero strikes out swinging.,2024,Sinker
+FC,621237,676609,No event,foul,José Caballero strikes out swinging.,2024,Cutter
+FC,621237,676609,No event,foul,José Caballero strikes out swinging.,2024,Cutter
+SI,621237,676609,No event,called_strike,José Caballero strikes out swinging.,2024,Sinker
+SI,621237,686482,field_out,hit_into_play,Logan Driscoll flies out to shortstop Trea Turner.,2024,Sinker
+SI,621237,686482,No event,foul,Logan Driscoll flies out to shortstop Trea Turner.,2024,Sinker
+SI,621237,669394,field_out,hit_into_play,Jake Burger flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,669394,No event,ball,Jake Burger flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,669394,No event,foul,Jake Burger flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,669394,No event,ball,Jake Burger flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,681393,field_out,hit_into_play,"Connor Norby grounds out, shortstop Trea Turner to first baseman Kody Clemens.",2024,Sinker
+FC,621237,681393,No event,ball,"Connor Norby grounds out, shortstop Trea Turner to first baseman Kody Clemens.",2024,Cutter
+SI,621237,681393,No event,foul,"Connor Norby grounds out, shortstop Trea Turner to first baseman Kody Clemens.",2024,Sinker
+SI,621237,681393,No event,called_strike,"Connor Norby grounds out, shortstop Trea Turner to first baseman Kody Clemens.",2024,Sinker
+SI,621237,681393,No event,ball,"Connor Norby grounds out, shortstop Trea Turner to first baseman Kody Clemens.",2024,Sinker
+SI,621237,681393,No event,swinging_strike,"Connor Norby grounds out, shortstop Trea Turner to first baseman Kody Clemens.",2024,Sinker
+SI,621237,669364,field_out,hit_into_play,"Xavier Edwards grounds out, second baseman Bryson Stott to first baseman Kody Clemens.",2024,Sinker
+SI,621237,669364,No event,foul,"Xavier Edwards grounds out, second baseman Bryson Stott to first baseman Kody Clemens.",2024,Sinker
+FC,621237,669364,No event,ball,"Xavier Edwards grounds out, second baseman Bryson Stott to first baseman Kody Clemens.",2024,Cutter
+SI,621237,669364,No event,ball,"Xavier Edwards grounds out, second baseman Bryson Stott to first baseman Kody Clemens.",2024,Sinker
+SI,621237,669364,No event,called_strike,"Xavier Edwards grounds out, second baseman Bryson Stott to first baseman Kody Clemens.",2024,Sinker
+FC,621237,669065,strikeout,called_strike,Kyle Stowers called out on strikes.,2024,Cutter
+SI,621237,669065,No event,foul,Kyle Stowers called out on strikes.,2024,Sinker
+SI,621237,669065,No event,swinging_strike,Kyle Stowers called out on strikes.,2024,Sinker
+FC,621237,669065,No event,blocked_ball,Kyle Stowers called out on strikes.,2024,Cutter
+SI,621237,669065,No event,swinging_strike,Kyle Stowers called out on strikes.,2024,Sinker
+FC,621237,669065,No event,ball,Kyle Stowers called out on strikes.,2024,Cutter
+FC,621237,665052,strikeout,swinging_strike,Griffin Conine strikes out swinging.,2024,Cutter
+FC,621237,665052,No event,blocked_ball,Griffin Conine strikes out swinging.,2024,Cutter
+FC,621237,665052,No event,ball,Griffin Conine strikes out swinging.,2024,Cutter
+FC,621237,665052,No event,swinging_strike,Griffin Conine strikes out swinging.,2024,Cutter
+SI,621237,665052,No event,swinging_strike,Griffin Conine strikes out swinging.,2024,Sinker
+SI,621237,672640,single,hit_into_play,Otto Lopez singles on a line drive to right fielder Cal Stevenson.,2024,Sinker
+SI,621237,672640,No event,swinging_strike,Otto Lopez singles on a line drive to right fielder Cal Stevenson.,2024,Sinker
+FC,621237,660821,strikeout,swinging_strike,Jesús Sánchez strikes out swinging.,2024,Cutter
+FC,621237,660821,No event,ball,Jesús Sánchez strikes out swinging.,2024,Cutter
+FC,621237,660821,No event,foul,Jesús Sánchez strikes out swinging.,2024,Cutter
+SI,621237,660821,No event,foul,Jesús Sánchez strikes out swinging.,2024,Sinker
+SI,621237,662139,force_out,hit_into_play,"Daulton Varsho grounds into a force out, fielded by shortstop Trea Turner. George Springer out at 2nd.",2024,Sinker
+FC,621237,543807,walk,blocked_ball,George Springer walks.,2024,Cutter
+FC,621237,543807,No event,ball,George Springer walks.,2024,Cutter
+SI,621237,543807,No event,called_strike,George Springer walks.,2024,Sinker
+SI,621237,543807,No event,foul,George Springer walks.,2024,Sinker
+SI,621237,543807,No event,ball,George Springer walks.,2024,Sinker
+FC,621237,543807,No event,ball,George Springer walks.,2024,Cutter
+FC,621237,694388,strikeout,swinging_strike,Joey Loperfido strikes out swinging.,2024,Cutter
+FC,621237,694388,No event,ball,Joey Loperfido strikes out swinging.,2024,Cutter
+FC,621237,694388,No event,swinging_strike,Joey Loperfido strikes out swinging.,2024,Cutter
+SI,621237,694388,No event,swinging_strike,Joey Loperfido strikes out swinging.,2024,Sinker
+SI,621237,676391,field_out,hit_into_play,Ernie Clement flies out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,676391,No event,called_strike,Ernie Clement flies out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,676391,No event,ball,Ernie Clement flies out to center fielder Johan Rojas.,2024,Sinker
+FC,621237,657557,strikeout,swinging_strike,Paul DeJong strikes out swinging.,2024,Cutter
+SI,621237,657557,No event,foul,Paul DeJong strikes out swinging.,2024,Sinker
+FC,621237,657557,No event,foul,Paul DeJong strikes out swinging.,2024,Cutter
+FC,621237,657557,No event,swinging_strike_blocked,Paul DeJong strikes out swinging.,2024,Cutter
+SI,621237,657557,No event,ball,Paul DeJong strikes out swinging.,2024,Sinker
+SI,621237,657557,No event,foul,Paul DeJong strikes out swinging.,2024,Sinker
+SI,621237,694355,field_out,hit_into_play,Tyler Gentry flies out to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,666023,strikeout,called_strike,Freddy Fermin called out on strikes.,2024,Sinker
+SI,621237,666023,No event,foul,Freddy Fermin called out on strikes.,2024,Sinker
+FC,621237,666023,No event,called_strike,Freddy Fermin called out on strikes.,2024,Cutter
+SI,621237,666023,No event,blocked_ball,Freddy Fermin called out on strikes.,2024,Sinker
+FC,621237,521692,double,hit_into_play,Salvador Perez doubles (24) on a fly ball to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,521692,No event,ball,Salvador Perez doubles (24) on a fly ball to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,521692,No event,ball,Salvador Perez doubles (24) on a fly ball to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,521692,No event,foul,Salvador Perez doubles (24) on a fly ball to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,521692,No event,foul,Salvador Perez doubles (24) on a fly ball to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,521692,No event,called_strike,Salvador Perez doubles (24) on a fly ball to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,521692,No event,called_strike,Salvador Perez doubles (24) on a fly ball to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,664728,field_out,hit_into_play,"Kyle Isbel grounds out sharply, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+SI,621237,664728,No event,ball,"Kyle Isbel grounds out sharply, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+SI,621237,657557,walk,ball,Paul DeJong walks.,2024,Sinker
+FC,621237,657557,No event,foul,Paul DeJong walks.,2024,Cutter
+SI,621237,657557,No event,called_strike,Paul DeJong walks.,2024,Sinker
+SI,621237,657557,No event,called_strike,Paul DeJong walks.,2024,Sinker
+SI,621237,657557,No event,ball,Paul DeJong walks.,2024,Sinker
+SI,621237,657557,No event,ball,Paul DeJong walks.,2024,Sinker
+FC,621237,657557,No event,ball,Paul DeJong walks.,2024,Cutter
+FC,621237,666023,double,hit_into_play,Freddy Fermin doubles (14) on a ground ball to left fielder Austin Hays.,2024,Cutter
+FC,621237,666023,No event,ball,Freddy Fermin doubles (14) on a ground ball to left fielder Austin Hays.,2024,Cutter
+SI,621237,666023,No event,foul,Freddy Fermin doubles (14) on a ground ball to left fielder Austin Hays.,2024,Sinker
+FC,621237,666023,No event,ball,Freddy Fermin doubles (14) on a ground ball to left fielder Austin Hays.,2024,Cutter
+SI,621237,592669,field_out,hit_into_play,Hunter Renfroe pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,592669,No event,ball,Hunter Renfroe pops out to second baseman Bryson Stott.,2024,Cutter
+FC,621237,592669,No event,ball,Hunter Renfroe pops out to second baseman Bryson Stott.,2024,Cutter
+FC,621237,592669,No event,swinging_strike,Hunter Renfroe pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,669004,field_out,hit_into_play,MJ Melendez lines out sharply to left fielder Austin Hays.,2024,Sinker
+SI,621237,669004,No event,ball,MJ Melendez lines out sharply to left fielder Austin Hays.,2024,Sinker
+FC,621237,669004,No event,ball,MJ Melendez lines out sharply to left fielder Austin Hays.,2024,Cutter
+FF,621237,669004,No event,called_strike,MJ Melendez lines out sharply to left fielder Austin Hays.,2024,4-Seam Fastball
+SI,621237,570482,walk,ball,Gio Urshela walks.   Matt Olson scores.    Adam Duvall to 3rd.    Orlando Arcia to 2nd.,2024,Sinker
+SI,621237,570482,No event,ball,Gio Urshela walks.   Matt Olson scores.    Adam Duvall to 3rd.    Orlando Arcia to 2nd.,2024,Sinker
+SI,621237,570482,No event,ball,Gio Urshela walks.   Matt Olson scores.    Adam Duvall to 3rd.    Orlando Arcia to 2nd.,2024,Sinker
+SI,621237,570482,No event,ball,Gio Urshela walks.   Matt Olson scores.    Adam Duvall to 3rd.    Orlando Arcia to 2nd.,2024,Sinker
+SI,621237,570482,No event,called_strike,Gio Urshela walks.   Matt Olson scores.    Adam Duvall to 3rd.    Orlando Arcia to 2nd.,2024,Sinker
+SI,621237,606115,walk,ball,Orlando Arcia walks.   Matt Olson to 3rd.    Adam Duvall to 2nd.,2024,Sinker
+FC,621237,606115,No event,ball,Orlando Arcia walks.   Matt Olson to 3rd.    Adam Duvall to 2nd.,2024,Cutter
+SI,621237,606115,No event,called_strike,Orlando Arcia walks.   Matt Olson to 3rd.    Adam Duvall to 2nd.,2024,Sinker
+SI,621237,606115,No event,ball,Orlando Arcia walks.   Matt Olson to 3rd.    Adam Duvall to 2nd.,2024,Sinker
+FC,621237,606115,No event,ball,Orlando Arcia walks.   Matt Olson to 3rd.    Adam Duvall to 2nd.,2024,Cutter
+FC,621237,624585,walk,ball,Jorge Soler walks.   Matt Olson to 2nd.,2024,Cutter
+FC,621237,624585,No event,ball,Jorge Soler walks.   Matt Olson to 2nd.,2024,Cutter
+SI,621237,624585,No event,ball,Jorge Soler walks.   Matt Olson to 2nd.,2024,Sinker
+SI,621237,624585,No event,called_strike,Jorge Soler walks.   Matt Olson to 2nd.,2024,Sinker
+FC,621237,624585,No event,ball,Jorge Soler walks.   Matt Olson to 2nd.,2024,Cutter
+FC,621237,669221,strikeout,swinging_strike,Sean Murphy strikes out swinging.,2024,Cutter
+FC,621237,669221,No event,ball,Sean Murphy strikes out swinging.,2024,Cutter
+FC,621237,669221,No event,swinging_strike,Sean Murphy strikes out swinging.,2024,Cutter
+SI,621237,669221,No event,called_strike,Sean Murphy strikes out swinging.,2024,Sinker
+SI,621237,621566,force_out,hit_into_play,"Matt Olson grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott.   Marcell Ozuna out at 2nd.    Matt Olson to 1st.",2024,Sinker
+SI,621237,621566,No event,ball,"Matt Olson grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott.   Marcell Ozuna out at 2nd.    Matt Olson to 1st.",2024,Sinker
+FC,621237,621566,No event,ball,"Matt Olson grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott.   Marcell Ozuna out at 2nd.    Matt Olson to 1st.",2024,Cutter
+SI,621237,621566,No event,swinging_strike,"Matt Olson grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott.   Marcell Ozuna out at 2nd.    Matt Olson to 1st.",2024,Sinker
+FC,621237,621566,No event,ball,"Matt Olson grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott.   Marcell Ozuna out at 2nd.    Matt Olson to 1st.",2024,Cutter
+FC,621237,621566,No event,called_strike,"Matt Olson grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott.   Marcell Ozuna out at 2nd.    Matt Olson to 1st.",2024,Cutter
+FC,621237,542303,walk,ball,Marcell Ozuna walks.,2024,Cutter
+SI,621237,542303,No event,ball,Marcell Ozuna walks.,2024,Sinker
+SI,621237,542303,No event,foul,Marcell Ozuna walks.,2024,Sinker
+CU,621237,542303,No event,foul,Marcell Ozuna walks.,2024,Curveball
+FC,621237,542303,No event,foul,Marcell Ozuna walks.,2024,Cutter
+FC,621237,542303,No event,ball,Marcell Ozuna walks.,2024,Cutter
+FC,621237,542303,No event,swinging_strike,Marcell Ozuna walks.,2024,Cutter
+SI,621237,542303,No event,ball,Marcell Ozuna walks.,2024,Sinker
+SI,621237,542303,No event,called_strike,Marcell Ozuna walks.,2024,Sinker
+SI,621237,660688,field_out,hit_into_play,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Sinker
+FC,621237,660688,No event,foul,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Cutter
+FC,621237,660688,No event,foul,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Cutter
+FC,621237,660688,No event,foul,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Cutter
+SI,621237,660688,No event,ball,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Sinker
+SI,621237,660688,No event,foul,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Sinker
+SI,621237,660688,No event,foul,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Sinker
+SI,621237,660688,No event,ball,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Sinker
+SI,621237,660688,No event,ball,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Sinker
+FC,621237,660688,No event,foul,Keibert Ruiz pops out to third baseman Edmundo Sosa.,2024,Cutter
+FC,621237,695578,field_out,hit_into_play,James Wood lines out to shortstop Trea Turner.,2024,Cutter
+FC,621237,695578,No event,ball,James Wood lines out to shortstop Trea Turner.,2024,Cutter
+SI,621237,695578,No event,foul,James Wood lines out to shortstop Trea Turner.,2024,Sinker
+SI,621237,695578,No event,foul_tip,James Wood lines out to shortstop Trea Turner.,2024,Sinker
+SI,621237,669743,force_out,hit_into_play,"Alex Call grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. CJ Abrams out at 2nd. Alex Call to 1st.",2024,Sinker
+FC,621237,669743,No event,ball,"Alex Call grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. CJ Abrams out at 2nd. Alex Call to 1st.",2024,Cutter
+FC,621237,669743,No event,blocked_ball,"Alex Call grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. CJ Abrams out at 2nd. Alex Call to 1st.",2024,Cutter
+FC,621237,669743,No event,swinging_strike,"Alex Call grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. CJ Abrams out at 2nd. Alex Call to 1st.",2024,Cutter
+SI,621237,669743,No event,called_strike,"Alex Call grounds into a force out, second baseman Bryson Stott to shortstop Trea Turner. CJ Abrams out at 2nd. Alex Call to 1st.",2024,Sinker
+FC,621237,682928,single,hit_into_play,CJ Abrams singles on a ground ball to shortstop Trea Turner.,2024,Cutter
+SI,621237,660821,force_out,hit_into_play,"Jesús Sánchez grounds into a force out, shortstop Edmundo Sosa to second baseman Bryson Stott. Xavier Edwards out at 2nd.",2024,Sinker
+FC,621237,660821,No event,ball,"Jesús Sánchez grounds into a force out, shortstop Edmundo Sosa to second baseman Bryson Stott. Xavier Edwards out at 2nd.",2024,Cutter
+FC,621237,660821,No event,swinging_strike,"Jesús Sánchez grounds into a force out, shortstop Edmundo Sosa to second baseman Bryson Stott. Xavier Edwards out at 2nd.",2024,Cutter
+FC,621237,669394,field_out,hit_into_play,Jake Burger lines out sharply to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,669394,No event,ball,Jake Burger lines out sharply to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,669364,walk,ball,Xavier Edwards walks.,2024,Sinker
+SI,621237,669364,No event,ball,Xavier Edwards walks.,2024,Sinker
+SI,621237,669364,No event,ball,Xavier Edwards walks.,2024,Sinker
+CU,621237,669364,No event,ball,Xavier Edwards walks.,2024,Curveball
+FC,621237,669364,No event,swinging_strike,Xavier Edwards walks.,2024,Cutter
+SI,621237,682073,double,hit_into_play,David Hensley doubles (1) on a line drive to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,682073,No event,ball,David Hensley doubles (1) on a line drive to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,656896,field_out,hit_into_play,"Emmanuel Rivera grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+FC,621237,656896,No event,ball,"Emmanuel Rivera grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+FC,621237,656896,No event,swinging_strike,"Emmanuel Rivera grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+FC,621237,656896,No event,ball,"Emmanuel Rivera grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+SI,621237,656896,No event,called_strike,"Emmanuel Rivera grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+SI,621237,553993,field_out,hit_into_play,Eugenio Suárez lines out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,553993,No event,ball,Eugenio Suárez lines out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,553993,No event,ball,Eugenio Suárez lines out to second baseman Bryson Stott.,2024,Cutter
+FC,621237,545341,field_out,hit_into_play,"Randal Grichuk grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Cutter
+SI,621237,545341,No event,ball,"Randal Grichuk grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Sinker
+FC,621237,545341,No event,ball,"Randal Grichuk grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Cutter
+SI,621237,545341,No event,called_strike,"Randal Grichuk grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Sinker
+CU,621237,605137,field_out,hit_into_play,Josh Bell pops out to catcher J.  T. Realmuto in foul territory.,2024,Curveball
+FC,621237,605137,No event,swinging_strike,Josh Bell pops out to catcher J.  T. Realmuto in foul territory.,2024,Cutter
+SI,621237,682998,home_run,hit_into_play,Corbin Carroll homers (11) on a fly ball to left center field.   Jake McCarthy scores.,2024,Sinker
+SI,621237,664983,single,hit_into_play,Jake McCarthy singles on a line drive to center fielder Cal Stevenson.   Geraldo Perdomo scores.,2024,Sinker
+SI,621237,664983,No event,ball,Jake McCarthy singles on a line drive to center fielder Cal Stevenson.   Geraldo Perdomo scores.,2024,Sinker
+SI,621237,664983,No event,foul,Jake McCarthy singles on a line drive to center fielder Cal Stevenson.   Geraldo Perdomo scores.,2024,Sinker
+FC,621237,664983,No event,blocked_ball,Jake McCarthy singles on a line drive to center fielder Cal Stevenson.   Geraldo Perdomo scores.,2024,Cutter
+FC,621237,664983,No event,blocked_ball,Jake McCarthy singles on a line drive to center fielder Cal Stevenson.   Geraldo Perdomo scores.,2024,Cutter
+SI,621237,664983,No event,called_strike,Jake McCarthy singles on a line drive to center fielder Cal Stevenson.   Geraldo Perdomo scores.,2024,Sinker
+SI,621237,664983,No event,called_strike,Jake McCarthy singles on a line drive to center fielder Cal Stevenson.   Geraldo Perdomo scores.,2024,Sinker
+SI,621237,672695,single,hit_into_play,Geraldo Perdomo singles on a bunt ground ball to third baseman Alec Bohm.,2024,Sinker
+SI,621237,672695,No event,ball,Geraldo Perdomo singles on a bunt ground ball to third baseman Alec Bohm.,2024,Sinker
+FC,621237,621028,strikeout,swinging_strike,Kevin Newman strikes out swinging.,2024,Cutter
+SI,621237,621028,No event,ball,Kevin Newman strikes out swinging.,2024,Sinker
+SI,621237,621028,No event,ball,Kevin Newman strikes out swinging.,2024,Sinker
+FC,621237,621028,No event,foul,Kevin Newman strikes out swinging.,2024,Cutter
+SI,621237,621028,No event,foul,Kevin Newman strikes out swinging.,2024,Sinker
+SI,621237,621028,No event,swinging_strike,Kevin Newman strikes out swinging.,2024,Sinker
+SI,621237,621028,No event,called_strike,Kevin Newman strikes out swinging.,2024,Sinker
+FC,621237,553993,strikeout,swinging_strike_blocked,Eugenio Suárez strikes out swinging.,2024,Cutter
+SI,621237,553993,No event,called_strike,Eugenio Suárez strikes out swinging.,2024,Sinker
+SI,621237,553993,No event,ball,Eugenio Suárez strikes out swinging.,2024,Sinker
+FC,621237,553993,No event,called_strike,Eugenio Suárez strikes out swinging.,2024,Cutter
+SI,621237,545341,walk,blocked_ball,Randal Grichuk walks. Josh Bell to 2nd.,2024,Sinker
+FC,621237,545341,No event,swinging_strike,Randal Grichuk walks. Josh Bell to 2nd.,2024,Cutter
+SI,621237,545341,No event,called_strike,Randal Grichuk walks. Josh Bell to 2nd.,2024,Sinker
+SI,621237,545341,No event,ball,Randal Grichuk walks. Josh Bell to 2nd.,2024,Sinker
+FC,621237,545341,No event,blocked_ball,Randal Grichuk walks. Josh Bell to 2nd.,2024,Cutter
+SI,621237,545341,No event,ball,Randal Grichuk walks. Josh Bell to 2nd.,2024,Sinker
+SI,621237,605137,force_out,hit_into_play,"Josh Bell grounds into a force out, third baseman Alec Bohm to second baseman Edmundo Sosa. Lourdes Gurriel Jr. out at 2nd. Josh Bell to 1st.",2024,Sinker
+SI,621237,605137,No event,called_strike,"Josh Bell grounds into a force out, third baseman Alec Bohm to second baseman Edmundo Sosa. Lourdes Gurriel Jr. out at 2nd. Josh Bell to 1st.",2024,Sinker
+FC,621237,605137,No event,called_strike,"Josh Bell grounds into a force out, third baseman Alec Bohm to second baseman Edmundo Sosa. Lourdes Gurriel Jr. out at 2nd. Josh Bell to 1st.",2024,Cutter
+SI,621237,666971,walk,ball,Lourdes Gurriel Jr. walks.,2024,Sinker
+SI,621237,666971,No event,ball,Lourdes Gurriel Jr. walks.,2024,Sinker
+SI,621237,666971,No event,ball,Lourdes Gurriel Jr. walks.,2024,Sinker
+SI,621237,666971,No event,ball,Lourdes Gurriel Jr. walks.,2024,Sinker
+SI,621237,606192,grounded_into_double_play,hit_into_play,"Teoscar Hernández grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Shohei Ohtani out at 2nd. Teoscar Hernández out at 1st.",2024,Sinker
+SI,621237,606192,No event,called_strike,"Teoscar Hernández grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Shohei Ohtani out at 2nd. Teoscar Hernández out at 1st.",2024,Sinker
+SI,621237,606192,No event,ball,"Teoscar Hernández grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Shohei Ohtani out at 2nd. Teoscar Hernández out at 1st.",2024,Sinker
+FC,621237,606192,No event,ball,"Teoscar Hernández grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Shohei Ohtani out at 2nd. Teoscar Hernández out at 1st.",2024,Cutter
+FC,621237,606192,No event,blocked_ball,"Teoscar Hernández grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Shohei Ohtani out at 2nd. Teoscar Hernández out at 1st.",2024,Cutter
+SI,621237,606192,No event,called_strike,"Teoscar Hernández grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Shohei Ohtani out at 2nd. Teoscar Hernández out at 1st.",2024,Sinker
+FC,621237,660271,force_out,hit_into_play,"Shohei Ohtani grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott. Andy Pages out at 2nd. Shohei Ohtani to 1st.",2024,Cutter
+FC,621237,660271,No event,swinging_strike,"Shohei Ohtani grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott. Andy Pages out at 2nd. Shohei Ohtani to 1st.",2024,Cutter
+FC,621237,681624,single,hit_into_play,Andy Pages singles on a ground ball to third baseman Alec Bohm.,2024,Cutter
+SI,621237,681624,No event,called_strike,Andy Pages singles on a ground ball to third baseman Alec Bohm.,2024,Sinker
+SI,621237,681624,No event,called_strike,Andy Pages singles on a ground ball to third baseman Alec Bohm.,2024,Sinker
+SI,621237,681624,No event,ball,Andy Pages singles on a ground ball to third baseman Alec Bohm.,2024,Sinker
+FC,621237,670042,strikeout,swinging_strike,Luke Raley strikes out swinging.,2024,Cutter
+FC,621237,670042,No event,ball,Luke Raley strikes out swinging.,2024,Cutter
+SI,621237,670042,No event,foul,Luke Raley strikes out swinging.,2024,Sinker
+SI,621237,670042,No event,foul,Luke Raley strikes out swinging.,2024,Sinker
+FC,621237,670042,No event,ball,Luke Raley strikes out swinging.,2024,Cutter
+SI,621237,670042,No event,foul,Luke Raley strikes out swinging.,2024,Sinker
+SI,621237,670042,No event,swinging_strike,Luke Raley strikes out swinging.,2024,Sinker
+SI,621237,670042,No event,foul_tip,Luke Raley strikes out swinging.,2024,Sinker
+SI,621237,571745,field_out,hit_into_play,"Mitch Haniger grounds out, shortstop Trea Turner to first baseman Bryce Harper. Dylan Moore to 3rd.",2024,Sinker
+SI,621237,571745,No event,called_strike,"Mitch Haniger grounds out, shortstop Trea Turner to first baseman Bryce Harper. Dylan Moore to 3rd.",2024,Sinker
+FC,621237,664238,force_out,hit_into_play,"Dylan Moore grounds into a force out, shortstop Trea Turner to second baseman Bryson Stott. Leo Rivas out at 2nd. Dylan Moore advances to 2nd, on a throwing error by second baseman Bryson Stott.",2024,Cutter
+SI,621237,593871,single,hit_into_play,Jorge Polanco singles on a ground ball to left fielder Austin Hays.,2024,Sinker
+SI,621237,593871,No event,called_strike,Jorge Polanco singles on a ground ball to left fielder Austin Hays.,2024,Sinker
+FF,621237,593871,No event,ball,Jorge Polanco singles on a ground ball to left fielder Austin Hays.,2024,4-Seam Fastball
+SI,621237,593871,No event,ball,Jorge Polanco singles on a ground ball to left fielder Austin Hays.,2024,Sinker
+SI,621237,593871,No event,ball,Jorge Polanco singles on a ground ball to left fielder Austin Hays.,2024,Sinker
+SI,621237,670042,strikeout,called_strike,Luke Raley called out on strikes.,2024,Sinker
+FC,621237,670042,No event,ball,Luke Raley called out on strikes.,2024,Cutter
+SI,621237,670042,No event,foul,Luke Raley called out on strikes.,2024,Sinker
+SI,621237,670042,No event,called_strike,Luke Raley called out on strikes.,2024,Sinker
+SI,621237,670042,No event,ball,Luke Raley called out on strikes.,2024,Sinker
+FC,621237,670042,No event,ball,Luke Raley called out on strikes.,2024,Cutter
+FC,621237,571745,home_run,hit_into_play,Mitch Haniger homers (10) on a fly ball to left center field.,2024,Cutter
+SI,621237,571745,No event,called_strike,Mitch Haniger homers (10) on a fly ball to left center field.,2024,Sinker
+SI,621237,664238,field_out,hit_into_play,Dylan Moore flies out to center fielder Johan Rojas.,2024,Sinker
+FC,621237,664238,No event,ball,Dylan Moore flies out to center fielder Johan Rojas.,2024,Cutter
+SI,621237,664238,No event,ball,Dylan Moore flies out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,664238,No event,called_strike,Dylan Moore flies out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,668942,field_out,hit_into_play,Josh Rojas lines out to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,668942,No event,ball,Josh Rojas lines out to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,668942,No event,called_strike,Josh Rojas lines out to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,657077,field_out,hit_into_play,"Alex Verdugo grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+SI,621237,657077,No event,called_strike,"Alex Verdugo grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+SI,621237,657077,No event,ball,"Alex Verdugo grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+FC,621237,682657,field_out,hit_into_play,Angel Martínez lines out to left fielder Austin Hays.,2024,Cutter
+SI,621237,682657,No event,ball,Angel Martínez lines out to left fielder Austin Hays.,2024,Sinker
+FC,621237,682657,No event,foul,Angel Martínez lines out to left fielder Austin Hays.,2024,Cutter
+FC,621237,682657,No event,foul,Angel Martínez lines out to left fielder Austin Hays.,2024,Cutter
+FC,621237,682657,No event,ball,Angel Martínez lines out to left fielder Austin Hays.,2024,Cutter
+FC,621237,682657,No event,foul,Angel Martínez lines out to left fielder Austin Hays.,2024,Cutter
+SI,621237,682657,No event,called_strike,Angel Martínez lines out to left fielder Austin Hays.,2024,Sinker
+SI,621237,680757,home_run,hit_into_play,Steven Kwan homers (11) on a fly ball to right field.,2024,Sinker
+SI,621237,680757,No event,ball,Steven Kwan homers (11) on a fly ball to right field.,2024,Sinker
+SI,621237,666310,field_out,hit_into_play,"Bo Naylor grounds out, first baseman Bryce Harper to pitcher José Alvarado.",2024,Sinker
+SI,621237,666310,No event,foul,"Bo Naylor grounds out, first baseman Bryce Harper to pitcher José Alvarado.",2024,Sinker
+FC,621237,677587,field_out,hit_into_play,"Brayan Rocchio grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Cutter
+SI,621237,677587,No event,foul_tip,"Brayan Rocchio grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+FC,621237,677587,No event,ball,"Brayan Rocchio grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Cutter
+SI,621237,677587,No event,called_strike,"Brayan Rocchio grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+SI,621237,666310,strikeout,swinging_strike,Bo Naylor strikes out swinging.,2024,Sinker
+FC,621237,666310,No event,ball,Bo Naylor strikes out swinging.,2024,Cutter
+SI,621237,666310,No event,called_strike,Bo Naylor strikes out swinging.,2024,Sinker
+FC,621237,666310,No event,ball,Bo Naylor strikes out swinging.,2024,Cutter
+FC,621237,666310,No event,ball,Bo Naylor strikes out swinging.,2024,Cutter
+SI,621237,666310,No event,called_strike,Bo Naylor strikes out swinging.,2024,Sinker
+FC,621237,677587,strikeout,swinging_strike_blocked,"Brayan Rocchio strikes out swinging, catcher J.  T. Realmuto to first baseman Bryce Harper.",2024,Cutter
+FC,621237,677587,No event,swinging_strike,"Brayan Rocchio strikes out swinging, catcher J.  T. Realmuto to first baseman Bryce Harper.",2024,Cutter
+SI,621237,677587,No event,called_strike,"Brayan Rocchio strikes out swinging, catcher J.  T. Realmuto to first baseman Bryce Harper.",2024,Sinker
+SI,621237,677587,No event,ball,"Brayan Rocchio strikes out swinging, catcher J.  T. Realmuto to first baseman Bryce Harper.",2024,Sinker
+SI,621237,671289,field_out,hit_into_play,Tyler Freeman flies out to center fielder Brandon Marsh.,2024,Sinker
+SI,621237,671289,No event,ball,Tyler Freeman flies out to center fielder Brandon Marsh.,2024,Sinker
+FC,621237,665833,strikeout,swinging_strike_blocked,Oneil Cruz strikes out swinging.,2024,Cutter
+FC,621237,665833,No event,ball,Oneil Cruz strikes out swinging.,2024,Cutter
+FC,621237,665833,No event,swinging_strike,Oneil Cruz strikes out swinging.,2024,Cutter
+SI,621237,665833,No event,ball,Oneil Cruz strikes out swinging.,2024,Sinker
+SI,621237,665833,No event,foul,Oneil Cruz strikes out swinging.,2024,Sinker
+FC,621237,668804,strikeout,swinging_strike,Bryan Reynolds strikes out swinging.,2024,Cutter
+SI,621237,668804,No event,called_strike,Bryan Reynolds strikes out swinging.,2024,Sinker
+FC,621237,668804,No event,called_strike,Bryan Reynolds strikes out swinging.,2024,Cutter
+SI,621237,457705,field_out,hit_into_play,Andrew McCutchen pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+SI,621237,457705,No event,swinging_strike,Andrew McCutchen pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+SI,621237,457705,No event,swinging_strike,Andrew McCutchen pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+SI,621237,457705,No event,ball,Andrew McCutchen pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+SI,621237,663698,single,hit_into_play,Joey Bart singles on a ground ball to left fielder Weston Wilson.,2024,Sinker
+SI,621237,663698,No event,called_strike,Joey Bart singles on a ground ball to left fielder Weston Wilson.,2024,Sinker
+FC,621237,693304,single,hit_into_play,Nick Gonzales singles on a ground ball to left fielder Brandon Marsh. Andrew McCutchen scores. Oneil Cruz to 2nd.,2024,Cutter
+SI,621237,665833,fielders_choice,hit_into_play,"Oneil Cruz reaches on a fielder's choice, fielded by second baseman Edmundo Sosa. Michael A. Taylor scores. Andrew McCutchen to 3rd.",2024,Sinker
+SI,621237,665833,No event,foul,"Oneil Cruz reaches on a fielder's choice, fielded by second baseman Edmundo Sosa. Michael A. Taylor scores. Andrew McCutchen to 3rd.",2024,Sinker
+FC,621237,665833,No event,ball,"Oneil Cruz reaches on a fielder's choice, fielded by second baseman Edmundo Sosa. Michael A. Taylor scores. Andrew McCutchen to 3rd.",2024,Cutter
+FC,621237,665833,No event,blocked_ball,"Oneil Cruz reaches on a fielder's choice, fielded by second baseman Edmundo Sosa. Michael A. Taylor scores. Andrew McCutchen to 3rd.",2024,Cutter
+FC,621237,668804,strikeout,swinging_strike,Bryan Reynolds strikes out swinging.,2024,Cutter
+FC,621237,668804,No event,foul,Bryan Reynolds strikes out swinging.,2024,Cutter
+FC,621237,668804,No event,ball,Bryan Reynolds strikes out swinging.,2024,Cutter
+SI,621237,668804,No event,swinging_strike,Bryan Reynolds strikes out swinging.,2024,Sinker
+FC,621237,668804,No event,ball,Bryan Reynolds strikes out swinging.,2024,Cutter
+FC,621237,668804,No event,foul,Bryan Reynolds strikes out swinging.,2024,Cutter
+SI,621237,457705,walk,ball,Andrew McCutchen walks. Michael A. Taylor to 2nd.,2024,Sinker
+SI,621237,457705,No event,called_strike,Andrew McCutchen walks. Michael A. Taylor to 2nd.,2024,Sinker
+SI,621237,457705,No event,ball,Andrew McCutchen walks. Michael A. Taylor to 2nd.,2024,Sinker
+SI,621237,457705,No event,ball,Andrew McCutchen walks. Michael A. Taylor to 2nd.,2024,Sinker
+FC,621237,457705,No event,ball,Andrew McCutchen walks. Michael A. Taylor to 2nd.,2024,Cutter
+FC,621237,656582,single,hit_into_play,Connor Joe singles on a ground ball to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,656582,No event,called_strike,Connor Joe singles on a ground ball to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,667670,strikeout,swinging_strike,Brent Rooker strikes out swinging.,2024,Cutter
+FC,621237,667670,No event,swinging_strike,Brent Rooker strikes out swinging.,2024,Cutter
+FC,621237,667670,No event,blocked_ball,Brent Rooker strikes out swinging.,2024,Cutter
+FC,621237,667670,No event,ball,Brent Rooker strikes out swinging.,2024,Cutter
+FC,621237,667670,No event,swinging_strike,Brent Rooker strikes out swinging.,2024,Cutter
+SI,621237,668709,walk,ball,JJ Bleday walks. Miguel Andujar to 3rd. Zack Gelof to 2nd.,2024,Sinker
+SI,621237,668709,No event,called_strike,JJ Bleday walks. Miguel Andujar to 3rd. Zack Gelof to 2nd.,2024,Sinker
+SI,621237,668709,No event,ball,JJ Bleday walks. Miguel Andujar to 3rd. Zack Gelof to 2nd.,2024,Sinker
+SI,621237,668709,No event,ball,JJ Bleday walks. Miguel Andujar to 3rd. Zack Gelof to 2nd.,2024,Sinker
+SI,621237,668709,No event,ball,JJ Bleday walks. Miguel Andujar to 3rd. Zack Gelof to 2nd.,2024,Sinker
+FC,621237,680869,walk,blocked_ball,Zack Gelof walks.,2024,Cutter
+SI,621237,680869,No event,ball,Zack Gelof walks.,2024,Sinker
+SI,621237,680869,No event,called_strike,Zack Gelof walks.,2024,Sinker
+SI,621237,680869,No event,ball,Zack Gelof walks.,2024,Sinker
+SI,621237,680869,No event,ball,Zack Gelof walks.,2024,Sinker
+SI,621237,609280,double,hit_into_play,Miguel Andujar doubles (9) on a line drive to right fielder Nick Castellanos. Brett Harris scores.,2024,Sinker
+FC,621237,609280,No event,blocked_ball,Miguel Andujar doubles (9) on a line drive to right fielder Nick Castellanos. Brett Harris scores.,2024,Cutter
+FC,621237,609280,No event,ball,Miguel Andujar doubles (9) on a line drive to right fielder Nick Castellanos. Brett Harris scores.,2024,Cutter
+FC,621237,680474,field_out,hit_into_play,Max Schuemann flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,680474,No event,foul,Max Schuemann flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,680474,No event,ball,Max Schuemann flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,695391,single,hit_into_play,Brett Harris singles on a sharp line drive to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,695391,No event,ball,Brett Harris singles on a sharp line drive to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,663662,field_out,hit_into_play,"Daz Cameron grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+FC,621237,663662,No event,ball,"Daz Cameron grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Cutter
+FC,621237,663662,No event,ball,"Daz Cameron grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Cutter
+SI,621237,663662,No event,called_strike,"Daz Cameron grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+FC,621237,571771,grounded_into_double_play,hit_into_play,"Enrique Hernández grounds into a double play, shortstop Trea Turner to second baseman Bryson Stott to first baseman Bryce Harper. Chris Taylor out at 2nd. Enrique Hernández out at 1st.",2024,Cutter
+SI,621237,571771,No event,swinging_strike,"Enrique Hernández grounds into a double play, shortstop Trea Turner to second baseman Bryson Stott to first baseman Bryce Harper. Chris Taylor out at 2nd. Enrique Hernández out at 1st.",2024,Sinker
+SI,621237,621035,walk,ball,Chris Taylor walks.,2024,Sinker
+FC,621237,621035,No event,ball,Chris Taylor walks.,2024,Cutter
+SI,621237,621035,No event,foul,Chris Taylor walks.,2024,Sinker
+FC,621237,621035,No event,ball,Chris Taylor walks.,2024,Cutter
+SI,621237,621035,No event,called_strike,Chris Taylor walks.,2024,Sinker
+FC,621237,621035,No event,ball,Chris Taylor walks.,2024,Cutter
+FC,621237,621035,No event,foul,Chris Taylor walks.,2024,Cutter
+SI,621237,678246,strikeout,called_strike,Miguel Vargas called out on strikes.,2024,Sinker
+SI,621237,678246,No event,foul,Miguel Vargas called out on strikes.,2024,Sinker
+SI,621237,678246,No event,foul,Miguel Vargas called out on strikes.,2024,Sinker
+SI,621237,678246,No event,ball,Miguel Vargas called out on strikes.,2024,Sinker
+SI,621237,678246,No event,ball,Miguel Vargas called out on strikes.,2024,Sinker
+FC,621237,678246,field_out,hit_into_play,"Miguel Vargas grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Cutter
+FC,621237,678246,No event,foul,"Miguel Vargas grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Cutter
+SI,621237,678246,No event,foul,"Miguel Vargas grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+SI,621237,678246,No event,foul,"Miguel Vargas grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+SI,621237,678246,No event,ball,"Miguel Vargas grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+SI,621237,678246,No event,ball,"Miguel Vargas grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+FC,621237,500743,single,hit_into_play,"Dodgers challenged (tag play), call on the field was upheld: Miguel Rojas singles on a line drive to left fielder Whit Merrifield. Andy Pages scores. Miguel Rojas out at 2nd on the throw, left fielder Whit Merrifield to second baseman Bryson Stott.",2024,Cutter
+SI,621237,681624,double,hit_into_play,Andy Pages doubles (14) on a sharp line drive to left fielder Whit Merrifield.,2024,Sinker
+SI,621237,681624,No event,ball,Andy Pages doubles (14) on a sharp line drive to left fielder Whit Merrifield.,2024,Sinker
+SI,621237,681624,No event,ball,Andy Pages doubles (14) on a sharp line drive to left fielder Whit Merrifield.,2024,Sinker
+FC,621237,518692,field_out,hit_into_play,Freddie Freeman lines out sharply to center fielder Brandon Marsh.,2024,Cutter
+FC,621237,518692,No event,ball,Freddie Freeman lines out sharply to center fielder Brandon Marsh.,2024,Cutter
+FC,621237,518692,No event,swinging_strike,Freddie Freeman lines out sharply to center fielder Brandon Marsh.,2024,Cutter
+FC,621237,518692,No event,ball,Freddie Freeman lines out sharply to center fielder Brandon Marsh.,2024,Cutter
+FC,621237,518692,No event,swinging_strike,Freddie Freeman lines out sharply to center fielder Brandon Marsh.,2024,Cutter
+SI,621237,518692,No event,ball,Freddie Freeman lines out sharply to center fielder Brandon Marsh.,2024,Sinker
+SI,621237,518595,field_out,hit_into_play,Travis d'Arnaud lines out to first baseman Alec Bohm.,2024,Sinker
+SI,621237,518595,No event,ball,Travis d'Arnaud lines out to first baseman Alec Bohm.,2024,Sinker
+SI,621237,518595,No event,swinging_strike,Travis d'Arnaud lines out to first baseman Alec Bohm.,2024,Sinker
+SI,621237,518595,No event,foul,Travis d'Arnaud lines out to first baseman Alec Bohm.,2024,Sinker
+SI,621237,518595,No event,ball,Travis d'Arnaud lines out to first baseman Alec Bohm.,2024,Sinker
+SI,621237,542303,home_run,hit_into_play,Marcell Ozuna homers (22) on a fly ball to right center field. Ozzie Albies scores. Austin Riley scores.,2024,Sinker
+FC,621237,542303,No event,ball,Marcell Ozuna homers (22) on a fly ball to right center field. Ozzie Albies scores. Austin Riley scores.,2024,Cutter
+SI,621237,542303,No event,called_strike,Marcell Ozuna homers (22) on a fly ball to right center field. Ozzie Albies scores. Austin Riley scores.,2024,Sinker
+SI,621237,621566,field_out,hit_into_play,Matt Olson flies out to left fielder Cristian Pache.,2024,Sinker
+SI,621237,621566,No event,called_strike,Matt Olson flies out to left fielder Cristian Pache.,2024,Sinker
+SI,621237,621566,No event,ball,Matt Olson flies out to left fielder Cristian Pache.,2024,Sinker
+SI,621237,663586,walk,ball,Austin Riley walks. Ozzie Albies to 2nd.,2024,Sinker
+SI,621237,663586,No event,ball,Austin Riley walks. Ozzie Albies to 2nd.,2024,Sinker
+SI,621237,663586,No event,ball,Austin Riley walks. Ozzie Albies to 2nd.,2024,Sinker
+FC,621237,663586,No event,ball,Austin Riley walks. Ozzie Albies to 2nd.,2024,Cutter
+FC,621237,645277,single,hit_into_play,Ozzie Albies singles on a line drive to left fielder Cristian Pache.,2024,Cutter
+FC,621237,645277,No event,foul,Ozzie Albies singles on a line drive to left fielder Cristian Pache.,2024,Cutter
+FC,621237,645277,No event,swinging_strike,Ozzie Albies singles on a line drive to left fielder Cristian Pache.,2024,Cutter
+SI,621237,645277,No event,swinging_strike,Ozzie Albies singles on a line drive to left fielder Cristian Pache.,2024,Sinker
+FC,621237,645277,No event,ball,Ozzie Albies singles on a line drive to left fielder Cristian Pache.,2024,Cutter
+FC,621237,672284,field_out,hit_into_play,Jarred Kelenic grounds out to first baseman Alec Bohm.,2024,Cutter
+SI,621237,672284,No event,foul,Jarred Kelenic grounds out to first baseman Alec Bohm.,2024,Sinker
+SI,621237,672284,No event,swinging_strike,Jarred Kelenic grounds out to first baseman Alec Bohm.,2024,Sinker
+FC,621237,672284,No event,ball,Jarred Kelenic grounds out to first baseman Alec Bohm.,2024,Cutter
+FC,621237,683737,strikeout,swinging_strike,Michael Busch strikes out swinging.,2024,Cutter
+FC,621237,683737,No event,foul,Michael Busch strikes out swinging.,2024,Cutter
+SI,621237,683737,No event,called_strike,Michael Busch strikes out swinging.,2024,Sinker
+SI,621237,683737,No event,ball,Michael Busch strikes out swinging.,2024,Sinker
+FC,621237,663538,field_out,hit_into_play,Nico Hoerner lines out to center fielder Johan Rojas.,2024,Cutter
+FC,621237,663538,No event,foul,Nico Hoerner lines out to center fielder Johan Rojas.,2024,Cutter
+SI,621237,663538,No event,foul,Nico Hoerner lines out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,663538,No event,foul,Nico Hoerner lines out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,663538,No event,blocked_ball,Nico Hoerner lines out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,623520,single,hit_into_play,David Bote singles on a line drive to left fielder Cristian Pache.,2024,Sinker
+FC,621237,623520,No event,ball,David Bote singles on a line drive to left fielder Cristian Pache.,2024,Cutter
+FC,621237,623520,No event,swinging_strike,David Bote singles on a line drive to left fielder Cristian Pache.,2024,Cutter
+SI,621237,621550,field_out,hit_into_play,"Patrick Wisdom grounds out, second baseman Bryson Stott to first baseman Alec Bohm.",2024,Sinker
+FC,621237,621550,No event,ball,"Patrick Wisdom grounds out, second baseman Bryson Stott to first baseman Alec Bohm.",2024,Cutter
+FC,621237,621550,No event,swinging_strike,"Patrick Wisdom grounds out, second baseman Bryson Stott to first baseman Alec Bohm.",2024,Cutter
+SI,621237,621550,No event,called_strike,"Patrick Wisdom grounds out, second baseman Bryson Stott to first baseman Alec Bohm.",2024,Sinker
+SI,621237,621550,No event,ball,"Patrick Wisdom grounds out, second baseman Bryson Stott to first baseman Alec Bohm.",2024,Sinker
+SI,621237,669394,strikeout,swinging_strike,Jake Burger strikes out swinging.,2024,Sinker
+FC,621237,669394,No event,foul,Jake Burger strikes out swinging.,2024,Cutter
+FC,621237,669394,No event,ball,Jake Burger strikes out swinging.,2024,Cutter
+SI,621237,669394,No event,swinging_strike,Jake Burger strikes out swinging.,2024,Sinker
+FC,621237,669394,No event,ball,Jake Burger strikes out swinging.,2024,Cutter
+SI,621237,669394,No event,foul,Jake Burger strikes out swinging.,2024,Sinker
+FC,621237,669394,No event,ball,Jake Burger strikes out swinging.,2024,Cutter
+SI,621237,660821,field_out,hit_into_play,Jesús Sánchez flies out to left fielder Brandon Marsh in foul territory.,2024,Sinker
+FC,621237,660821,No event,ball,Jesús Sánchez flies out to left fielder Brandon Marsh in foul territory.,2024,Cutter
+FC,621237,660821,No event,ball,Jesús Sánchez flies out to left fielder Brandon Marsh in foul territory.,2024,Cutter
+SI,621237,660821,No event,foul,Jesús Sánchez flies out to left fielder Brandon Marsh in foul territory.,2024,Sinker
+FC,621237,660821,No event,called_strike,Jesús Sánchez flies out to left fielder Brandon Marsh in foul territory.,2024,Cutter
+SI,621237,605137,field_out,hit_into_play,Josh Bell flies out sharply to center fielder Johan Rojas.,2024,Sinker
+FC,621237,672761,strikeout,swinging_strike_blocked,"Wenceel Pérez strikes out swinging, catcher Garrett Stubbs to first baseman Bryce Harper.",2024,Cutter
+FC,621237,672761,No event,swinging_strike,"Wenceel Pérez strikes out swinging, catcher Garrett Stubbs to first baseman Bryce Harper.",2024,Cutter
+SI,621237,672761,No event,called_strike,"Wenceel Pérez strikes out swinging, catcher Garrett Stubbs to first baseman Bryce Harper.",2024,Sinker
+SI,621237,672761,No event,ball,"Wenceel Pérez strikes out swinging, catcher Garrett Stubbs to first baseman Bryce Harper.",2024,Sinker
+SI,621237,672761,No event,ball,"Wenceel Pérez strikes out swinging, catcher Garrett Stubbs to first baseman Bryce Harper.",2024,Sinker
+SI,621237,672761,No event,ball,"Wenceel Pérez strikes out swinging, catcher Garrett Stubbs to first baseman Bryce Harper.",2024,Sinker
+SI,621237,592192,field_out,hit_into_play,Mark Canha flies out sharply to center fielder Brandon Marsh. Andy Ibáñez to 3rd.,2024,Sinker
+SI,621237,592192,No event,ball,Mark Canha flies out sharply to center fielder Brandon Marsh. Andy Ibáñez to 3rd.,2024,Sinker
+SI,621237,682985,field_out,hit_into_play,"Riley Greene grounds out, second baseman Bryson Stott to first baseman Bryce Harper. Andy Ibáñez to 2nd.",2024,Sinker
+SI,621237,628451,single,hit_into_play,Andy Ibáñez singles on a line drive to left fielder David Dahl. Matt Vierling scores.,2024,Sinker
+SI,621237,628451,No event,called_strike,Andy Ibáñez singles on a line drive to left fielder David Dahl. Matt Vierling scores.,2024,Sinker
+SI,621237,628451,No event,ball,Andy Ibáñez singles on a line drive to left fielder David Dahl. Matt Vierling scores.,2024,Sinker
+SI,621237,628451,No event,ball,Andy Ibáñez singles on a line drive to left fielder David Dahl. Matt Vierling scores.,2024,Sinker
+FC,621237,628451,No event,ball,Andy Ibáñez singles on a line drive to left fielder David Dahl. Matt Vierling scores.,2024,Cutter
+SI,621237,663837,double,hit_into_play,Matt Vierling doubles (10) on a sharp line drive to center fielder Brandon Marsh.,2024,Sinker
+SI,621237,663837,No event,ball,Matt Vierling doubles (10) on a sharp line drive to center fielder Brandon Marsh.,2024,Sinker
+FC,621237,553993,strikeout,swinging_strike,Eugenio Suárez strikes out swinging.,2024,Cutter
+FC,621237,553993,No event,ball,Eugenio Suárez strikes out swinging.,2024,Cutter
+FC,621237,553993,No event,ball,Eugenio Suárez strikes out swinging.,2024,Cutter
+SI,621237,553993,No event,called_strike,Eugenio Suárez strikes out swinging.,2024,Sinker
+FC,621237,553993,No event,swinging_strike,Eugenio Suárez strikes out swinging.,2024,Cutter
+SI,621237,553993,No event,ball,Eugenio Suárez strikes out swinging.,2024,Sinker
+SI,621237,664983,field_out,hit_into_play,Jake McCarthy lines out to center fielder Cristian Pache.,2024,Sinker
+FC,621237,664983,No event,ball,Jake McCarthy lines out to center fielder Cristian Pache.,2024,Cutter
+SI,621237,664983,No event,foul,Jake McCarthy lines out to center fielder Cristian Pache.,2024,Sinker
+FC,621237,545341,strikeout,swinging_strike,Randal Grichuk strikes out swinging.,2024,Cutter
+SI,621237,545341,No event,foul,Randal Grichuk strikes out swinging.,2024,Sinker
+SI,621237,545341,No event,ball,Randal Grichuk strikes out swinging.,2024,Sinker
+SI,621237,545341,No event,ball,Randal Grichuk strikes out swinging.,2024,Sinker
+SI,621237,545341,No event,called_strike,Randal Grichuk strikes out swinging.,2024,Sinker
+FC,621237,669134,strikeout,foul_tip,Luis Campusano strikes out on a foul tip.,2024,Cutter
+SI,621237,669134,No event,foul,Luis Campusano strikes out on a foul tip.,2024,Sinker
+SI,621237,669134,No event,ball,Luis Campusano strikes out on a foul tip.,2024,Sinker
+FC,621237,669134,No event,ball,Luis Campusano strikes out on a foul tip.,2024,Cutter
+FC,621237,669134,No event,foul,Luis Campusano strikes out on a foul tip.,2024,Cutter
+SI,621237,543309,field_out,hit_into_play,Kyle Higashioka flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,543309,No event,ball,Kyle Higashioka flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,543309,No event,called_strike,Kyle Higashioka flies out to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,701538,field_out,hit_into_play,"Jackson Merrill grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+SI,621237,701538,No event,ball,"Jackson Merrill grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+FC,621237,701538,No event,ball,"Jackson Merrill grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Cutter
+SI,621237,701538,No event,foul,"Jackson Merrill grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+SI,621237,656775,field_out,hit_into_play,Cedric Mullins pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+SI,621237,656775,No event,ball,Cedric Mullins pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+FC,621237,543510,field_out,hit_into_play,James McCann lines out sharply to third baseman Alec Bohm.,2024,Cutter
+SI,621237,543510,No event,foul,James McCann lines out sharply to third baseman Alec Bohm.,2024,Sinker
+FC,621237,543510,No event,ball,James McCann lines out sharply to third baseman Alec Bohm.,2024,Cutter
+SI,621237,543510,No event,foul,James McCann lines out sharply to third baseman Alec Bohm.,2024,Sinker
+FC,621237,543510,No event,ball,James McCann lines out sharply to third baseman Alec Bohm.,2024,Cutter
+SI,621237,622761,field_out,hit_into_play,Jorge Mateo flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,622761,No event,ball,Jorge Mateo flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,622761,No event,called_strike,Jorge Mateo flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,646240,strikeout,swinging_strike,Rafael Devers strikes out swinging.,2024,Cutter
+FC,621237,646240,No event,ball,Rafael Devers strikes out swinging.,2024,Cutter
+FC,621237,646240,No event,foul,Rafael Devers strikes out swinging.,2024,Cutter
+FC,621237,646240,No event,ball,Rafael Devers strikes out swinging.,2024,Cutter
+SI,621237,646240,No event,called_strike,Rafael Devers strikes out swinging.,2024,Sinker
+SI,621237,608701,field_out,hit_into_play,Rob Refsnyder pops out to first baseman Bryce Harper in foul territory.,2024,Sinker
+FC,621237,608701,No event,ball,Rob Refsnyder pops out to first baseman Bryce Harper in foul territory.,2024,Cutter
+SI,621237,608701,No event,called_strike,Rob Refsnyder pops out to first baseman Bryce Harper in foul territory.,2024,Sinker
+SI,621237,608701,No event,ball,Rob Refsnyder pops out to first baseman Bryce Harper in foul territory.,2024,Sinker
+SI,621237,666152,single,hit_into_play,David Hamilton singles on a line drive to center fielder Johan Rojas.,2024,Sinker
+SI,621237,666152,No event,foul,David Hamilton singles on a line drive to center fielder Johan Rojas.,2024,Sinker
+SI,621237,680776,field_out,hit_into_play,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+SI,621237,680776,No event,foul,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+FC,621237,680776,No event,ball,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+SI,621237,680776,No event,foul,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+SI,621237,680776,No event,ball,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+SI,621237,680776,No event,foul,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+FC,621237,680776,No event,foul,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+FC,621237,680776,No event,ball,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+FC,621237,680776,No event,called_strike,"Jarren Duran grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+SI,621237,607043,strikeout,called_strike,Brandon Nimmo called out on strikes.,2024,Sinker
+SI,621237,607043,No event,ball,Brandon Nimmo called out on strikes.,2024,Sinker
+SI,621237,607043,No event,called_strike,Brandon Nimmo called out on strikes.,2024,Sinker
+FC,621237,607043,No event,ball,Brandon Nimmo called out on strikes.,2024,Cutter
+SI,621237,607043,No event,ball,Brandon Nimmo called out on strikes.,2024,Sinker
+SI,621237,607043,No event,called_strike,Brandon Nimmo called out on strikes.,2024,Sinker
+FC,621237,624413,hit_by_pitch,hit_by_pitch,Pete Alonso hit by pitch. Jeff McNeil scores. Jose Iglesias to 3rd. Luis Torrens to 2nd.,2024,Cutter
+FC,621237,624413,No event,foul,Pete Alonso hit by pitch. Jeff McNeil scores. Jose Iglesias to 3rd. Luis Torrens to 2nd.,2024,Cutter
+SI,621237,624413,No event,ball,Pete Alonso hit by pitch. Jeff McNeil scores. Jose Iglesias to 3rd. Luis Torrens to 2nd.,2024,Sinker
+SI,621237,624413,No event,ball,Pete Alonso hit by pitch. Jeff McNeil scores. Jose Iglesias to 3rd. Luis Torrens to 2nd.,2024,Sinker
+SI,621237,624413,No event,foul,Pete Alonso hit by pitch. Jeff McNeil scores. Jose Iglesias to 3rd. Luis Torrens to 2nd.,2024,Sinker
+FC,621237,596019,strikeout,swinging_strike_blocked,Francisco Lindor strikes out swinging.,2024,Cutter
+FC,621237,596019,No event,ball,Francisco Lindor strikes out swinging.,2024,Cutter
+SI,621237,596019,No event,foul,Francisco Lindor strikes out swinging.,2024,Sinker
+SI,621237,596019,No event,called_strike,Francisco Lindor strikes out swinging.,2024,Sinker
+FC,621237,596019,No event,blocked_ball,Francisco Lindor strikes out swinging.,2024,Cutter
+SI,621237,620443,walk,ball,Luis Torrens walks. Jeff McNeil to 3rd. Mark Vientos to 2nd.,2024,Sinker
+SI,621237,620443,No event,ball,Luis Torrens walks. Jeff McNeil to 3rd. Mark Vientos to 2nd.,2024,Sinker
+FC,621237,620443,No event,ball,Luis Torrens walks. Jeff McNeil to 3rd. Mark Vientos to 2nd.,2024,Cutter
+SI,621237,620443,No event,ball,Luis Torrens walks. Jeff McNeil to 3rd. Mark Vientos to 2nd.,2024,Sinker
+SI,621237,620443,No event,missed_bunt,Luis Torrens walks. Jeff McNeil to 3rd. Mark Vientos to 2nd.,2024,Sinker
+FC,621237,668901,single,hit_into_play,Mark Vientos singles on a ground ball to third baseman Alec Bohm. Tyrone Taylor scores. Jeff McNeil to 2nd.,2024,Cutter
+FC,621237,668901,No event,foul,Mark Vientos singles on a ground ball to third baseman Alec Bohm. Tyrone Taylor scores. Jeff McNeil to 2nd.,2024,Cutter
+SI,621237,668901,No event,called_strike,Mark Vientos singles on a ground ball to third baseman Alec Bohm. Tyrone Taylor scores. Jeff McNeil to 2nd.,2024,Sinker
+SI,621237,643446,single,hit_into_play,Jeff McNeil singles on a ground ball to center fielder Cristian Pache. Tyrone Taylor to 3rd.,2024,Sinker
+SI,621237,643446,No event,ball,Jeff McNeil singles on a ground ball to center fielder Cristian Pache. Tyrone Taylor to 3rd.,2024,Sinker
+FC,621237,621438,walk,ball,Tyrone Taylor walks.,2024,Cutter
+SI,621237,621438,No event,foul,Tyrone Taylor walks.,2024,Sinker
+FC,621237,621438,No event,ball,Tyrone Taylor walks.,2024,Cutter
+FC,621237,621438,No event,foul,Tyrone Taylor walks.,2024,Cutter
+FC,621237,621438,No event,foul,Tyrone Taylor walks.,2024,Cutter
+SI,621237,621438,No event,called_strike,Tyrone Taylor walks.,2024,Sinker
+SI,621237,621438,No event,ball,Tyrone Taylor walks.,2024,Sinker
+SI,621237,621438,No event,foul,Tyrone Taylor walks.,2024,Sinker
+FC,621237,621438,No event,ball,Tyrone Taylor walks.,2024,Cutter
+SI,621237,642715,strikeout,called_strike,Willy Adames called out on strikes.,2024,Sinker
+FC,621237,642715,No event,ball,Willy Adames called out on strikes.,2024,Cutter
+SI,621237,642715,No event,foul,Willy Adames called out on strikes.,2024,Sinker
+FC,621237,642715,No event,swinging_strike,Willy Adames called out on strikes.,2024,Cutter
+FC,621237,642715,No event,blocked_ball,Willy Adames called out on strikes.,2024,Cutter
+SI,621237,642715,No event,foul,Willy Adames called out on strikes.,2024,Sinker
+SI,621237,642715,No event,ball,Willy Adames called out on strikes.,2024,Sinker
+FC,621237,592885,strikeout,swinging_strike,Christian Yelich strikes out swinging.,2024,Cutter
+SI,621237,592885,No event,foul,Christian Yelich strikes out swinging.,2024,Sinker
+FC,621237,592885,No event,ball,Christian Yelich strikes out swinging.,2024,Cutter
+FC,621237,592885,No event,swinging_strike,Christian Yelich strikes out swinging.,2024,Cutter
+SI,621237,592885,No event,called_strike,Christian Yelich strikes out swinging.,2024,Sinker
+SI,621237,661388,single,hit_into_play,William Contreras singles on a sharp line drive to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,661388,No event,foul,William Contreras singles on a sharp line drive to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,661388,No event,ball,William Contreras singles on a sharp line drive to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,661388,No event,swinging_strike,William Contreras singles on a sharp line drive to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,661388,No event,called_strike,William Contreras singles on a sharp line drive to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,655316,strikeout,swinging_strike,Andruw Monasterio strikes out swinging.,2024,Sinker
+FC,621237,655316,No event,called_strike,Andruw Monasterio strikes out swinging.,2024,Cutter
+FC,621237,655316,No event,ball,Andruw Monasterio strikes out swinging.,2024,Cutter
+SI,621237,655316,No event,called_strike,Andruw Monasterio strikes out swinging.,2024,Sinker
+SI,621237,596142,field_out,hit_into_play,Gary Sánchez lines out to third baseman Alec Bohm.,2024,Sinker
+FC,621237,596142,No event,ball,Gary Sánchez lines out to third baseman Alec Bohm.,2024,Cutter
+FC,621237,642715,field_out,hit_into_play,Willy Adames pops out to first baseman Bryce Harper.,2024,Cutter
+FC,621237,642715,No event,foul,Willy Adames pops out to first baseman Bryce Harper.,2024,Cutter
+FC,621237,642715,No event,ball,Willy Adames pops out to first baseman Bryce Harper.,2024,Cutter
+SI,621237,642715,No event,called_strike,Willy Adames pops out to first baseman Bryce Harper.,2024,Sinker
+FC,621237,642715,No event,ball,Willy Adames pops out to first baseman Bryce Harper.,2024,Cutter
+FC,621237,592885,strikeout,swinging_strike,Christian Yelich strikes out swinging.,2024,Cutter
+FC,621237,592885,No event,called_strike,Christian Yelich strikes out swinging.,2024,Cutter
+SI,621237,592885,No event,called_strike,Christian Yelich strikes out swinging.,2024,Sinker
+FC,621237,691026,strikeout,swinging_strike,Masyn Winn strikes out swinging.,2024,Cutter
+FC,621237,691026,No event,foul,Masyn Winn strikes out swinging.,2024,Cutter
+SI,621237,691026,No event,called_strike,Masyn Winn strikes out swinging.,2024,Sinker
+SI,621237,691026,No event,ball,Masyn Winn strikes out swinging.,2024,Sinker
+SI,621237,691026,No event,ball,Masyn Winn strikes out swinging.,2024,Sinker
+SI,621237,691026,No event,called_strike,Masyn Winn strikes out swinging.,2024,Sinker
+SI,621237,691026,No event,ball,Masyn Winn strikes out swinging.,2024,Sinker
+SI,621237,672279,field_out,hit_into_play,"Michael Siani bunt grounds out, pitcher José Alvarado to first baseman Bryce Harper.",2024,Sinker
+SI,621237,666185,field_out,hit_into_play,"Dylan Carlson grounds out, first baseman Bryce Harper to pitcher José Alvarado.",2024,Sinker
+FC,621237,676475,field_out,hit_into_play,"Alec Burleson grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Cutter
+SI,621237,665877,field_out,hit_into_play,José Fermín lines out sharply to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,665877,No event,foul,José Fermín lines out sharply to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,665877,No event,ball,José Fermín lines out sharply to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,665877,No event,foul,José Fermín lines out sharply to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,665877,No event,ball,José Fermín lines out sharply to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,665877,No event,ball,José Fermín lines out sharply to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,665877,No event,called_strike,José Fermín lines out sharply to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,672279,field_out,hit_into_play,"Michael Siani grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Cutter
+SI,621237,672279,No event,foul,"Michael Siani grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+SI,621237,573262,field_out,hit_into_play,"Mike Yastrzemski grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Sinker
+FC,621237,573262,No event,swinging_strike,"Mike Yastrzemski grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper.",2024,Cutter
+FC,621237,682641,No event,ball,José Alvarado intentionally walks Luis Matos.,2024,Cutter
+SI,621237,682641,No event,ball,José Alvarado intentionally walks Luis Matos.,2024,Sinker
+FC,621237,682641,No event,ball,José Alvarado intentionally walks Luis Matos.,2024,Cutter
+SI,621237,527038,field_out,hit_into_play,Wilmer Flores flies out to right fielder Nick Castellanos in foul territory.,2024,Sinker
+SI,621237,527038,No event,called_strike,Wilmer Flores flies out to right fielder Nick Castellanos in foul territory.,2024,Sinker
+SI,621237,527038,No event,blocked_ball,Wilmer Flores flies out to right fielder Nick Castellanos in foul territory.,2024,Sinker
+FC,621237,527038,No event,ball,Wilmer Flores flies out to right fielder Nick Castellanos in foul territory.,2024,Cutter
+SI,621237,671218,strikeout,called_strike,Heliot Ramos called out on strikes.,2024,Sinker
+FC,621237,671218,No event,ball,Heliot Ramos called out on strikes.,2024,Cutter
+FC,621237,671218,No event,ball,Heliot Ramos called out on strikes.,2024,Cutter
+FC,621237,671218,No event,foul,Heliot Ramos called out on strikes.,2024,Cutter
+FC,621237,671218,No event,ball,Heliot Ramos called out on strikes.,2024,Cutter
+FC,621237,671218,No event,foul,Heliot Ramos called out on strikes.,2024,Cutter
+SI,621237,671218,No event,foul,Heliot Ramos called out on strikes.,2024,Sinker
+SI,621237,666149,walk,ball,Tyler Fitzgerald walks.,2024,Sinker
+SI,621237,666149,No event,called_strike,Tyler Fitzgerald walks.,2024,Sinker
+SI,621237,666149,No event,ball,Tyler Fitzgerald walks.,2024,Sinker
+FC,621237,666149,No event,ball,Tyler Fitzgerald walks.,2024,Cutter
+FC,621237,666149,No event,ball,Tyler Fitzgerald walks.,2024,Cutter
+SI,621237,666149,No event,called_strike,Tyler Fitzgerald walks.,2024,Sinker
+FC,621237,663898,field_out,hit_into_play,"Brendan Rodgers grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Cutter
+FC,621237,663898,No event,blocked_ball,"Brendan Rodgers grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Cutter
+FC,621237,663898,No event,ball,"Brendan Rodgers grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Cutter
+FC,621237,663898,No event,swinging_strike,"Brendan Rodgers grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Cutter
+SI,621237,663898,No event,foul,"Brendan Rodgers grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Sinker
+SI,621237,663898,No event,ball,"Brendan Rodgers grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Sinker
+FC,621237,678662,single,hit_into_play,Ezequiel Tovar singles on a ground ball to third baseman Whit Merrifield.,2024,Cutter
+SI,621237,607732,home_run,hit_into_play,Jacob Stallings homers (3) on a fly ball to left center field.,2024,Sinker
+SI,621237,696100,strikeout,called_strike,Hunter Goodman called out on strikes.,2024,Sinker
+SI,621237,696100,No event,ball,Hunter Goodman called out on strikes.,2024,Sinker
+FC,621237,696100,No event,foul,Hunter Goodman called out on strikes.,2024,Cutter
+SI,621237,696100,No event,ball,Hunter Goodman called out on strikes.,2024,Sinker
+FC,621237,696100,No event,ball,Hunter Goodman called out on strikes.,2024,Cutter
+SI,621237,696100,No event,foul,Hunter Goodman called out on strikes.,2024,Sinker
+SI,621237,696100,No event,called_strike,Hunter Goodman called out on strikes.,2024,Sinker
+FC,621237,687597,strikeout,swinging_strike,Jordan Beck strikes out swinging.,2024,Cutter
+SI,621237,687597,No event,swinging_strike,Jordan Beck strikes out swinging.,2024,Sinker
+FC,621237,687597,No event,called_strike,Jordan Beck strikes out swinging.,2024,Cutter
+FC,621237,656537,strikeout,swinging_strike,Derek Hill strikes out swinging.,2024,Cutter
+FC,621237,656537,No event,blocked_ball,Derek Hill strikes out swinging.,2024,Cutter
+SI,621237,656537,No event,foul,Derek Hill strikes out swinging.,2024,Sinker
+SI,621237,656537,No event,foul,Derek Hill strikes out swinging.,2024,Sinker
+SI,621237,656537,No event,foul_tip,Derek Hill strikes out swinging.,2024,Sinker
+FC,621237,666969,walk,ball,Adolis García walks.,2024,Cutter
+SI,621237,666969,No event,ball,Adolis García walks.,2024,Sinker
+SI,621237,666969,No event,swinging_strike,Adolis García walks.,2024,Sinker
+SI,621237,666969,No event,swinging_strike,Adolis García walks.,2024,Sinker
+SI,621237,666969,No event,ball,Adolis García walks.,2024,Sinker
+FC,621237,666969,No event,ball,Adolis García walks.,2024,Cutter
+SI,621237,669701,grounded_into_double_play,hit_into_play,"Josh Smith grounds into a double play, shortstop Edmundo Sosa to second baseman Bryson Stott to first baseman Bryce Harper. Robbie Grossman out at 2nd. Josh Smith out at 1st.",2024,Sinker
+SI,621237,669701,No event,called_strike,"Josh Smith grounds into a double play, shortstop Edmundo Sosa to second baseman Bryson Stott to first baseman Bryce Harper. Robbie Grossman out at 2nd. Josh Smith out at 1st.",2024,Sinker
+FC,621237,543257,single,hit_into_play,"Robbie Grossman singles on a fly ball to shortstop Edmundo Sosa, deflected by left fielder Whit Merrifield.",2024,Cutter
+FC,621237,543257,No event,swinging_strike,"Robbie Grossman singles on a fly ball to shortstop Edmundo Sosa, deflected by left fielder Whit Merrifield.",2024,Cutter
+FC,621237,543257,No event,ball,"Robbie Grossman singles on a fly ball to shortstop Edmundo Sosa, deflected by left fielder Whit Merrifield.",2024,Cutter
+SI,621237,543257,No event,foul,"Robbie Grossman singles on a fly ball to shortstop Edmundo Sosa, deflected by left fielder Whit Merrifield.",2024,Sinker
+FC,621237,608369,strikeout,swinging_strike_blocked,Corey Seager strikes out swinging.,2024,Cutter
+FC,621237,608369,No event,ball,Corey Seager strikes out swinging.,2024,Cutter
+FC,621237,608369,No event,swinging_strike,Corey Seager strikes out swinging.,2024,Cutter
+FC,621237,608369,No event,ball,Corey Seager strikes out swinging.,2024,Cutter
+FC,621237,608369,No event,swinging_strike,Corey Seager strikes out swinging.,2024,Cutter
+FC,621237,543760,strikeout,swinging_strike,Marcus Semien strikes out swinging.,2024,Cutter
+FC,621237,543760,No event,blocked_ball,Marcus Semien strikes out swinging.,2024,Cutter
+FC,621237,543760,No event,swinging_strike,Marcus Semien strikes out swinging.,2024,Cutter
+SI,621237,543760,No event,foul,Marcus Semien strikes out swinging.,2024,Sinker
+SI,621237,543760,No event,ball,Marcus Semien strikes out swinging.,2024,Sinker
+FC,621237,543760,No event,ball,Marcus Semien strikes out swinging.,2024,Cutter
+SI,621237,665750,single,hit_into_play,Leody Taveras singles on a line drive to right fielder Nick Castellanos. Derek Hill to 3rd.,2024,Sinker
+FC,621237,656537,field_error,hit_into_play,Derek Hill reaches on a throwing error by third baseman Alec Bohm.,2024,Cutter
+SI,621237,656537,No event,swinging_strike,Derek Hill reaches on a throwing error by third baseman Alec Bohm.,2024,Sinker
+SI,621237,656537,No event,called_strike,Derek Hill reaches on a throwing error by third baseman Alec Bohm.,2024,Sinker
+SI,621237,669701,field_out,hit_into_play,"Josh Smith grounds out, second baseman Kody Clemens to first baseman Bryce Harper.",2024,Sinker
+SI,621237,669701,No event,called_strike,"Josh Smith grounds out, second baseman Kody Clemens to first baseman Bryce Harper.",2024,Sinker
+SI,621237,592696,field_out,hit_into_play,Eddie Rosario flies out to shortstop Edmundo Sosa.,2024,Sinker
+FC,621237,592696,No event,ball,Eddie Rosario flies out to shortstop Edmundo Sosa.,2024,Cutter
+FC,621237,592696,No event,ball,Eddie Rosario flies out to shortstop Edmundo Sosa.,2024,Cutter
+FC,621237,592696,No event,swinging_strike,Eddie Rosario flies out to shortstop Edmundo Sosa.,2024,Cutter
+SI,621237,592696,No event,foul,Eddie Rosario flies out to shortstop Edmundo Sosa.,2024,Sinker
+SI,621237,592696,No event,ball,Eddie Rosario flies out to shortstop Edmundo Sosa.,2024,Sinker
+SI,621237,682928,field_out,hit_into_play,CJ Abrams pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+SI,621237,682928,No event,swinging_strike,CJ Abrams pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+SI,621237,682928,No event,ball,CJ Abrams pops out to third baseman Alec Bohm in foul territory.,2024,Sinker
+FC,621237,682928,No event,swinging_strike,CJ Abrams pops out to third baseman Alec Bohm in foul territory.,2024,Cutter
+SI,621237,643446,field_out,hit_into_play,Jeff McNeil grounds out to first baseman Bryce Harper.,2024,Sinker
+SI,621237,643446,No event,ball,Jeff McNeil grounds out to first baseman Bryce Harper.,2024,Sinker
+FC,621237,668901,strikeout,swinging_strike,Mark Vientos strikes out swinging.,2024,Cutter
+FC,621237,668901,No event,ball,Mark Vientos strikes out swinging.,2024,Cutter
+SI,621237,668901,No event,swinging_strike,Mark Vientos strikes out swinging.,2024,Sinker
+SI,621237,668901,No event,called_strike,Mark Vientos strikes out swinging.,2024,Sinker
+FC,621237,516782,strikeout,swinging_strike,Starling Marte strikes out swinging.,2024,Cutter
+SI,621237,516782,No event,foul,Starling Marte strikes out swinging.,2024,Sinker
+SI,621237,516782,No event,foul,Starling Marte strikes out swinging.,2024,Sinker
+SI,621237,516782,No event,ball,Starling Marte strikes out swinging.,2024,Sinker
+FC,621237,516782,No event,ball,Starling Marte strikes out swinging.,2024,Cutter
+FC,621237,664056,double,hit_into_play,Harrison Bader doubles (4) on a ground ball to left fielder Whit Merrifield. J.D. Martinez to 3rd.,2024,Cutter
+SI,621237,664056,No event,called_strike,Harrison Bader doubles (4) on a ground ball to left fielder Whit Merrifield. J.D. Martinez to 3rd.,2024,Sinker
+SI,621237,664056,No event,ball,Harrison Bader doubles (4) on a ground ball to left fielder Whit Merrifield. J.D. Martinez to 3rd.,2024,Sinker
+SI,621237,502110,single,hit_into_play,J.D. Martinez singles on a ground ball to right fielder Nick Castellanos. Francisco Lindor scores.,2024,Sinker
+SI,621237,643446,field_out,hit_into_play,Jeff McNeil lines out to shortstop Bryson Stott.,2024,Sinker
+SI,621237,643446,No event,foul,Jeff McNeil lines out to shortstop Bryson Stott.,2024,Sinker
+SI,621237,643446,No event,foul,Jeff McNeil lines out to shortstop Bryson Stott.,2024,Sinker
+SI,621237,643446,No event,foul,Jeff McNeil lines out to shortstop Bryson Stott.,2024,Sinker
+FC,621237,664056,field_out,hit_into_play,"Harrison Bader grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Cutter
+SI,621237,664056,No event,called_strike,"Harrison Bader grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Sinker
+SI,621237,664056,No event,ball,"Harrison Bader grounds out, third baseman Alec Bohm to first baseman Bryce Harper.",2024,Sinker
+SI,621237,621563,field_out,hit_into_play,Joey Wendle bunt pops out softly to third baseman Alec Bohm.,2024,Sinker
+FC,621237,621563,No event,ball,Joey Wendle bunt pops out softly to third baseman Alec Bohm.,2024,Cutter
+SI,621237,660821,field_out,hit_into_play,Jesús Sánchez lines out sharply to shortstop Edmundo Sosa.,2024,Sinker
+SI,621237,660821,No event,foul,Jesús Sánchez lines out sharply to shortstop Edmundo Sosa.,2024,Sinker
+FC,621237,660821,No event,foul,Jesús Sánchez lines out sharply to shortstop Edmundo Sosa.,2024,Cutter
+SI,621237,660821,No event,swinging_strike,Jesús Sánchez lines out sharply to shortstop Edmundo Sosa.,2024,Sinker
+SI,621237,660821,No event,called_strike,Jesús Sánchez lines out sharply to shortstop Edmundo Sosa.,2024,Sinker
+SI,621237,605137,field_out,hit_into_play,"Josh Bell grounds out, shortstop Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+FC,621237,605137,No event,foul,"Josh Bell grounds out, shortstop Edmundo Sosa to first baseman Alec Bohm.",2024,Cutter
+FC,621237,605137,No event,ball,"Josh Bell grounds out, shortstop Edmundo Sosa to first baseman Alec Bohm.",2024,Cutter
+SI,621237,605137,No event,foul,"Josh Bell grounds out, shortstop Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+FC,621237,669394,field_out,hit_into_play,"Jake Burger grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Cutter
+FC,621237,669394,No event,foul,"Jake Burger grounds out, third baseman Whit Merrifield to first baseman Alec Bohm.",2024,Cutter
+FC,621237,656896,strikeout,swinging_strike,Emmanuel Rivera strikes out swinging.,2024,Cutter
+SI,621237,656896,No event,foul,Emmanuel Rivera strikes out swinging.,2024,Sinker
+SI,621237,656896,No event,swinging_strike,Emmanuel Rivera strikes out swinging.,2024,Sinker
+SI,621237,656896,No event,ball,Emmanuel Rivera strikes out swinging.,2024,Sinker
+FC,621237,641313,field_out,hit_into_play,"Tim Anderson grounds out, pitcher José Alvarado to first baseman Bryce Harper.",2024,Cutter
+FC,621237,641313,No event,ball,"Tim Anderson grounds out, pitcher José Alvarado to first baseman Bryce Harper.",2024,Cutter
+FC,621237,641313,No event,foul,"Tim Anderson grounds out, pitcher José Alvarado to first baseman Bryce Harper.",2024,Cutter
+SI,621237,641313,No event,called_strike,"Tim Anderson grounds out, pitcher José Alvarado to first baseman Bryce Harper.",2024,Sinker
+SI,621237,672640,field_out,hit_into_play,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,672640,No event,foul,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Cutter
+FC,621237,672640,No event,foul,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,672640,No event,foul,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,672640,No event,ball,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Cutter
+FC,621237,672640,No event,ball,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Cutter
+FC,621237,672640,No event,foul,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,672640,No event,foul,Otto Lopez lines out sharply to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,808982,field_out,hit_into_play,Jung Hoo Lee flies out to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,808982,No event,foul,Jung Hoo Lee flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,808982,No event,ball,Jung Hoo Lee flies out to right fielder Nick Castellanos.,2024,Cutter
+FC,621237,605113,strikeout,swinging_strike,Nick Ahmed strikes out swinging.,2024,Cutter
+FC,621237,605113,No event,swinging_strike,Nick Ahmed strikes out swinging.,2024,Cutter
+FC,621237,605113,No event,swinging_strike,Nick Ahmed strikes out swinging.,2024,Cutter
+SI,621237,656883,home_run,hit_into_play,Jakson Reetz homers (1) on a fly ball to left field.,2024,Sinker
+FC,621237,656883,No event,ball,Jakson Reetz homers (1) on a fly ball to left field.,2024,Cutter
+SI,621237,656883,No event,foul,Jakson Reetz homers (1) on a fly ball to left field.,2024,Sinker
+SI,621237,656883,No event,ball,Jakson Reetz homers (1) on a fly ball to left field.,2024,Sinker
+SI,621237,642731,field_out,hit_into_play,Thairo Estrada pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,642731,No event,foul,Thairo Estrada pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,642731,No event,ball,Thairo Estrada pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,642731,No event,foul,Thairo Estrada pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,642731,No event,called_strike,Thairo Estrada pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,642731,No event,ball,Thairo Estrada pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,642731,No event,ball,Thairo Estrada pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,527038,strikeout,swinging_strike,Wilmer Flores strikes out swinging.,2024,Cutter
+SI,621237,527038,No event,ball,Wilmer Flores strikes out swinging.,2024,Sinker
+SI,621237,527038,No event,ball,Wilmer Flores strikes out swinging.,2024,Sinker
+FC,621237,527038,No event,foul,Wilmer Flores strikes out swinging.,2024,Cutter
+SI,621237,527038,No event,called_strike,Wilmer Flores strikes out swinging.,2024,Sinker
+SI,621237,527038,No event,called_strike,Wilmer Flores strikes out swinging.,2024,Sinker
+FC,621237,808982,field_out,hit_into_play,"Jung Hoo Lee grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper. Thairo Estrada to 2nd.",2024,Cutter
+FC,621237,808982,No event,called_strike,"Jung Hoo Lee grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper. Thairo Estrada to 2nd.",2024,Cutter
+SI,621237,808982,No event,called_strike,"Jung Hoo Lee grounds out, shortstop Edmundo Sosa to first baseman Bryce Harper. Thairo Estrada to 2nd.",2024,Sinker
+SI,621237,605113,field_out,hit_into_play,Nick Ahmed flies out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,642731,single,hit_into_play,Thairo Estrada singles on a ground ball to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,642731,No event,called_strike,Thairo Estrada singles on a ground ball to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,657061,field_out,hit_into_play,Cole Tucker flies out to right fielder Nick Castellanos.,2024,Cutter
+FC,621237,657061,No event,swinging_strike,Cole Tucker flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,657061,No event,called_strike,Cole Tucker flies out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,657061,No event,ball,Cole Tucker flies out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,607680,single,hit_into_play,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Sinker
+FC,621237,607680,No event,foul,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Cutter
+SI,621237,607680,No event,foul,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Sinker
+SI,621237,607680,No event,ball,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Sinker
+FC,621237,607680,No event,foul,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Cutter
+FC,621237,607680,No event,ball,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Cutter
+SI,621237,607680,No event,foul,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Sinker
+SI,621237,607680,No event,called_strike,Kevin Pillar singles on a ground ball to pitcher José Alvarado. Luis Rengifo to 2nd.,2024,Sinker
+SI,621237,681351,field_out,hit_into_play,Logan O'Hoppe lines out sharply to left fielder Kyle Schwarber.,2024,Sinker
+FC,621237,681351,No event,blocked_ball,Logan O'Hoppe lines out sharply to left fielder Kyle Schwarber.,2024,Cutter
+FC,621237,681351,No event,ball,Logan O'Hoppe lines out sharply to left fielder Kyle Schwarber.,2024,Cutter
+FC,621237,681351,No event,called_strike,Logan O'Hoppe lines out sharply to left fielder Kyle Schwarber.,2024,Cutter
+SI,621237,650859,single,hit_into_play,Luis Rengifo singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Sinker
+FC,621237,650859,No event,foul,Luis Rengifo singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Cutter
+FC,621237,650859,No event,ball,Luis Rengifo singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Cutter
+FC,621237,650859,No event,swinging_strike,Luis Rengifo singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Cutter
+FC,621237,650859,No event,blocked_ball,Luis Rengifo singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Cutter
+SI,621237,650859,No event,swinging_strike,Luis Rengifo singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Sinker
+SI,621237,621493,single,hit_into_play,Taylor Ward singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Sinker
+SI,621237,621493,No event,ball,Taylor Ward singles on a sharp ground ball to left fielder Kyle Schwarber.,2024,Sinker
+SI,621237,657061,field_out,hit_into_play,Cole Tucker lines out to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,657061,No event,foul,Cole Tucker lines out to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,657061,No event,swinging_strike,Cole Tucker lines out to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,657061,No event,blocked_ball,Cole Tucker lines out to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,681351,field_out,hit_into_play,Logan O'Hoppe flies out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,650859,single,hit_into_play,Luis Rengifo singles on a ground ball to second baseman Bryson Stott.,2024,Sinker
+FC,621237,650859,No event,ball,Luis Rengifo singles on a ground ball to second baseman Bryson Stott.,2024,Cutter
+FC,621237,592273,strikeout,swinging_strike,Brandon Drury strikes out swinging.,2024,Cutter
+SI,621237,592273,No event,swinging_strike,Brandon Drury strikes out swinging.,2024,Sinker
+FC,621237,592273,No event,ball,Brandon Drury strikes out swinging.,2024,Cutter
+SI,621237,592273,No event,called_strike,Brandon Drury strikes out swinging.,2024,Sinker
+SI,621237,595777,field_out,hit_into_play,Jurickson Profar lines out to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,595777,No event,called_strike,Jurickson Profar lines out to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,595777,No event,ball,Jurickson Profar lines out to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,669134,strikeout,called_strike,Luis Campusano called out on strikes.,2024,Sinker
+FC,621237,669134,No event,foul,Luis Campusano called out on strikes.,2024,Cutter
+FC,621237,669134,No event,foul,Luis Campusano called out on strikes.,2024,Cutter
+SI,621237,669134,No event,foul,Luis Campusano called out on strikes.,2024,Sinker
+FC,621237,666703,strikeout,swinging_strike,Eguy Rosario strikes out swinging.,2024,Cutter
+FC,621237,666703,No event,ball,Eguy Rosario strikes out swinging.,2024,Cutter
+FC,621237,666703,No event,foul,Eguy Rosario strikes out swinging.,2024,Cutter
+SI,621237,666703,No event,called_strike,Eguy Rosario strikes out swinging.,2024,Sinker
+FC,621237,669352,strikeout,foul_tip,Bubba Thompson strikes out on a foul tip.,2024,Cutter
+FC,621237,669352,No event,ball,Bubba Thompson strikes out on a foul tip.,2024,Cutter
+FC,621237,669352,No event,foul,Bubba Thompson strikes out on a foul tip.,2024,Cutter
+SI,621237,669352,No event,ball,Bubba Thompson strikes out on a foul tip.,2024,Sinker
+FC,621237,669352,No event,foul,Bubba Thompson strikes out on a foul tip.,2024,Cutter
+SI,621237,669352,No event,ball,Bubba Thompson strikes out on a foul tip.,2024,Sinker
+FC,621237,669352,No event,swinging_strike,Bubba Thompson strikes out on a foul tip.,2024,Cutter
+SI,621237,687952,walk,ball,Christian Encarnacion-Strand walks.,2024,Sinker
+SI,621237,687952,No event,ball,Christian Encarnacion-Strand walks.,2024,Sinker
+SI,621237,687952,No event,ball,Christian Encarnacion-Strand walks.,2024,Sinker
+SI,621237,687952,No event,ball,Christian Encarnacion-Strand walks.,2024,Sinker
+SI,621237,668715,sac_fly,hit_into_play,Spencer Steer out on a sacrifice fly to right fielder Nick Castellanos. Elly De La Cruz scores.,2024,Sinker
+SI,621237,668715,No event,called_strike,Spencer Steer out on a sacrifice fly to right fielder Nick Castellanos. Elly De La Cruz scores.,2024,Sinker
+FC,621237,668715,No event,ball,Spencer Steer out on a sacrifice fly to right fielder Nick Castellanos. Elly De La Cruz scores.,2024,Cutter
+SI,621237,668715,No event,ball,Spencer Steer out on a sacrifice fly to right fielder Nick Castellanos. Elly De La Cruz scores.,2024,Sinker
+SI,621237,682829,single,hit_into_play,Elly De La Cruz singles on a sharp line drive to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,682829,No event,ball,Elly De La Cruz singles on a sharp line drive to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,682829,No event,ball,Elly De La Cruz singles on a sharp line drive to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,682829,No event,ball,Elly De La Cruz singles on a sharp line drive to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,682829,No event,called_strike,Elly De La Cruz singles on a sharp line drive to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,666181,field_out,hit_into_play,"Will Benson grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+SI,621237,666181,No event,foul,"Will Benson grounds out, third baseman Edmundo Sosa to first baseman Alec Bohm.",2024,Sinker
+SI,621237,643217,field_out,hit_into_play,Andrew Benintendi grounds out to first baseman Bryce Harper.,2024,Sinker
+FC,621237,656248,field_out,hit_into_play,Sean Bouchard pops out to second baseman Bryson Stott.,2024,Cutter
+FC,621237,656248,No event,foul,Sean Bouchard pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,656248,No event,called_strike,Sean Bouchard pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,656248,No event,ball,Sean Bouchard pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,656248,No event,called_strike,Sean Bouchard pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,656248,No event,ball,Sean Bouchard pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,660707,single,hit_into_play,Elehuris Montero singles on a ground ball to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,660707,No event,foul,Elehuris Montero singles on a ground ball to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,660707,No event,called_strike,Elehuris Montero singles on a ground ball to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,660707,No event,swinging_strike,Elehuris Montero singles on a ground ball to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,553869,field_out,hit_into_play,Elias Díaz pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,553869,No event,ball,Elias Díaz pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,553869,No event,ball,Elias Díaz pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,553869,No event,ball,Elias Díaz pops out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,553869,No event,foul,Elias Díaz pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,641857,strikeout,swinging_strike,Ryan McMahon strikes out swinging.,2024,Cutter
+SI,621237,641857,No event,called_strike,Ryan McMahon strikes out swinging.,2024,Sinker
+SI,621237,641857,No event,called_strike,Ryan McMahon strikes out swinging.,2024,Sinker
+SI,621237,453568,grounded_into_double_play,hit_into_play,"Charlie Blackmon grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Brenton Doyle out at 2nd. Charlie Blackmon out at 1st.",2024,Sinker
+SI,621237,453568,No event,called_strike,"Charlie Blackmon grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Brenton Doyle out at 2nd. Charlie Blackmon out at 1st.",2024,Sinker
+SI,621237,642133,strikeout,swinging_strike,Rowdy Tellez strikes out swinging.,2024,Sinker
+SI,621237,642133,No event,foul,Rowdy Tellez strikes out swinging.,2024,Sinker
+FC,621237,642133,No event,swinging_strike,Rowdy Tellez strikes out swinging.,2024,Cutter
+SI,621237,642133,No event,ball,Rowdy Tellez strikes out swinging.,2024,Sinker
+SI,621237,642133,No event,called_strike,Rowdy Tellez strikes out swinging.,2024,Sinker
+SI,621237,658668,field_out,hit_into_play,"Edward Olivares grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+SI,621237,658668,No event,ball,"Edward Olivares grounds out, shortstop Trea Turner to first baseman Bryce Harper.",2024,Sinker
+SI,621237,669261,field_out,hit_into_play,Jack Suwinski lines out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,669261,No event,swinging_strike,Jack Suwinski lines out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,669261,No event,called_strike,Jack Suwinski lines out to second baseman Bryson Stott.,2024,Sinker
+SI,621237,669357,field_out,hit_into_play,Nolan Gorman flies out to center fielder Johan Rojas.,2024,Sinker
+SI,621237,669357,No event,foul,Nolan Gorman flies out to center fielder Johan Rojas.,2024,Sinker
+FC,621237,669357,No event,ball,Nolan Gorman flies out to center fielder Johan Rojas.,2024,Cutter
+FC,621237,669357,No event,blocked_ball,Nolan Gorman flies out to center fielder Johan Rojas.,2024,Cutter
+FC,621237,669357,No event,called_strike,Nolan Gorman flies out to center fielder Johan Rojas.,2024,Cutter
+SI,621237,669357,No event,called_strike,Nolan Gorman flies out to center fielder Johan Rojas.,2024,Sinker
+FC,621237,502671,field_out,hit_into_play,Paul Goldschmidt flies out sharply to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,502671,No event,foul,Paul Goldschmidt flies out sharply to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,502671,No event,ball,Paul Goldschmidt flies out sharply to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,502671,No event,ball,Paul Goldschmidt flies out sharply to left fielder Brandon Marsh.,2024,Sinker
+FC,621237,502671,No event,foul,Paul Goldschmidt flies out sharply to left fielder Brandon Marsh.,2024,Cutter
+FC,621237,502671,No event,foul,Paul Goldschmidt flies out sharply to left fielder Brandon Marsh.,2024,Cutter
+SI,621237,502671,No event,called_strike,Paul Goldschmidt flies out sharply to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,680977,walk,ball,Brendan Donovan walks.,2024,Sinker
+SI,621237,680977,No event,foul,Brendan Donovan walks.,2024,Sinker
+SI,621237,680977,No event,called_strike,Brendan Donovan walks.,2024,Sinker
+SI,621237,680977,No event,ball,Brendan Donovan walks.,2024,Sinker
+SI,621237,680977,No event,ball,Brendan Donovan walks.,2024,Sinker
+FC,621237,680977,No event,ball,Brendan Donovan walks.,2024,Cutter
+FC,621237,687363,strikeout,called_strike,Victor Scott II called out on strikes.,2024,Cutter
+SI,621237,687363,No event,foul_bunt,Victor Scott II called out on strikes.,2024,Sinker
+SI,621237,687363,No event,foul,Victor Scott II called out on strikes.,2024,Sinker
+SI,621237,687363,No event,ball,Victor Scott II called out on strikes.,2024,Sinker
+SI,621237,702358,strikeout,called_strike,Trey Lipscomb called out on strikes.,2024,Sinker
+SI,621237,702358,No event,foul,Trey Lipscomb called out on strikes.,2024,Sinker
+SI,621237,702358,No event,called_strike,Trey Lipscomb called out on strikes.,2024,Sinker
+SI,621237,702358,No event,ball,Trey Lipscomb called out on strikes.,2024,Sinker
+SI,621237,702358,No event,ball,Trey Lipscomb called out on strikes.,2024,Sinker
+SI,621237,545121,force_out,hit_into_play,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Sinker
+SI,621237,545121,No event,foul,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Sinker
+SI,621237,545121,No event,foul,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Sinker
+FC,621237,545121,No event,ball,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Cutter
+SI,621237,545121,No event,foul,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Sinker
+SI,621237,545121,No event,foul,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Sinker
+FC,621237,545121,No event,ball,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Cutter
+SI,621237,545121,No event,called_strike,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Sinker
+FC,621237,545121,No event,blocked_ball,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Cutter
+FC,621237,545121,No event,called_strike,"Ildemaro Vargas grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott.   Jesse Winker out at 2nd.    Ildemaro Vargas to 1st.",2024,Cutter
+SI,621237,608385,walk,ball,Jesse Winker walks.,2024,Sinker
+SI,621237,608385,No event,foul,Jesse Winker walks.,2024,Sinker
+SI,621237,608385,No event,foul,Jesse Winker walks.,2024,Sinker
+FC,621237,608385,No event,ball,Jesse Winker walks.,2024,Cutter
+SI,621237,608385,No event,called_strike,Jesse Winker walks.,2024,Sinker
+SI,621237,608385,No event,ball,Jesse Winker walks.,2024,Sinker
+SI,621237,608385,No event,called_strike,Jesse Winker walks.,2024,Sinker
+SI,621237,608385,No event,ball,Jesse Winker walks.,2024,Sinker
+SI,621237,660688,field_out,hit_into_play,"Keibert Ruiz grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+FC,621237,660688,No event,foul,"Keibert Ruiz grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Cutter
+FC,621237,660688,No event,foul,"Keibert Ruiz grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Cutter
+FC,621237,660688,No event,swinging_strike,"Keibert Ruiz grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Cutter
+SI,621237,660688,No event,called_strike,"Keibert Ruiz grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",2024,Sinker
+SI,621237,660688,field_out,hit_into_play,Keibert Ruiz pops out to first baseman Bryce Harper.,2024,Sinker
+SI,621237,608336,strikeout,called_strike,Joey Gallo called out on strikes.,2024,Sinker
+SI,621237,608336,No event,foul,Joey Gallo called out on strikes.,2024,Sinker
+SI,621237,608336,No event,foul,Joey Gallo called out on strikes.,2024,Sinker
+SI,621237,608336,No event,ball,Joey Gallo called out on strikes.,2024,Sinker
+FC,621237,608336,No event,blocked_ball,Joey Gallo called out on strikes.,2024,Cutter
+SI,621237,608336,No event,foul,Joey Gallo called out on strikes.,2024,Sinker
+SI,621237,608336,No event,ball,Joey Gallo called out on strikes.,2024,Sinker
+SI,621237,608336,No event,called_strike,Joey Gallo called out on strikes.,2024,Sinker
+FC,621237,608841,force_out,hit_into_play,"Joey Meneses grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott. Jesse Winker out at 2nd. Joey Meneses to 1st.",2024,Cutter
+SI,621237,608841,No event,called_strike,"Joey Meneses grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott. Jesse Winker out at 2nd. Joey Meneses to 1st.",2024,Sinker
+SI,621237,608841,No event,ball,"Joey Meneses grounds into a force out, third baseman Alec Bohm to second baseman Bryson Stott. Jesse Winker out at 2nd. Joey Meneses to 1st.",2024,Sinker
+SI,621237,608385,walk,ball,Jesse Winker walks.,2024,Sinker
+SI,621237,608385,No event,ball,Jesse Winker walks.,2024,Sinker
+SI,621237,608385,No event,ball,Jesse Winker walks.,2024,Sinker
+FC,621237,608385,No event,ball,Jesse Winker walks.,2024,Cutter
+SI,621237,608385,No event,called_strike,Jesse Winker walks.,2024,Sinker
+FC,621237,571912,strikeout,swinging_strike,Luke Maile strikes out swinging.,2024,Cutter
+SI,621237,571912,No event,called_strike,Luke Maile strikes out swinging.,2024,Sinker
+SI,621237,571912,No event,foul,Luke Maile strikes out swinging.,2024,Sinker
+SI,621237,571912,No event,ball,Luke Maile strikes out swinging.,2024,Sinker
+SI,621237,656413,walk,ball,Stuart Fairchild walks.,2024,Sinker
+SI,621237,656413,No event,foul_tip,Stuart Fairchild walks.,2024,Sinker
+FC,621237,656413,No event,ball,Stuart Fairchild walks.,2024,Cutter
+SI,621237,656413,No event,ball,Stuart Fairchild walks.,2024,Sinker
+SI,621237,656413,No event,called_strike,Stuart Fairchild walks.,2024,Sinker
+FC,621237,656413,No event,ball,Stuart Fairchild walks.,2024,Cutter
+FC,621237,682829,strikeout,swinging_strike,Elly De La Cruz strikes out swinging.,2024,Cutter
+FC,621237,682829,No event,ball,Elly De La Cruz strikes out swinging.,2024,Cutter
+FC,621237,682829,No event,swinging_strike,Elly De La Cruz strikes out swinging.,2024,Cutter
+SI,621237,682829,No event,foul_bunt,Elly De La Cruz strikes out swinging.,2024,Sinker
+SI,621237,669289,field_out,hit_into_play,Santiago Espinal flies out to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,671739,field_out,hit_into_play,Michael Harris II lines out sharply to right fielder Nick Castellanos.,2024,Sinker
+SI,621237,671739,No event,ball,Michael Harris II lines out sharply to right fielder Nick Castellanos.,2024,Sinker
+FC,621237,671739,No event,swinging_strike,Michael Harris II lines out sharply to right fielder Nick Castellanos.,2024,Cutter
+SI,621237,594807,field_out,hit_into_play,Adam Duvall pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,594807,No event,ball,Adam Duvall pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,594807,No event,foul,Adam Duvall pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,594807,No event,ball,Adam Duvall pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,594807,No event,called_strike,Adam Duvall pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,594807,No event,ball,Adam Duvall pops out to second baseman Bryson Stott.,2024,Cutter
+SI,621237,594807,No event,called_strike,Adam Duvall pops out to second baseman Bryson Stott.,2024,Sinker
+FC,621237,542303,strikeout,swinging_strike_blocked,Marcell Ozuna strikes out swinging.,2024,Cutter
+FC,621237,542303,No event,foul,Marcell Ozuna strikes out swinging.,2024,Cutter
+SI,621237,542303,No event,called_strike,Marcell Ozuna strikes out swinging.,2024,Sinker
+SI,621237,660670,single,hit_into_play,Ronald Acuña Jr. singles on a ground ball to left fielder Brandon Marsh. Michael Harris II scores. Travis d'Arnaud to 3rd. Adam Duvall to 2nd.,2024,Sinker
+FC,621237,660670,No event,ball,Ronald Acuña Jr. singles on a ground ball to left fielder Brandon Marsh. Michael Harris II scores. Travis d'Arnaud to 3rd. Adam Duvall to 2nd.,2024,Cutter
+FC,621237,660670,No event,ball,Ronald Acuña Jr. singles on a ground ball to left fielder Brandon Marsh. Michael Harris II scores. Travis d'Arnaud to 3rd. Adam Duvall to 2nd.,2024,Cutter
+SI,621237,660670,No event,foul,Ronald Acuña Jr. singles on a ground ball to left fielder Brandon Marsh. Michael Harris II scores. Travis d'Arnaud to 3rd. Adam Duvall to 2nd.,2024,Sinker
+SI,621237,594807,walk,ball,Adam Duvall walks. Michael Harris II to 3rd. Travis d'Arnaud to 2nd.,2024,Sinker
+SI,621237,594807,No event,called_strike,Adam Duvall walks. Michael Harris II to 3rd. Travis d'Arnaud to 2nd.,2024,Sinker
+FC,621237,594807,No event,blocked_ball,Adam Duvall walks. Michael Harris II to 3rd. Travis d'Arnaud to 2nd.,2024,Cutter
+SI,621237,594807,No event,called_strike,Adam Duvall walks. Michael Harris II to 3rd. Travis d'Arnaud to 2nd.,2024,Sinker
+SI,621237,594807,No event,ball,Adam Duvall walks. Michael Harris II to 3rd. Travis d'Arnaud to 2nd.,2024,Sinker
+SI,621237,594807,No event,ball,Adam Duvall walks. Michael Harris II to 3rd. Travis d'Arnaud to 2nd.,2024,Sinker
+SI,621237,606115,strikeout,swinging_strike,Orlando Arcia strikes out swinging.,2024,Sinker
+SI,621237,606115,No event,ball,Orlando Arcia strikes out swinging.,2024,Sinker
+FC,621237,606115,No event,foul,Orlando Arcia strikes out swinging.,2024,Cutter
+SI,621237,606115,No event,ball,Orlando Arcia strikes out swinging.,2024,Sinker
+FC,621237,606115,No event,foul,Orlando Arcia strikes out swinging.,2024,Cutter
+FC,621237,606115,No event,foul,Orlando Arcia strikes out swinging.,2024,Cutter
+SI,621237,606115,No event,foul,Orlando Arcia strikes out swinging.,2024,Sinker
+SI,621237,606115,No event,ball,Orlando Arcia strikes out swinging.,2024,Sinker
+FC,621237,606115,No event,foul,Orlando Arcia strikes out swinging.,2024,Cutter
+SI,621237,518595,walk,ball,Travis d'Arnaud walks. Michael Harris II to 2nd.,2024,Sinker
+SI,621237,518595,No event,ball,Travis d'Arnaud walks. Michael Harris II to 2nd.,2024,Sinker
+FC,621237,518595,No event,ball,Travis d'Arnaud walks. Michael Harris II to 2nd.,2024,Cutter
+FC,621237,518595,No event,ball,Travis d'Arnaud walks. Michael Harris II to 2nd.,2024,Cutter
+SI,621237,518595,No event,foul,Travis d'Arnaud walks. Michael Harris II to 2nd.,2024,Sinker
+SI,621237,671739,single,hit_into_play,Michael Harris II singles on a ground ball to center fielder Johan Rojas. Matt Olson scores.,2024,Sinker
+SI,621237,671739,No event,foul,Michael Harris II singles on a ground ball to center fielder Johan Rojas. Matt Olson scores.,2024,Sinker
+SI,621237,542303,field_out,hit_into_play,Marcell Ozuna flies out to right fielder Nick Castellanos. Matt Olson to 3rd.,2024,Sinker
+SI,621237,542303,No event,ball,Marcell Ozuna flies out to right fielder Nick Castellanos. Matt Olson to 3rd.,2024,Sinker
+FC,621237,542303,No event,blocked_ball,Marcell Ozuna flies out to right fielder Nick Castellanos. Matt Olson to 3rd.,2024,Cutter
+SI,621237,621566,double,hit_into_play,Matt Olson doubles (2) on a line drive to left fielder Brandon Marsh.,2024,Sinker
+SI,621237,681333,field_out,hit_into_play,"Dru Baker grounds out, second baseman Kendall Simmons to first baseman Keaton Anthony.",2024,Sinker
+SI,621237,681333,No event,foul,"Dru Baker grounds out, second baseman Kendall Simmons to first baseman Keaton Anthony.",2024,Sinker
+SI,621237,681333,No event,swinging_strike,"Dru Baker grounds out, second baseman Kendall Simmons to first baseman Keaton Anthony.",2024,Sinker
+FC,621237,681333,No event,ball,"Dru Baker grounds out, second baseman Kendall Simmons to first baseman Keaton Anthony.",2024,Cutter
+FC,621237,681333,No event,ball,"Dru Baker grounds out, second baseman Kendall Simmons to first baseman Keaton Anthony.",2024,Cutter
+SI,621237,681333,No event,called_strike,"Dru Baker grounds out, second baseman Kendall Simmons to first baseman Keaton Anthony.",2024,Sinker
+SI,621237,656577,home_run,hit_into_play,Alex Jackson homers (1) on a fly ball to left center field.,2024,Sinker
+SI,621237,676609,field_out,hit_into_play,José Caballero flies out to right fielder Cristian Pache.,2024,Sinker
+FC,621237,800343,strikeout,swinging_strike,Jose Sanabria strikes out swinging.,2024,Cutter
+SI,621237,800343,No event,called_strike,Jose Sanabria strikes out swinging.,2024,Sinker
+SI,621237,800343,No event,foul,Jose Sanabria strikes out swinging.,2024,Sinker
+SI,621237,800343,No event,ball,Jose Sanabria strikes out swinging.,2024,Sinker
+FC,621237,628451,field_out,hit_into_play,Andy Ibáñez lines out to first baseman Alec Bohm.,2024,Cutter
+SI,621237,628451,No event,ball,Andy Ibáñez lines out to first baseman Alec Bohm.,2024,Sinker
+SI,621237,628451,No event,foul,Andy Ibáñez lines out to first baseman Alec Bohm.,2024,Sinker
+FC,621237,628451,No event,foul,Andy Ibáñez lines out to first baseman Alec Bohm.,2024,Cutter
+FC,621237,628451,No event,foul,Andy Ibáñez lines out to first baseman Alec Bohm.,2024,Cutter
+SI,621237,628451,No event,called_strike,Andy Ibáñez lines out to first baseman Alec Bohm.,2024,Sinker
+FC,621237,628451,No event,ball,Andy Ibáñez lines out to first baseman Alec Bohm.,2024,Cutter
+SI,621237,668670,field_out,hit_into_play,Jake Rogers flies out to center fielder Brandon Marsh.,2024,Sinker
+SI,621237,668670,No event,called_strike,Jake Rogers flies out to center fielder Brandon Marsh.,2024,Sinker
+SI,621237,668670,No event,called_strike,Jake Rogers flies out to center fielder Brandon Marsh.,2024,Sinker
+SI,621237,642133,strikeout,swinging_strike,Rowdy Tellez strikes out swinging.,2024,Sinker
+SI,621237,642133,No event,foul,Rowdy Tellez strikes out swinging.,2024,Sinker
+FC,621237,642133,No event,blocked_ball,Rowdy Tellez strikes out swinging.,2024,Cutter
+FC,621237,642133,No event,foul,Rowdy Tellez strikes out swinging.,2024,Cutter
+SI,621237,642133,No event,called_strike,Rowdy Tellez strikes out swinging.,2024,Sinker
+FC,621237,680779,walk,ball,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Cutter
+SI,621237,680779,No event,foul,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Sinker
+SI,621237,680779,No event,foul,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Sinker
+FC,621237,680779,No event,blocked_ball,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Cutter
+SI,621237,680779,No event,swinging_strike,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Sinker
+SI,621237,680779,No event,foul,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Sinker
+SI,621237,680779,No event,ball,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Sinker
+FC,621237,680779,No event,ball,Henry Davis walks. Ke'Bryan Hayes to 2nd.,2024,Cutter
+FC,621237,669261,strikeout,swinging_strike,Jack Suwinski strikes out swinging.,2024,Cutter
+FC,621237,669261,No event,ball,Jack Suwinski strikes out swinging.,2024,Cutter
+SI,621237,669261,No event,foul,Jack Suwinski strikes out swinging.,2024,Sinker
+SI,621237,669261,No event,called_strike,Jack Suwinski strikes out swinging.,2024,Sinker
+FC,621237,663647,single,hit_into_play,Ke'Bryan Hayes singles on a ground ball to shortstop Aidan Miller.,2024,Cutter
+SI,621237,663647,No event,called_strike,Ke'Bryan Hayes singles on a ground ball to shortstop Aidan Miller.,2024,Sinker
+FC,621237,677800,strikeout,swinging_strike,Wilyer Abreu strikes out swinging.,2024,Cutter
+FC,621237,677800,No event,foul,Wilyer Abreu strikes out swinging.,2024,Cutter
+SI,621237,677800,No event,swinging_strike,Wilyer Abreu strikes out swinging.,2024,Sinker
+SI,621237,641933,field_out,hit_into_play,Tyler O'Neill flies out to right fielder Weston Wilson.   David Hamilton to 3rd.,2024,Sinker
+SI,621237,641933,No event,swinging_strike,Tyler O'Neill flies out to right fielder Weston Wilson.   David Hamilton to 3rd.,2024,Sinker
+SI,621237,641933,No event,called_strike,Tyler O'Neill flies out to right fielder Weston Wilson.   David Hamilton to 3rd.,2024,Sinker
+SI,621237,641933,No event,ball,Tyler O'Neill flies out to right fielder Weston Wilson.   David Hamilton to 3rd.,2024,Sinker
+SI,621237,641933,No event,ball,Tyler O'Neill flies out to right fielder Weston Wilson.   David Hamilton to 3rd.,2024,Sinker
+SI,621237,641933,No event,ball,Tyler O'Neill flies out to right fielder Weston Wilson.   David Hamilton to 3rd.,2024,Sinker
+SI,621237,666152,single,hit_into_play,David Hamilton singles on a ground ball to pitcher José Alvarado.,2024,Sinker
+FC,621237,666152,No event,ball,David Hamilton singles on a ground ball to pitcher José Alvarado.,2024,Cutter
+FC,621237,666152,No event,foul,David Hamilton singles on a ground ball to pitcher José Alvarado.,2024,Cutter
+FC,621237,666152,No event,swinging_strike,David Hamilton singles on a ground ball to pitcher José Alvarado.,2024,Cutter
+FC,621237,666915,field_out,hit_into_play,Bobby Dalbec flies out sharply to center fielder Cristian Pache.,2024,Cutter
+SI,621237,666915,No event,swinging_strike,Bobby Dalbec flies out sharply to center fielder Cristian Pache.,2024,Sinker
+SI,621237,666915,No event,ball,Bobby Dalbec flies out sharply to center fielder Cristian Pache.,2024,Sinker
+SI,621237,663967,field_out,hit_into_play,César Salazar lines out to left fielder Ethan Wilson.,2024,Sinker
+FC,621237,694376,strikeout,called_strike,Shay Whitcomb called out on strikes.,2024,Cutter
+FC,621237,694376,No event,ball,Shay Whitcomb called out on strikes.,2024,Cutter
+FC,621237,694376,No event,foul,Shay Whitcomb called out on strikes.,2024,Cutter
+SI,621237,694376,No event,called_strike,Shay Whitcomb called out on strikes.,2024,Sinker
+SI,621237,694376,No event,ball,Shay Whitcomb called out on strikes.,2024,Sinker
+SI,621237,666197,field_out,hit_into_play,"Grae Kessinger grounds out, shortstop Scott Kingery to first baseman William Simoneit.",2024,Sinker
+FC,621237,669304,field_out,hit_into_play,Jose Miranda pops out to shortstop Rodolfo Castro.,2024,Cutter
+SI,621237,669304,No event,called_strike,Jose Miranda pops out to shortstop Rodolfo Castro.,2024,Sinker
+SI,621237,669304,No event,called_strike,Jose Miranda pops out to shortstop Rodolfo Castro.,2024,Sinker
+FC,621237,670242,double,hit_into_play,Matt Wallner doubles (1) on a sharp line drive to center fielder Cal Stevenson.,2024,Cutter
+SI,621237,670242,No event,called_strike,Matt Wallner doubles (1) on a sharp line drive to center fielder Cal Stevenson.,2024,Sinker
+SI,621237,670242,No event,ball,Matt Wallner doubles (1) on a sharp line drive to center fielder Cal Stevenson.,2024,Sinker
+SI,621237,680777,home_run,hit_into_play,Ryan Jeffers homers (1) on a fly ball to center field.,2024,Sinker
+FC,621237,680777,No event,ball,Ryan Jeffers homers (1) on a fly ball to center field.,2024,Cutter
+SI,621237,680777,No event,called_strike,Ryan Jeffers homers (1) on a fly ball to center field.,2024,Sinker
+SI,621237,680777,No event,ball,Ryan Jeffers homers (1) on a fly ball to center field.,2024,Sinker
+SI,621237,680777,No event,called_strike,Ryan Jeffers homers (1) on a fly ball to center field.,2024,Sinker
+FC,621237,680777,No event,ball,Ryan Jeffers homers (1) on a fly ball to center field.,2024,Cutter
+SI,621237,666135,field_out,hit_into_play,"Alex Kirilloff grounds out, first baseman Darick Hall to pitcher José Alvarado.",2024,Sinker
+FC,621237,666135,No event,ball,"Alex Kirilloff grounds out, first baseman Darick Hall to pitcher José Alvarado.",2024,Cutter
+SI,621237,666135,No event,swinging_strike,"Alex Kirilloff grounds out, first baseman Darick Hall to pitcher José Alvarado.",2024,Sinker
+FC,621237,666135,No event,ball,"Alex Kirilloff grounds out, first baseman Darick Hall to pitcher José Alvarado.",2024,Cutter
+SI,621237,666135,No event,foul,"Alex Kirilloff grounds out, first baseman Darick Hall to pitcher José Alvarado.",2024,Sinker
+FC,621237,666135,No event,ball,"Alex Kirilloff grounds out, first baseman Darick Hall to pitcher José Alvarado.",2024,Cutter
+SI,621237,650489,field_out,hit_into_play,Willi Castro pops out to first baseman Darick Hall in foul territory.,2024,Sinker
+SI,621237,679881,force_out,hit_into_play,"J.P. Martínez grounds into a force out, shortstop Rodolfo Castro to second baseman Robert Moore. Bryson Horne out at 2nd.",2024,Sinker
+SI,621237,679881,No event,foul,"J.P. Martínez grounds into a force out, shortstop Rodolfo Castro to second baseman Robert Moore. Bryson Horne out at 2nd.",2024,Sinker
+SI,621237,679881,No event,ball,"J.P. Martínez grounds into a force out, shortstop Rodolfo Castro to second baseman Robert Moore. Bryson Horne out at 2nd.",2024,Sinker
+FC,621237,680672,field_out,hit_into_play,Luke Waddell lines out to shortstop Rodolfo Castro.,2024,Cutter
+FC,621237,680672,No event,foul,Luke Waddell lines out to shortstop Rodolfo Castro.,2024,Cutter
+SI,621237,680672,No event,foul,Luke Waddell lines out to shortstop Rodolfo Castro.,2024,Sinker
+FC,621237,544725,strikeout,swinging_strike,Leury García strikes out swinging.,2024,Cutter
+FC,621237,544725,No event,foul,Leury García strikes out swinging.,2024,Cutter
+SI,621237,544725,No event,foul,Leury García strikes out swinging.,2024,Sinker
+SI,621237,695587,single,hit_into_play,Bryson Horne singles on a ground ball to center fielder Símon Muzziotti.,2024,Sinker
+SI,621237,695587,No event,ball,Bryson Horne singles on a ground ball to center fielder Símon Muzziotti.,2024,Sinker
+SI,621237,669023,field_out,hit_into_play,"Jeter Downs grounds out, third baseman Weston Wilson to first baseman Darick Hall.",2024,Sinker
+SI,621237,669023,No event,ball,"Jeter Downs grounds out, third baseman Weston Wilson to first baseman Darick Hall.",2024,Sinker
+SI,621237,669023,No event,foul,"Jeter Downs grounds out, third baseman Weston Wilson to first baseman Darick Hall.",2024,Sinker
+SI,621237,669023,No event,swinging_strike,"Jeter Downs grounds out, third baseman Weston Wilson to first baseman Darick Hall.",2024,Sinker
+SI,621237,669023,No event,ball,"Jeter Downs grounds out, third baseman Weston Wilson to first baseman Darick Hall.",2024,Sinker
+SI,621237,669023,No event,ball,"Jeter Downs grounds out, third baseman Weston Wilson to first baseman Darick Hall.",2024,Sinker
+FC,621237,656185,walk,ball,Greg Allen walks.,2024,Cutter
+FC,621237,656185,No event,ball,Greg Allen walks.,2024,Cutter
+SI,621237,656185,No event,foul,Greg Allen walks.,2024,Sinker
+SI,621237,656185,No event,called_strike,Greg Allen walks.,2024,Sinker
+SI,621237,656185,No event,ball,Greg Allen walks.,2024,Sinker
+SI,621237,656185,No event,foul,Greg Allen walks.,2024,Sinker
+SI,621237,656185,No event,ball,Greg Allen walks.,2024,Sinker
+SI,621237,670351,field_out,hit_into_play,"Jose Rojas grounds out, second baseman Bryson Stott to first baseman Darick Hall.",2024,Sinker
+SI,621237,670351,No event,called_strike,"Jose Rojas grounds out, second baseman Bryson Stott to first baseman Darick Hall.",2024,Sinker
+SI,621237,670351,No event,ball,"Jose Rojas grounds out, second baseman Bryson Stott to first baseman Darick Hall.",2024,Sinker
+FC,621237,677592,strikeout,swinging_strike,Everson Pereira strikes out swinging.,2024,Cutter
+SI,621237,677592,No event,called_strike,Everson Pereira strikes out swinging.,2024,Sinker
+SI,621237,677592,No event,foul,Everson Pereira strikes out swinging.,2024,Sinker
+SI,621237,677592,No event,ball,Everson Pereira strikes out swinging.,2024,Sinker
+SI,621237,677592,No event,ball,Everson Pereira strikes out swinging.,2024,Sinker
