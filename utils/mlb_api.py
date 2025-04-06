@@ -1,9 +1,20 @@
 #mlb_api.py
+
+'''
+import sys
+import os
+
+# Add the parent directory to the system path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+'''
+
 import requests
 import pandas as pd
 from datetime import datetime
 import json
-import os
+import statsapi
+import pytz
+
 
 # --- Fetch Pitcher Stats from Statcast API ---
 # --- Fetch Batter Stats for Specific Pitch ---
@@ -145,6 +156,10 @@ def fetch_game_lineups_and_stats(game_pk, season="2025"):
         "away_batter_performance": away_batter_performance,
         "home_batter_performance": home_batter_performance
     }
+
+
+
+# --- Get probable pitchers for a specific date ---
 # --- Get probable pitchers for a specific date ---
 def get_probable_pitchers_for_date(date_str):
     """
@@ -165,8 +180,8 @@ def get_probable_pitchers_for_date(date_str):
     # Iterate over games to get the probable pitchers
     for date_info in data.get("dates", []):
         for game in date_info.get("games", []):
-            home_team = game["teams"]["home"]["team"]["name"]
-            away_team = game["teams"]["away"]["team"]["name"]
+            home_team = game.get("home_name", "Unknown")
+            away_team = game.get("away_name", "Unknown")
             
             # Try to get the probable pitchers, or fallback to 'Not Announced'
             home_pitcher = game["teams"]["home"].get("probablePitcher", {}).get("fullName", "Not Announced")
@@ -182,63 +197,106 @@ def get_probable_pitchers_for_date(date_str):
             }
 
     return probable_pitchers
-# --- Get Game State ---
-def get_game_state(game_pk):
-    """
-    Fetches live game state for a given game (e.g., current inning, count, outs, etc.)
-    Queries the MLB Stats API and returns a dictionary with the game state details.
-    """
-    url = f"https://statsapi.mlb.com/api/v1.1/game/{game_pk}/feed/live"
-    response = requests.get(url, timeout=5)  # 5 seconds timeout
+
+
+def parse_boxscore(lines):
+    teams = {}
     
-    if not response.ok:
-        print(f"[ERROR] Failed to fetch game state for gamePk {game_pk}")
-        return None
-
-    data = response.json()
-
-    try:
-        inning = data["liveData"]["linescore"]["currentInning"]
-        half = data["liveData"]["linescore"]["inningState"]
-        count_data = data["liveData"]["plays"]["currentPlay"]["count"]
-        count = f"{count_data.get('balls', 0)}-{count_data.get('strikes', 0)}"
-        outs = count_data.get("outs", 0)
-
-        bases = []
-        runners = data["liveData"]["plays"]["currentPlay"].get("runners", [])
-        for r in runners:
-            base = r.get("movement", {}).get("end", "")
-            if base == "1B":
-                bases.append("1B")
-            elif base == "2B":
-                bases.append("2B")
-            elif base == "3B":
-                bases.append("3B")
-
-        linescore = {
-            "away": {
-                "runs": data["liveData"]["linescore"]["teams"]["away"]["runs"],
-                "hits": data["liveData"]["linescore"]["teams"]["away"]["hits"],
-                "xba": ".000"  # Placeholder for xBA
-            },
-            "home": {
-                "runs": data["liveData"]["linescore"]["teams"]["home"]["runs"],
-                "hits": data["liveData"]["linescore"]["teams"]["home"]["hits"],
-                "xba": ".000"
-            }
+    # The first line contains the headers, skip it
+    header = lines[0]
+    
+    # Parse the data for each team (skipping the first line with headers)
+    for line in lines[1:]:
+        parts = line.split()
+        team_name = parts[0]
+        runs = int(parts[-3])  # R (Runs) is the third last column
+        hits = int(parts[-2])  # H (Hits) is the second last column
+        errors = int(parts[-1])  # E (Errors) is the last column
+        
+        teams[team_name] = {
+            'runs': runs,
+            'hits': hits,
+            'errors': errors
         }
+    # Output the parsed data
 
-        return {
+    return teams
+
+
+
+
+
+
+
+
+
+def get_game_state(game_pk):
+    try:
+        game_data = statsapi.boxscore(game_pk)
+        
+        # Debug: Check if the API returned valid data
+        print("Game Data:", game_data)
+
+        if not game_data:
+            print(f"[ERROR] No data returned for gamePk {game_pk}")
+            return None
+
+        inning = game_data.get("inning", "N/A")
+        half = game_data.get("halfInning", "N/A")
+        away_score = game_data["result"]["awayScore"]
+        home_score = game_data["result"]["homeScore"]
+        
+        # Check if we got valid scores
+        if home_score is None or away_score is None:
+            print(f"[ERROR] Invalid scores: Home: {home_score}, Away: {away_score}")
+            return None
+        
+        # Extract win probabilities
+        home_win_probability = game_data["homeTeamWinProbability"]
+        away_win_probability = game_data["awayTeamWinProbability"]
+        
+        game_state = {
             "inning": inning,
             "half": half,
-            "count": count,
-            "outs": outs,
-            "bases": bases,
-            "linescore": linescore
+            "away_score": away_score,
+            "home_score": home_score,
+            "home_win_probability": home_win_probability,
+            "away_win_probability": away_win_probability
         }
+        
+        return game_state
+
     except Exception as e:
-        print(f"[ERROR] Failed to parse game state: {e}")
+        print(f"[ERROR] Failed to fetch or parse game state for gamePk {game_pk}: {e}")
         return None
+
+def render_scoreboard(game_pk):
+    game_state = get_game_state(game_pk)
+    
+    # Debug: Check if we got valid game state
+    print("Game State for Scoreboard:", game_state)
+
+    if game_state:
+        home_score = game_state.get("home_score", "N/A")
+        away_score = game_state.get("away_score", "N/A")
+        
+        # Ensure valid data is passed to the scoreboard
+        if home_score == "N/A" or away_score == "N/A":
+            print("[ERROR] Missing score data for rendering scoreboard.")
+            return
+
+        # Render the scoreboard (for example purposes, printing it here)
+        print(f"Scoreboard: Home Team: {home_score} - Away Team: {away_score}")
+        
+        # Further rendering logic...
+    else:
+        print("[ERROR] Could not retrieve valid game state to render scoreboard.")
+
+
+
+
+    
+    
 # --- Fetch Live Game Lineups (with pitcher identification) ---
 # --- Fetch Live Game Lineups (with pitcher identification) ---
 def get_live_lineup(game_pk: int, starters_only=True):
@@ -331,7 +389,7 @@ def get_batter_performance_by_pitch(batter_name, pitcher_name, season="2025"):
 
 
 
-
+'''
 
 # List of active MLB teams for 2025 (name or abbreviation)
 MLB_TEAMS_2025 = [
@@ -413,3 +471,4 @@ def get_all_players_for_selected_teams():
     save_players_to_file(all_players)  # Save player data to file
     return all_players
 
+'''

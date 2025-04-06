@@ -5,7 +5,8 @@ import pybaseball
 import pandas as pd
 from datetime import datetime
 import numpy as np
-
+import streamlit as st
+import statsapi
 # Set up logging for debugging
 log_filename = './data/statcast_metrics.log'  # Log file path
 logging.basicConfig(
@@ -17,30 +18,38 @@ logging.basicConfig(
     ]
 )
 
-def calculate_metrics(player_id, start_date='2024-01-01', end_date=None, player_type='batter'):
+    # If no end_date is provided, use today's date
+
+end_date = datetime.today().strftime('%Y-%m-%d')
+
+@st.cache_data
+def calculate_metrics(player_id, start_date='2024-01-01', end_date=None, player_type='None'):
     """
     Calculate K%, OBA, SLG, and other metrics for a given player using their player ID,
     grouped by pitch_name (pitch type).
     """
-    # If no end_date is provided, use today's date
-    if end_date is None:
-        end_date = datetime.today().strftime('%Y-%m-%d')
+    #player_info = game_data.get("playerInfo", {})
+    #player_name = player_info.get(f"ID{player_id}", {}).get("fullName", "Unknown")
 
+    # Fetch Statcast data for the given player ID and date range
     try:
-        # Fetch Statcast data for the given player ID and date range
         if player_type == 'batter':
+            #print('batter statcast for')
+            #print(player_id)
             stats = pybaseball.statcast_batter(start_date, end_date, player_id)
         elif player_type == 'pitcher':
+            #print('pitcher statcast for')
+            #print(player_id)
             stats = pybaseball.statcast_pitcher(start_date, end_date, player_id)
         else:
-            logging.error("Invalid player_type. Should be 'batter' or 'pitcher'.")
+            #logging.error("Invalid player_type. Should be 'batter' or 'pitcher'.")
             return {}
 
-        # Check if the dataframe is empty
+        # If no data is found, return empty metrics with default values
         if stats.empty:
             logging.warning(f"No Statcast data found for player {player_id} ({player_type}) in the specified date range.")
-            return {}
-
+            return
+        
         # Handle missing or empty data
         stats['events'] = stats['events'].fillna('No event')
         stats['description'] = stats['description'].fillna('No decision')
@@ -63,21 +72,21 @@ def calculate_metrics(player_id, start_date='2024-01-01', end_date=None, player_
             foul_balls = 0  # Count for foul balls
             total_ks = 0
             total_pa = len(group)  # Total plate appearances (all rows for this pitch type)
+            at_bats = total_pa  # Set up for at-bats
+            k_percentage = 0
+            putaway_percentage = 0
 
             # Count Hits: Check the "events" column for valid hit events
             hits = group[group['events'].isin(['single', 'double', 'triple', 'home_run'])].shape[0]
-            #logging.debug(f"Hits for {pitch_name}: {hits}")
 
             # Count Walks: Check the "description" column for walks
             walks = group[group['description'].str.contains('walk', case=False, na=False)].shape[0]
-            #logging.debug(f"Walks for {pitch_name}: {walks}")
 
             # Count Hit by Pitches (HBP)
             hbp = group[group['description'].str.contains('hit_by_pitch', case=False, na=False)].shape[0]
-            #logging.debug(f"HBP for {pitch_name}: {hbp}")
 
-            at_bats = total_pa - walks - hbp  # At-bats exclude walks and hit-by-pitches
-            #logging.debug(f"At-Bats for {pitch_name}: {at_bats}")
+            # Remove walks and hit-by-pitches from at-bats calculation
+            at_bats = total_pa - walks - hbp
 
             # Count all strikes (both swinging and looking)
             total_strikes = group[group['description'].str.contains('strike', case=False, na=False)].shape[0]
@@ -88,34 +97,40 @@ def calculate_metrics(player_id, start_date='2024-01-01', end_date=None, player_
                     if row['description'] == 'swinging_strike':  # Swinging strike
                         strikeouts_swinging += 1
                         total_swings += 1  # Increment for swinging strike
+
                     elif row['description'] == 'called_strike':  # Looking strike
                         strikeouts_looking += 1
                     total_ks += 1  # Increment total strikeouts
 
                 elif 'foul' in row['description'].lower():  # Foul ball event (counts as a strike)
-                    foul_balls += 1
-                    total_strikes += 1  # Increment total strikes for foul balls
+                    if row['strikes'] < 2:  # Only count as a strike if there are fewer than 2 strikes
+                        foul_balls += 1
+                        total_strikes += 1  # Increment total strikes for foul balls
 
                 elif row['events'] == 'field_out':  # Field out event (counts as a swing)
                     field_outs += 1
-                    total_strikes += 1  # Increment total strikes for field outs
+                    
+
+            # Debugging log: Check all metrics before calculating K%
+            #logging.debug(f"Player ID {player_id} - {pitch_name} - Stats: {locals()}")
+            
+
+
 
             # Calculate Whiff Rate (Swinging Strikes / Total Swings)
-            total_swinging = strikeouts_swinging + foul_balls + field_outs  # Total swings = swinging strikes + foul balls + field outs
-            whiff_rate = (((total_swings + hits) / total_swinging) * 100) if total_swinging > 0 else 0
-            #logging.debug(f"Whiff Rate for {pitch_name}: {whiff_rate}%")
+            total_swinging = strikeouts_swinging + foul_balls + field_outs + hits  # Total swings = swinging strikes + foul balls + field outs
+            whiff_rate = (((total_swinging - (hits+foul_balls)) / total_swinging) * 100) if total_swinging > 0 else 0.0
 
-            # Calculate K%
-            k_percentage = (strikeouts_swinging + strikeouts_looking) / total_pa * 100 if total_pa > 0 else 0
-            #logging.debug(f"K% for {pitch_name}: {k_percentage}")
+            # Calculate K% (strikeouts / plate appearances)
+            k_percentage = ((total_strikes / total_pa)) * 100 if total_pa > 0 else 0.0
 
-            # Calculate PutAway% (Percentage of strikeouts for this pitch type)
-            putaway_percentage = total_ks / total_strikes * 100 if total_strikes > 0 else 0
-            #logging.debug(f"PutAway% for {pitch_name}: {putaway_percentage}")
+            # Calculate PutAway% (Strikeouts / Total Strikes)
+            putaway_percentage = (((total_ks)/total_pa) * 100) if total_strikes > 0 else 0.0
 
             # Calculate OBA (On-Base Average)
-            oba = (hits + walks + hbp) / (at_bats + walks + hbp) if (at_bats + walks + hbp) > 0 else 0
-            #logging.debug(f"OBA for {pitch_name}: {oba}")
+            oba = (((hits + walks + hbp) / (at_bats + walks + hbp))*10) if (at_bats + walks + hbp) > 0 else 0.000
+
+            
 
             # Calculate SLG (Slugging Average)
             total_bases = (
@@ -124,10 +139,10 @@ def calculate_metrics(player_id, start_date='2024-01-01', end_date=None, player_
                 3 * group[group['events'] == 'triple'].shape[0] +
                 4 * group[group['events'] == 'home_run'].shape[0]
             )
-            slg = total_bases / at_bats if at_bats > 0 else 0
-            #logging.debug(f"SLG for {pitch_name}: {slg}")
+            slg = total_bases / at_bats if at_bats > 0 else 0.000
 
             # Store the calculated metrics for this pitch type
+            
             metrics[pitch_name] = {
                 'player_id': str(player_id),  # Convert player_id to string explicitly
                 'K%': float(k_percentage) if isinstance(k_percentage, np.generic) else float(k_percentage),
@@ -138,17 +153,19 @@ def calculate_metrics(player_id, start_date='2024-01-01', end_date=None, player_
                 'Hits': int(hits) if isinstance(hits, np.generic) else int(hits),
                 'Total Plate Appearances': int(total_pa) if isinstance(total_pa, np.generic) else int(total_pa),
             }
+            
 
 
-
-
-        # Log metrics to the file
-        #logging.info(f"Metrics for player {player_id}: {metrics}")
-        
-        return metrics
+        return metrics    
 
     except Exception as e:
         logging.error(f"Error fetching Statcast data for player ID {player_id}: {e}")
-        return None
-
-
+        return {
+            'K%': 0.0,
+            'Whiff Rate': 0.0,
+            'PutAway%': 0.0,
+            'OBA': 0.000,
+            'SLG': 0.000,
+            'Hits': 0,
+            'Total Plate Appearances': 0
+        }

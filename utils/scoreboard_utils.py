@@ -1,6 +1,12 @@
+import sys
+import os
+
+# Add the parent directory to the system path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from datetime import datetime
 from utils.mlb_api import get_game_state
-from utils.schedule_utils import get_schedule
+from utils.schedule_utils import fetch_and_return_schedule
 from streamlit_autorefresh import st_autorefresh
 import streamlit as st
 import pytz
@@ -82,7 +88,7 @@ def render_scoreboard(game_pk, home_team="Home", away_team="Away", autorefresh=T
 
     # --- Scheduled Time Display ---
     game_time_display = "Scheduled"
-    schedule_df = get_schedule()
+    schedule_df = fetch_and_return_schedule()
     game_row = schedule_df[schedule_df["gamePk"] == game_pk]
     if not game_row.empty:
         try:

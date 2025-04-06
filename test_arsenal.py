@@ -1,20 +1,27 @@
-import requests
+import statsapi
+from datetime import datetime
 
-# Replace with the player ID you want to test
-player_id = '694973'  # Example player ID, replace it with a valid ID
+def fetch_schedule_for_today():
+    """Fetches the MLB schedule for today."""
+    try:
+        today_date = datetime.today().strftime('%Y-%m-%d')
+        schedule = statsapi.schedule(date=today_date)
+        if not schedule:
+            print(f"[ERROR] No games found for today ({today_date}).")
+            return None
+        print(f"[DEBUG] Schedule fetched successfully for {today_date}")
+        return schedule
+    except Exception as e:
+        print(f"[ERROR] Failed to fetch schedule for {today_date}: {e}")
+        return None
 
-# Define the base URL for the API
-base_url = f"https://statsapi.mlb.com/api/v1/pitcher/{player_id}/arsenal"
+if __name__ == "__main__":
+    # Fetch the schedule for today
+    schedule = fetch_schedule_for_today()
 
-# Make a request to the API
-response = requests.get(base_url)
-
-# Check if the request was successful (HTTP 200)
-if response.status_code == 200:
-    print("Pitcher Arsenal Data:")
-    # Print out the JSON response if successful
-    pitcher_data = response.json()
-    print(pitcher_data)
-else:
-    print(f"Failed to retrieve data. Status code: {response.status_code}")
-    print(f"Error: {response.text}")
+    # Print the raw unformatted data (the entire response)
+    if schedule:
+        print("[DEBUG] Raw Schedule Data:")
+        print(schedule)  # Print the raw data from the API response
+    else:
+        print("[ERROR] No schedule data found.")

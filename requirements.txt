@@ -1,0 +1,10 @@
+streamlit>=1.26
+pandas
+numpy
+openpyxl
+pybaseball
+pytz
+requests
+streamlit_autorefresh
+MLB-StatsAPI
+pytest

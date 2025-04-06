@@ -16,30 +16,35 @@ PITCH_TYPE_MAP = {
 @st.cache_data(ttl=600)
 def get_pitcher_stats(pitcher_id: int, start_date="2024-03-01", end_date=None) -> pd.DataFrame:
     """
-    Fetches pitcher stats using the pitcher's ID.
+    Fetches pitcher stats using the pitcher's ID, avoiding the need to split a name.
     """
     try:
-        # Fetch pitcher stats by ID
+        # Use the function from mlb_api to get pitcher stats by ID
         df = get_pitcher_arsenal_from_statcast(pitcher_id, start_date, end_date)
         if df.empty:
             return pd.DataFrame()
         
         return df
     except Exception as e:
+        # In case of error, return an empty dataframe
         st.error(f"Error fetching pitcher stats: {e}")
         return pd.DataFrame()
 
 
+
 @st.cache_data(ttl=600)
-def get_batter_k_rate_by_pitch(batter_id: int, start_date="2024-03-01", end_date=None) -> dict:
-    """
-    Fetches the batter's K rate by pitch type, using the batter's ID.
-    """
+def get_batter_k_rate_by_pitch(batter_name: str, start_date="2024-03-01", end_date=None) -> dict:
+    try:
+        first, last = batter_name.strip().split(" ", 1)
+    except ValueError:
+        return {}
+
+    batter_id = get_player_id(first, last)
     if not batter_id:
         return {}
 
     # Get the batter's performance data using the function from mlb_api
-    df = get_batter_performance_by_pitch(batter_id, start_date, end_date)
+    df = get_batter_performance_by_pitch(batter_name, batter_id, start_date, end_date)
     if df.empty or "pitch_type" not in df.columns:
         return {}
 
@@ -81,7 +86,6 @@ def get_batter_metrics_by_pitch(batter_id: int, start_date="2024-03-01", end_dat
     summary.index = summary.index.map(lambda code: PITCH_TYPE_MAP.get(code, code))
     return summary.reset_index().rename(columns={"index": "pitch_type"})
 
-
 def get_pitcher_arsenal_stats(player_id: int, start_date="2024-03-01", end_date=None) -> pd.DataFrame:
     if not end_date:
         end_date = datetime.now().strftime("%Y-%m-%d")
@@ -94,8 +98,6 @@ def get_pitcher_arsenal_stats(player_id: int, start_date="2024-03-01", end_date=
     df = df[df["pitch_type"].notna()]
     grouped = df.groupby("pitch_type")
 
-
-'''
     summary = grouped.agg(
         PA=("batter", "count"),
         BA=("estimated_ba_using_speedangle", "mean"),
@@ -112,4 +114,3 @@ def get_pitcher_arsenal_stats(player_id: int, start_date="2024-03-01", end_date=
 
     summary.index = summary.index.map(lambda code: PITCH_TYPE_MAP.get(code, code))
     return summary.reset_index().rename(columns={"index": "pitch_type"})
-'''

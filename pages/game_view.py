@@ -1,171 +1,283 @@
-#game_view
-
 import sys
 import os
-import requests
 
 # Add the parent directory to the system path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-import numpy as np
-from utils.probable_pitcher_utils import get_probable_pitchers
-from utils.boxscore_utils import get_active_pitchers
-from utils.metrics_table_util import generate_player_metrics_table  # Import the table utility
-from concurrent.futures import ThreadPoolExecutor
-from urllib.parse import unquote, quote
-import pandas as pd
-import pytz
-import streamlit as st
-from datetime import datetime
-import logging
-from utils.style_utils import get_red_shade, get_pitcher_red_green_shade, get_pitcher_blue_red_shade
-from utils.lineup_utils import get_game_lineups, get_live_lineup
-from utils.calculate_util import calculate_metrics
-from utils.lookup_utils import get_player_id_by_name
-from utils.mlb_api import get_probable_pitchers_for_date, get_game_state, get_pitcher_arsenal_from_statcast
-from utils.style_helpers import sanitize_numeric_columns
-from utils.scoreboard_utils import render_scoreboard
-from utils.formatting_utils import format_baseball_stats
+print(sys.path)
 
-# Logging configuration
-log_filename = './data/statcast_metrics.log'
+#import warnings
+import logging
+import streamlit as st
+import statsapi
+from utils.metrics_table_util import generate_player_metrics_table  # Assuming you have a utility to generate the tables
+#from utils.stat_utils import get_pitcher_stats
+from utils.calculate_util import calculate_metrics
+import utils.last_lineup
+from datetime import datetime
+import asyncio
+from concurrent.futures import ThreadPoolExecutor
+
+#warnings.filterwarnings('ignore', message='.st.experimental_get_query_params.*')
+
+# Streamlit page configuration
+st.set_page_config(page_title="Game View", layout="wide")
+
+global home_lineup_flag
+global away_lineup_flag
+global home_pitchers_flag
+global away_pitchers_flag
+
+
+home_lineup_flag = 0
+away_lineup_flag = 0
+home_pitchers_flag = 0
+away_pitchers_flag = 0
+
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.StreamHandler(),
-        logging.FileHandler(log_filename, mode='w')
+        logging.StreamHandler(),  # For console output
     ]
 )
 
-# Streamlit page config
-st.set_page_config(page_title="Game View", layout="wide")
+executor = ThreadPoolExecutor(max_workers=10)
 
-# Query Parameters and Time Conversion
-query_params = st.query_params
-home = unquote(query_params.get("home", "Unknown"))
-away = unquote(query_params.get("away", "Unknown"))
-game_time_utc = query_params.get("time", "Unknown")
+# Fetch the raw query string
+raw_query = st.experimental_get_query_params()  # Raw query params without any processing
+home_team = raw_query.get('home', ['Unknown'])[0]
+away_team = raw_query.get('away', ['Unknown'])[0]
+game_id = raw_query.get('game_id', ['Unknown'])[0]
+game_time = raw_query.get('time', ['Unknown'])[0]
 
-# Convert UTC time to Eastern Time
-try:
-    utc_dt = datetime.fromisoformat(game_time_utc.replace("Z", "+00:00"))
-    eastern = pytz.timezone("US/Eastern")
-    est_dt = utc_dt.astimezone(eastern)
-    formatted_time = est_dt.strftime("%B %d, %Y at %I:%M %p EST")
-    date_only = est_dt.strftime("%Y-%m-%d")
-except Exception:
-    formatted_time = game_time_utc
-    date_only = game_time_utc.split("T")[0] if "T" in game_time_utc else "Unknown"
 
-# Page Header
-st.title(f"\U0001F3DF️ {away} @ {home}")
-st.markdown(f"\U0001F552 **Game Time:** {formatted_time}")
-st.markdown("---")
 
-# Get GamePK & Lineups
-lineup_map = get_game_lineups(date_only)
-game_pk = lineup_map.get(f"{away} @ {home}", {}).get("gamePk")
+# Global dictionary to store player IDs for future use
+player_ids = {
+    'home_batting': [],
+    'away_batting': [],
+    'home_pitchers': [],
+    'away_pitchers': [],
+    'home_bullpen': [],
+    'away_bullpen': [],
+    'home_bench': [],
+    'away_bench': []
+}
 
-# Call the get_probable_pitchers function with the gamePk
-pitchers = get_probable_pitchers(game_pk)
+# Initialize player_names dictionary to store player names
+player_names = {
+    'home_batting': {},
+    'away_batting': {},
+    'home_pitchers': {},
+    'away_pitchers': {},
+    'home_bullpen': {},
+    'away_bullpen': {},
+    'home_bench': {},
+    'away_bench': {}
+}
 
-# Live active lineup (9 players only)
-away_lineup_raw, home_lineup_raw = get_live_lineup(game_pk, starters_only=True) if game_pk else ([], [])
+start_date = '2024-01-01'
+end_date = datetime.today().strftime('%Y-%m-%d')
 
-away_pitcher_id, home_pitcher_id = get_active_pitchers(game_pk)
+# Fetch game data using the game_id
+@st.cache_resource
+def fetch_game_data(game_id):
+    try:
+        game_data = statsapi.boxscore_data(game_id)
+        #st.write(game_data)
+        if game_data:
+            home_team_data = game_data.get("home", {})
+            away_team_data = game_data.get("away", {})
+            home_team_id = home_team_data.get('team', {}).get('id', None)
+            #st.write(home_team_id)
+            away_team_id = away_team_data.get('team', {}).get('id', None)
+            #st.write(away_team_id)
+            player_info = game_data.get("playerInfo", {})
+            logging.debug(f"Got Home Away Data and player info")
 
-# Output the pitcher IDs for debugging
-st.write(f"Away Pitcher ID: {away_pitcher_id}")
-st.write(f"Home Pitcher ID: {home_pitcher_id}")
+            if isinstance(home_team_data, dict) and isinstance(away_team_data, dict):
+                # Make sure these variables are always lists, not sets or strings.
+                home_batting_order = list(home_team_data.get("battingOrder", []))
+                if len(home_batting_order) == 0:
+                    home_batting_order=list(get_last_batting_order(home_team_id))
+                    home_lineup_flag = 1
+                    print(home_batting_order)
+                else:
+                    return
 
-# Render Scoreboard
-if game_pk:
-    render_scoreboard(game_pk, home_team=home, away_team=away)
+                away_batting_order = list(away_team_data.get("battingOrder", []))
+                if len(away_batting_order) == 0:
+                    away_batting_order=list(get_last_batting_order(away_team_id))
+                    away_lineup_flag = 1
+                else:
+                    return
 
-st.write("gamePk:", game_pk)
 
-# Create a list (matrix) to store player IDs
-player_ids = []
+                home_pitchers = list(home_team_data.get("pitchers", []))
 
-# Function to extract player IDs from the lineups and log failures
-def get_player_ids_from_lineup(lineup):
-    player_ids = []
-    for player in lineup:
-        player_name = player.split(" - ")[0].strip()
-        player_id = get_player_id_by_name(player_name)
-        
-        # Debugging: Log if player_id is None
-        if player_id is None:
-            st.warning(f"Could not find player ID for: {player_name}")
+                away_pitchers = list(away_team_data.get("pitchers", []))
+
+                home_pitcher = home_pitchers[0] if home_pitchers else 'Unknown'
+                away_pitcher = away_pitchers[0] if away_pitchers else 'Unknown'
+
+                # If no pitchers are found, use the schedule API to fetch the probable pitchers
+                if home_pitcher == 'Unknown' or away_pitcher == 'Unknown':
+                    
+                    # Fetch the schedule for the given game date and game_id
+                    schedule = statsapi.schedule('2025-04-06', game_id=game_id)
+                    
+                    for game in schedule:
+                        home_pitcher = game.get('home_probable_pitcher', 'Unknown')
+                        away_pitcher = game.get('away_probable_pitcher', 'Unknown')
+                        print('probable pitchers: ')
+                        print(f"Away: " - {away_pitcher})
+                        print(f"Home: " - {home_pitcher})
+
+                home_bench = list(home_team_data.get("bench", []))
+                away_bench = list(away_team_data.get("bench", []))
+                home_bullpen = list(home_team_data.get("bullpen", []))
+                away_bullpen = list(away_team_data.get("bullpen", []))
+
+                # Fill player_ids dictionary
+                player_ids['home_batting'] = home_batting_order
+                player_ids['away_batting'] = away_batting_order
+                player_ids['home_pitchers'] = home_pitchers
+                player_ids['away_pitchers'] = away_pitchers
+                player_ids['home_bench'] = home_bench
+                player_ids['away_bench'] = away_bench
+                player_ids['home_bullpen'] = home_bullpen
+                player_ids['away_bullpen'] = away_bullpen
+                logging.debug(f"Player IDs {home_batting_order} - {away_batting_order} - {home_pitchers} - {away_pitchers} - {home_bench} - {away_bench} - {home_bullpen} - {away_bullpen}")
+
+                # Now calculate max_count safely
+                max_count = len(home_batting_order + away_batting_order + home_pitchers + away_pitchers + home_bench + away_bench + home_bullpen + away_bullpen)
+                logging.debug(f"max count: {max_count}")
+                counter = 0
+
+                # Initialize player_names dictionary to store player names
+                def get_player_names(player_list, team_key):
+                    nonlocal counter
+                    for player_id in player_list:
+                        if player_id:  # Skip invalid player IDs
+                            # Check if we've reached max_count
+                            if counter >= max_count:
+                                break
+
+                            # Retrieve the player name based on player_id
+                            player_name = player_info.get(f"ID{player_id}", {}).get("fullName", "Unknown")
+                            logging.debug(f"Got player name for ID {player_id}: {player_name}")
+                            
+                            # Instead of appending to player_names, store the name linked to the player_id
+                            player_names[team_key][player_id] = player_name
+
+                            counter += 1  # Increment the counter
+                            logging.debug(f"counter: {counter}")
+
+                # Get player names for each category
+                get_player_names(home_batting_order,'home_batting')
+                get_player_names(away_batting_order,'away_batting')
+                get_player_names(home_pitchers,'home_pitchers')
+                get_player_names(away_pitchers,'away_pitchers')
+                get_player_names(home_bench,'home_bench')
+                get_player_names(away_bench,'away_bench')
+                get_player_names(home_bullpen,'home_bullpen')
+                get_player_names(away_bullpen,'away_bullpen')
+
+                #st.write(player_names)
+
+                stat_counter = 0
+                max_count = 52
+                player_metrics_combined = {}
+
+                # Track progress with the player stats
+                def get_stats_for_player(player_list, player_type):
+                    nonlocal stat_counter
+                    for stat_counter, player_id in enumerate(player_list):
+                        if stat_counter >= max_count:  # Break once we reach the max_count
+                            break
+                        if player_id:  # Skip invalid player IDs
+                            stats = calculate_metrics(player_id, start_date, end_date, player_type)
+                            stat_counter += 1
+                            logging.debug(f"stat counter {stat_counter}")
+                            if stats:
+                                player_metrics_combined[player_id] = stats
+                            else:
+                                st.write(f"Warning: No stats found for player {player_id} ({player_type})")
+
+                print('Initializing stat counter')
+                
+                batting_counter_max = len(home_batting_order + away_batting_order + home_bench + away_bench)
+                print("batting counter max")
+                print(batting_counter_max)
+
+                pitching_counter_max = len(home_pitchers + away_pitchers + home_bullpen + away_bullpen)
+                print("pitching counter max")
+                print(pitching_counter_max)
+
+                pitching_counter = 0
+                batting_counter = 0
+
+                if batting_counter < batting_counter_max:
+                    logging.debug("getting batter stats")
+                    get_stats_for_player(home_batting_order + away_batting_order + home_bench + away_bench, 'batter')
+                    batting_counter += 1
+                else:
+                    print("got all batter stats")
+                    return
+
+                if pitching_counter < pitching_counter_max:
+                    print("getting pitcher stats")
+                    get_stats_for_player(home_pitchers + away_pitchers + home_bullpen + away_bullpen, 'pitcher')
+                    pitching_counter += 1
+                else:
+                    print("got all pitcher stats")
+                    return
+
+                #st.write(player_metrics_combined)
+
+                # Render Game Time
+                st.write(f"### Game Time: {game_time}")
+
+                # Add a space between game time and the teams
+                st.markdown("---")
+
+                
+
+                # Add two columns below the game time to show teams
+                col1, col2 = st.columns([1, 1])
+
+                # Render away team in the left column
+                with col1:
+                    st.write(f"## Away Team: {away_team}")
+                    st.write(f"#### Pitcher: {away_pitcher}")
+
+                    # Example of rendering the batting stats for the away team
+                    st.write(f"##### Batting Stats for Away Team")
+                    for player_id, player_name in zip(player_ids['away_batting'], player_names['away_batting'].values()):
+                        st.write(f"{player_name} (ID: {player_id})")
+                    # Render more stats as needed, e.g., calculate_metrics(player_id)
+                    
+                # Render home team in the right column
+                with col2:
+                    st.write(f" ")
+                    st.write(f"## Home Team: {home_team}")
+                    st.write(f"### Pitcher: {home_pitcher}")
+
+                    # Example of rendering the batting stats for the home team
+                    st.write(f"#### Batting Stats for Home Team")
+                    for player_id, player_name in zip(player_ids['home_batting'], player_names['home_batting'].values()):
+                        st.write(f"{player_name} (ID: {player_id})")
+                        # Render more stats as needed, e.g., calculate_metrics(player_id)
+
+            else:
+                st.write("Invalid game data format.")
         else:
-            player_ids.append(player_id)
-    return player_ids
+            st.write("No data found for this game.")
+    except Exception as e:
+        st.error(f"Error fetching game data: {e}")
 
-# Extract player IDs for both teams
-away_player_ids = get_player_ids_from_lineup(away_lineup_raw)
-home_player_ids = get_player_ids_from_lineup(home_lineup_raw)
+# If game_id is provided, fetch and display game data using the existing event loop
+if game_id:
+    fetch_game_data(game_id)
 
-# Combine both away and home player IDs into a single list
-player_ids = away_player_ids + home_player_ids
-
-# Log player IDs for debugging
-st.write(f"Away Player IDs: {away_player_ids}")
-st.write(f"Home Player IDs: {home_player_ids}")
-
-# Fetch the player metrics for all players
-@st.cache_data
-def fetch_player_metrics(player_ids):
-    metrics = {}
-    for player_id in player_ids:
-        player_metrics = calculate_metrics(player_id)
-        
-        # Log fetched metrics for debugging
-        st.write(f"Fetched metrics for Player ID {player_id}: {player_metrics}")
-
-        if player_metrics:
-            # Flatten and convert the metrics to serializable types
-            for pitch_name, stats in player_metrics.items():
-                metrics[pitch_name] = {
-                    'player_id': str(stats['player_id']),
-                    'K%': float(stats['K%']) if isinstance(stats['K%'], (np.generic, float)) else float(stats['K%']),
-                    'Whiff Rate': float(stats['Whiff Rate']) if isinstance(stats['Whiff Rate'], (np.generic, float)) else float(stats['Whiff Rate']),
-                    'PutAway%': float(stats['PutAway%']) if isinstance(stats['PutAway%'], (np.generic, float)) else float(stats['PutAway%']),
-                    'OBA': float(stats['OBA']) if isinstance(stats['OBA'], (np.generic, float)) else float(stats['OBA']),
-                    'SLG': float(stats['SLG']) if isinstance(stats['SLG'], (np.generic, float)) else float(stats['SLG']),
-                    'Hits': int(stats['Hits']) if isinstance(stats['Hits'], (np.generic, int)) else int(stats['Hits']),
-                    'Total Plate Appearances': int(stats['Total Plate Appearances']) if isinstance(stats['Total Plate Appearances'], (np.generic, int)) else int(stats['Total Plate Appearances'])
-                }
-    return metrics
-
-# Fetch the metrics for all players (including pitchers)
-player_metrics = fetch_player_metrics(player_ids)
-
-# Log the player metrics data for debugging
-st.write(f"Player Metrics Data: {player_metrics}")
-
-# Fetch and display pitcher metrics similarly to how player metrics are handled
-def display_pitcher_metrics(player_metrics, pitcher_id, team_name):
-    if pitcher_id and pitcher_id in player_metrics:
-        pitcher_data = player_metrics[pitcher_id]
-        st.subheader(f"{team_name} Pitcher Metrics")
-
-        # Log the pitcher metrics for debugging
-        st.write(f"Pitcher Metrics for {team_name}: {pitcher_data}")
-
-        # Generate and display the pitcher metrics table using the utility function
-        pitcher_metrics_table = generate_player_metrics_table([pitcher_id])
-        
-        # Log the generated table for debugging
-        st.write(f"Generated Pitcher Metrics Table: {pitcher_metrics_table}")
-        
-        st.dataframe(pitcher_metrics_table)  # Display the pitcher metrics as a table
-    else:
-        st.warning(f"No metrics found for {team_name} pitcher")
-
-# Display away pitcher metrics if available
-if away_pitcher_id:
-    display_pitcher_metrics(player_metrics, away_pitcher_id, away)
-
-# Display home pitcher metrics if available
-if home_pitcher_id:
-    display_pitcher_metrics(player_metrics, home_pitcher_id, home)
+    

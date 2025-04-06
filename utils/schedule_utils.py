@@ -1,92 +1,63 @@
-import os
+import statsapi
 import json
-import requests
+import logging
 from datetime import datetime
-import pandas as pd
 
-CACHE_DIR = "cached_schedules"
+# Set up logging for debugging
+logging.basicConfig(level=logging.DEBUG)
 
-def fetch_schedule_by_date(date, force_refresh=False):
-    date_str = date.strftime("%Y-%m-%d")
-    cache_file = os.path.join(CACHE_DIR, f"{date_str}.json")
-
-    if not force_refresh and os.path.exists(cache_file):
-        try:
-            with open(cache_file, "r") as f:
-                return json.load(f)
-        except Exception as e:
-            print(f"[WARN] Failed to load cache for {date_str}: {e}")
-
-    print(f"[FETCHING] Using MLB API for {date_str}")
-    url = f"https://statsapi.mlb.com/api/v1/schedule?sportId=1&date={date_str}"
+def fetch_schedule_for_date(date_str):
+    """Fetches the MLB schedule for a given date."""
     try:
-        response = requests.get(url)
-        data = response.json()
-
-        games = []
-        for date_data in data.get("dates", []):
-            for game in date_data.get("games", []):
-                games.append({
-                    "gamePk": game.get("gamePk"),
-                    "home": game["teams"]["home"]["team"]["name"],
-                    "opponent": game["teams"]["away"]["team"]["name"],
-                    "time": game.get("gameDate", ""),
-                    "status": game.get("status", {}).get("detailedState", "")
-                })
-
-        # Cache result
-        os.makedirs(CACHE_DIR, exist_ok=True)
-        with open(cache_file, "w") as f:
-            json.dump(games, f)
-
-        print(f"[CACHED] {len(games)} games saved for {date_str}")
-        return games
-
+        # Use statsapi to fetch the schedule for the specific date
+        schedule = statsapi.schedule(date=date_str)
+        if not schedule:
+            print(f"[ERROR] No games found for {date_str}.")
+            return None
+        print(f"[DEBUG] Schedule fetched successfully for {date_str}")
+        return schedule
     except Exception as e:
-        print(f"[ERROR] Failed to fetch from MLB API for {date_str}: {e}")
-        return []
+        print(f"[ERROR] Failed to fetch schedule for {date_str}: {e}")
+        return None
+
+def extract_game_details(schedule):
+    """Extracts game details including teams, time, and game ID."""
+    game_details = []
+    if schedule:
+        for game in schedule:
+            # Extract game details
+            home_team = game.get("home_name", "Unknown")
+            away_team = game.get("away_name", "Unknown")
+            game_time = game.get("game_date", "TBD")
+            game_id = game.get("game_id", "Unknown")
+
+            # Append to the list as a dictionary
+            game_details.append({
+                "home_team": home_team,
+                "away_team": away_team,
+                "game_time": game_time,
+                "game_id": game_id
+            })
+    else:
+        print("[ERROR] No schedule to extract.")
+
+    return game_details
+
+def fetch_and_return_schedule(date_str):
+    """Fetches the schedule for a given date and returns the game details as a list of dictionaries."""
+    # Fetch the schedule for the selected date
+    schedule = fetch_schedule_for_date(date_str)
+
+    # Extract game details
+    return extract_game_details(schedule)
 
 
 
-def get_schedule():
-    all_games = []
-    from datetime import datetime, timedelta
-    import os
+# Example usage: Calling the function with any dynamic date
+if __name__ == "__main__":
+    # Pass in any date dynamically here
+    selected_date = "2025-04-05"  # Example date
+    game_data = fetch_and_return_schedule(selected_date)
 
-    for offset in [0, 1]:  # Today and Tomorrow
-        target_date = (datetime.utcnow() + timedelta(days=offset)).date()
-        cache_file = os.path.join(CACHE_DIR, f"{target_date}.json")
-        games = []
-
-        # Try to load from cache
-        if os.path.exists(cache_file):
-            try:
-                with open(cache_file, "r") as f:
-                    games = json.load(f)
-            except Exception as e:
-                print(f"[WARN] Failed to load cache: {e}")
-
-        # Fallback to live fetch if cache is missing or empty
-        if not games:
-            print(f"[FALLBACK] Fetching schedule for {target_date}")
-            games = fetch_schedule_by_date(datetime.combine(target_date, datetime.min.time()), force_refresh=True)
-
-        # Add game metadata
-        # Add game metadata
-        for game in games:
-            try:
-                game["Date"] = pd.to_datetime(game.get("time"), utc=True)
-            except Exception:
-                game["Date"] = pd.NaT
-
-            game["Home"] = game.get("home", "Unknown")
-            game["Away"] = game.get("opponent", "Unknown")
-            all_games.append(game)
-
-
-    if not all_games:
-        return pd.DataFrame()
-
-    df = pd.DataFrame(all_games)
-    df["Date"] = pd.to_datetime(df["Date"], errors="coerce", utc=True)
-    return df.dropna(subset=["Date"])
+    # Print the extracted data for debugging or other use
+    print(f"Extracted Game Data: {json.dumps(game_data, indent=2)}")
